@@ -1,0 +1,573 @@
+DEBUG:root:start time:2020-05-20 15:48:43
+INFO:root:currect file name:猫.jpg
+INFO:root:Reading the file. This may take a few mintues
+DEBUG:root:Input file has 279603 bytes
+DEBUG:root:Padded the file with 13 zero to have a round number of blocks of data
+INFO:root:File MD5 is a4d79ce1731fe7aff1998a3da0553b27
+INFO:root:There are 8738 input segments
+INFO:root:Upper bounds on packets for decoding is 9356 (x1.070763)  with 0.001000 probability
+
+
+Valid oligos: 100%|█████████▉| 31656/31790 [00:46<00:00, 810.00it/s]
+Valid oligos: 100%|█████████▉| 31738/31790 [00:46<00:00, 740.21it/s]
+Valid oligos: 100%|██████████| 31790/31790 [00:46<00:00, 682.68it/s]
+INFO:root:Finished. Generated 31790 packets out of 258522 tries (0.123)
+DEBUG:root:encode cost time:46.6058671474s
+INFO:root:After reading 1000 lines, 11 chunks are done. So far: 10 rejections (0.010000) 1000 barcodes
+INFO:root:After reading 2000 lines, 14 chunks are done. So far: 21 rejections (0.010500) 2000 barcodes
+INFO:root:After reading 3000 lines, 19 chunks are done. So far: 34 rejections (0.011333) 3000 barcodes
+INFO:root:After reading 4000 lines, 25 chunks are done. So far: 42 rejections (0.010500) 4000 barcodes
+INFO:root:After reading 5000 lines, 34 chunks are done. So far: 65 rejections (0.013000) 5000 barcodes
+INFO:root:After reading 6000 lines, 51 chunks are done. So far: 83 rejections (0.013833) 6000 barcodes
+INFO:root:After reading 7000 lines, 77 chunks are done. So far: 104 rejections (0.014857) 7000 barcodes
+INFO:root:After reading 8000 lines, 114 chunks are done. So far: 119 rejections (0.014875) 8000 barcodes
+INFO:root:After reading 9000 lines, 291 chunks are done. So far: 134 rejections (0.014889) 9000 barcodes
+INFO:root:After reading 9970 lines, 8738 chunks are done. So far: 158 rejections (0.015848) 9970 barcodes
+INFO:root:Done!
+INFO:root:MD5 is a4d79ce1731fe7aff1998a3da0553b27
+DEBUG:root:dncode cost time:10.0576639175s
+DEBUG:root:end time:2020-05-20 15:49:40
+DEBUG:root:cost time:56.663531065s
+DEBUG:root:start time:2020-05-20 15:49:40
+INFO:root:currect file name:天安门.jpg
+INFO:root:Reading the file. This may take a few mintues
+DEBUG:root:Input file has 339509 bytes
+DEBUG:root:Padded the file with 11 zero to have a round number of blocks of data
+INFO:root:File MD5 is 3402d7f3fbae367c76c8349163a23d1d
+INFO:root:There are 10610 input segments
+INFO:root:Upper bounds on packets for decoding is 11307 (x1.065766)  with 0.001000 probability
+
+
+Valid oligos: 100%|█████████▉| 31636/31790 [00:48<00:00, 712.19it/s]
+Valid oligos: 100%|█████████▉| 31713/31790 [00:48<00:00, 721.86it/s]
+Valid oligos: 100%|█████████▉| 31786/31790 [00:48<00:00, 715.39it/s]
+Valid oligos: 100%|██████████| 31790/31790 [00:48<00:00, 658.67it/s]
+INFO:root:Finished. Generated 31790 packets out of 255717 tries (0.124)
+DEBUG:root:encode cost time:48.307338953s
+INFO:root:After reading 1000 lines, 6 chunks are done. So far: 25 rejections (0.025000) 1000 barcodes
+INFO:root:After reading 2000 lines, 8 chunks are done. So far: 38 rejections (0.019000) 2000 barcodes
+INFO:root:After reading 3000 lines, 12 chunks are done. So far: 61 rejections (0.020333) 3000 barcodes
+INFO:root:After reading 4000 lines, 17 chunks are done. So far: 78 rejections (0.019500) 4000 barcodes
+INFO:root:After reading 5000 lines, 18 chunks are done. So far: 91 rejections (0.018200) 5000 barcodes
+INFO:root:After reading 6000 lines, 24 chunks are done. So far: 102 rejections (0.017000) 6000 barcodes
+INFO:root:After reading 7000 lines, 58 chunks are done. So far: 117 rejections (0.016714) 7000 barcodes
+INFO:root:After reading 8000 lines, 78 chunks are done. So far: 131 rejections (0.016375) 8000 barcodes
+INFO:root:After reading 9000 lines, 110 chunks are done. So far: 144 rejections (0.016000) 9000 barcodes
+INFO:root:After reading 10000 lines, 193 chunks are done. So far: 162 rejections (0.016200) 10000 barcodes
+INFO:root:After reading 11000 lines, 603 chunks are done. So far: 176 rejections (0.016000) 11000 barcodes
+INFO:root:After reading 11767 lines, 10610 chunks are done. So far: 196 rejections (0.016657) 11767 barcodes
+INFO:root:Done!
+INFO:root:MD5 is 3402d7f3fbae367c76c8349163a23d1d
+DEBUG:root:dncode cost time:10.8072550297s
+DEBUG:root:end time:2020-05-20 15:50:39
+DEBUG:root:cost time:59.1145939827s
+DEBUG:root:start time:2020-05-20 15:50:39
+INFO:root:currect file name:微软.jpg
+INFO:root:Reading the file. This may take a few mintues
+DEBUG:root:Input file has 16282 bytes
+DEBUG:root:Padded the file with 6 zero to have a round number of blocks of data
+INFO:root:File MD5 is 62ded427d319ef283f6c55cf23d2eb24
+INFO:root:There are 509 input segments
+INFO:root:Upper bounds on packets for decoding is 610 (x1.199484)  with 0.001000 probability
+
+
+Valid oligos: 100%|█████████▉| 31700/31790 [00:43<00:00, 682.34it/s]
+Valid oligos: 100%|█████████▉| 31772/31790 [00:44<00:00, 692.00it/s]
+Valid oligos: 100%|██████████| 31790/31790 [00:44<00:00, 721.08it/s]
+INFO:root:Finished. Generated 31790 packets out of 270115 tries (0.118)
+DEBUG:root:encode cost time:44.0915920734s
+INFO:root:After reading 662 lines, 509 chunks are done. So far: 14 rejections (0.021148) 662 barcodes
+INFO:root:Done!
+INFO:root:MD5 is 62ded427d319ef283f6c55cf23d2eb24
+DEBUG:root:dncode cost time:0.310369968414s
+DEBUG:root:end time:2020-05-20 15:51:23
+DEBUG:root:cost time:44.4019620419s
+DEBUG:root:start time:2020-05-20 15:51:23
+INFO:root:currect file name:五四广场.jpg
+INFO:root:Reading the file. This may take a few mintues
+DEBUG:root:Input file has 70920 bytes
+DEBUG:root:Padded the file with 24 zero to have a round number of blocks of data
+INFO:root:File MD5 is 721e6ab36c17972c06aff6397593618f
+INFO:root:There are 2217 input segments
+INFO:root:Upper bounds on packets for decoding is 2478 (x1.117753)  with 0.001000 probability
+
+
+Valid oligos: 100%|█████████▉| 31639/31790 [00:44<00:00, 763.32it/s]
+Valid oligos: 100%|█████████▉| 31716/31790 [00:44<00:00, 744.16it/s]
+Valid oligos: 100%|██████████| 31790/31790 [00:44<00:00, 711.41it/s]
+INFO:root:Finished. Generated 31790 packets out of 258269 tries (0.123)
+DEBUG:root:encode cost time:44.6972899437s
+INFO:root:After reading 1000 lines, 7 chunks are done. So far: 14 rejections (0.014000) 1000 barcodes
+INFO:root:After reading 2000 lines, 32 chunks are done. So far: 41 rejections (0.020500) 2000 barcodes
+INFO:root:After reading 2589 lines, 2217 chunks are done. So far: 47 rejections (0.018154) 2589 barcodes
+INFO:root:Done!
+INFO:root:MD5 is 721e6ab36c17972c06aff6397593618f
+DEBUG:root:dncode cost time:1.7167570591s
+DEBUG:root:end time:2020-05-20 15:52:09
+DEBUG:root:cost time:46.4140470028s
+DEBUG:root:start time:2020-05-20 15:52:09
+INFO:root:currect file name:华为.jpg
+INFO:root:Reading the file. This may take a few mintues
+DEBUG:root:Input file has 50649 bytes
+DEBUG:root:Padded the file with 7 zero to have a round number of blocks of data
+INFO:root:File MD5 is 67a1039a75e78fb840cf1d442328fb68
+INFO:root:There are 1583 input segments
+INFO:root:Upper bounds on packets for decoding is 1793 (x1.133136)  with 0.001000 probability
+
+
+Valid oligos: 100%|█████████▉| 31635/31790 [00:43<00:00, 746.49it/s]
+Valid oligos: 100%|█████████▉| 31718/31790 [00:43<00:00, 767.05it/s]
+Valid oligos: 100%|██████████| 31790/31790 [00:43<00:00, 727.78it/s]
+INFO:root:Finished. Generated 31790 packets out of 257183 tries (0.124)
+DEBUG:root:encode cost time:43.689688921s
+INFO:root:After reading 1000 lines, 18 chunks are done. So far: 18 rejections (0.018000) 1000 barcodes
+INFO:root:After reading 1820 lines, 1583 chunks are done. So far: 31 rejections (0.017033) 1820 barcodes
+INFO:root:Done!
+INFO:root:MD5 is 67a1039a75e78fb840cf1d442328fb68
+DEBUG:root:dncode cost time:1.40080809593s
+DEBUG:root:end time:2020-05-20 15:52:55
+DEBUG:root:cost time:45.0904970169s
+DEBUG:root:start time:2020-05-20 15:52:55
+INFO:root:currect file name:青岛大学景色.jpg
+INFO:root:Reading the file. This may take a few mintues
+DEBUG:root:Input file has 618369 bytes
+DEBUG:root:Padded the file with 31 zero to have a round number of blocks of data
+INFO:root:File MD5 is 1758159a7218690a771427bd5ef6242e
+INFO:root:There are 19325 input segments
+INFO:root:Upper bounds on packets for decoding is 20336 (x1.052351)  with 0.001000 probability
+
+
+Valid oligos: 100%|█████████▉| 31684/31790 [00:49<00:00, 726.14it/s]
+Valid oligos: 100%|█████████▉| 31757/31790 [00:49<00:00, 656.32it/s]
+Valid oligos: 100%|██████████| 31790/31790 [00:49<00:00, 645.63it/s]
+INFO:root:Finished. Generated 31790 packets out of 257118 tries (0.124)
+DEBUG:root:encode cost time:49.3156440258s
+INFO:root:After reading 1000 lines, 9 chunks are done. So far: 23 rejections (0.023000) 1000 barcodes
+INFO:root:After reading 2000 lines, 12 chunks are done. So far: 40 rejections (0.020000) 2000 barcodes
+INFO:root:After reading 3000 lines, 16 chunks are done. So far: 59 rejections (0.019667) 3000 barcodes
+INFO:root:After reading 4000 lines, 19 chunks are done. So far: 76 rejections (0.019000) 4000 barcodes
+INFO:root:After reading 5000 lines, 26 chunks are done. So far: 93 rejections (0.018600) 5000 barcodes
+INFO:root:After reading 6000 lines, 34 chunks are done. So far: 110 rejections (0.018333) 6000 barcodes
+INFO:root:After reading 7000 lines, 42 chunks are done. So far: 133 rejections (0.019000) 7000 barcodes
+INFO:root:After reading 8000 lines, 50 chunks are done. So far: 150 rejections (0.018750) 8000 barcodes
+INFO:root:After reading 9000 lines, 59 chunks are done. So far: 164 rejections (0.018222) 9000 barcodes
+INFO:root:After reading 10000 lines, 78 chunks are done. So far: 179 rejections (0.017900) 10000 barcodes
+INFO:root:After reading 11000 lines, 82 chunks are done. So far: 201 rejections (0.018273) 11000 barcodes
+INFO:root:After reading 12000 lines, 104 chunks are done. So far: 219 rejections (0.018250) 12000 barcodes
+INFO:root:After reading 13000 lines, 125 chunks are done. So far: 235 rejections (0.018077) 13000 barcodes
+INFO:root:After reading 14000 lines, 143 chunks are done. So far: 256 rejections (0.018286) 14000 barcodes
+INFO:root:After reading 15000 lines, 164 chunks are done. So far: 279 rejections (0.018600) 15000 barcodes
+INFO:root:After reading 16000 lines, 191 chunks are done. So far: 286 rejections (0.017875) 16000 barcodes
+INFO:root:After reading 17000 lines, 280 chunks are done. So far: 305 rejections (0.017941) 17000 barcodes
+INFO:root:After reading 18000 lines, 340 chunks are done. So far: 319 rejections (0.017722) 18000 barcodes
+INFO:root:After reading 19000 lines, 417 chunks are done. So far: 330 rejections (0.017368) 19000 barcodes
+INFO:root:After reading 20000 lines, 842 chunks are done. So far: 347 rejections (0.017350) 20000 barcodes
+INFO:root:After reading 20927 lines, 19325 chunks are done. So far: 368 rejections (0.017585) 20927 barcodes
+INFO:root:Done!
+INFO:root:MD5 is 1758159a7218690a771427bd5ef6242e
+DEBUG:root:dncode cost time:31.5578610897s
+DEBUG:root:end time:2020-05-20 15:54:15
+DEBUG:root:cost time:80.8735051155s
+DEBUG:root:start time:2020-05-20 15:54:15
+INFO:root:currect file name:联合国.jpg
+INFO:root:Reading the file. This may take a few mintues
+DEBUG:root:Input file has 32964 bytes
+DEBUG:root:Padded the file with 28 zero to have a round number of blocks of data
+INFO:root:File MD5 is 355a476682b5e7b3e5736c5877f8ad10
+INFO:root:There are 1031 input segments
+INFO:root:Upper bounds on packets for decoding is 1191 (x1.155341)  with 0.001000 probability
+
+
+Valid oligos: 100%|█████████▉| 31666/31790 [00:43<00:00, 731.07it/s]
+Valid oligos: 100%|█████████▉| 31740/31790 [00:43<00:00, 701.09it/s]
+Valid oligos: 100%|██████████| 31790/31790 [00:43<00:00, 731.93it/s]
+INFO:root:Finished. Generated 31790 packets out of 257372 tries (0.124)
+DEBUG:root:encode cost time:43.449092865s
+INFO:root:After reading 1000 lines, 83 chunks are done. So far: 18 rejections (0.018000) 1000 barcodes
+INFO:root:After reading 1250 lines, 1031 chunks are done. So far: 28 rejections (0.022400) 1250 barcodes
+INFO:root:Done!
+INFO:root:MD5 is 355a476682b5e7b3e5736c5877f8ad10
+DEBUG:root:dncode cost time:0.647734165192s
+DEBUG:root:end time:2020-05-20 15:55:00
+DEBUG:root:cost time:44.0968270302s
+DEBUG:root:start time:2020-05-20 15:55:00
+INFO:root:currect file name:动物细胞.jpg
+INFO:root:Reading the file. This may take a few mintues
+DEBUG:root:Input file has 955715 bytes
+DEBUG:root:Padded the file with 29 zero to have a round number of blocks of data
+INFO:root:File MD5 is 2bc9967bf7735cade239200cd75bb9f7
+INFO:root:There are 29867 input segments
+INFO:root:Upper bounds on packets for decoding is 31189 (x1.044287)  with 0.001000 probability
+
+
+Valid oligos: 100%|█████████▉| 31684/31790 [00:49<00:00, 698.79it/s]
+Valid oligos: 100%|█████████▉| 31758/31790 [00:50<00:00, 699.06it/s]
+Valid oligos: 100%|██████████| 31790/31790 [00:50<00:00, 634.31it/s]
+INFO:root:Finished. Generated 31790 packets out of 255080 tries (0.125)
+DEBUG:root:encode cost time:50.2337839603s
+INFO:root:After reading 1000 lines, 1 chunks are done. So far: 14 rejections (0.014000) 1000 barcodes
+INFO:root:After reading 2000 lines, 6 chunks are done. So far: 22 rejections (0.011000) 2000 barcodes
+INFO:root:After reading 3000 lines, 10 chunks are done. So far: 33 rejections (0.011000) 3000 barcodes
+INFO:root:After reading 4000 lines, 13 chunks are done. So far: 43 rejections (0.010750) 4000 barcodes
+INFO:root:After reading 5000 lines, 13 chunks are done. So far: 67 rejections (0.013400) 5000 barcodes
+INFO:root:After reading 6000 lines, 17 chunks are done. So far: 80 rejections (0.013333) 6000 barcodes
+INFO:root:After reading 7000 lines, 21 chunks are done. So far: 92 rejections (0.013143) 7000 barcodes
+INFO:root:After reading 8000 lines, 25 chunks are done. So far: 106 rejections (0.013250) 8000 barcodes
+INFO:root:After reading 9000 lines, 26 chunks are done. So far: 126 rejections (0.014000) 9000 barcodes
+INFO:root:After reading 10000 lines, 27 chunks are done. So far: 140 rejections (0.014000) 10000 barcodes
+INFO:root:After reading 11000 lines, 30 chunks are done. So far: 153 rejections (0.013909) 11000 barcodes
+INFO:root:After reading 12000 lines, 30 chunks are done. So far: 171 rejections (0.014250) 12000 barcodes
+INFO:root:After reading 13000 lines, 34 chunks are done. So far: 184 rejections (0.014154) 13000 barcodes
+INFO:root:After reading 14000 lines, 46 chunks are done. So far: 204 rejections (0.014571) 14000 barcodes
+INFO:root:After reading 15000 lines, 63 chunks are done. So far: 230 rejections (0.015333) 15000 barcodes
+INFO:root:After reading 16000 lines, 76 chunks are done. So far: 238 rejections (0.014875) 16000 barcodes
+INFO:root:After reading 17000 lines, 84 chunks are done. So far: 255 rejections (0.015000) 17000 barcodes
+INFO:root:After reading 18000 lines, 97 chunks are done. So far: 269 rejections (0.014944) 18000 barcodes
+INFO:root:After reading 19000 lines, 109 chunks are done. So far: 284 rejections (0.014947) 19000 barcodes
+INFO:root:After reading 20000 lines, 128 chunks are done. So far: 305 rejections (0.015250) 20000 barcodes
+INFO:root:After reading 21000 lines, 144 chunks are done. So far: 321 rejections (0.015286) 21000 barcodes
+INFO:root:After reading 22000 lines, 149 chunks are done. So far: 341 rejections (0.015500) 22000 barcodes
+INFO:root:After reading 23000 lines, 158 chunks are done. So far: 360 rejections (0.015652) 23000 barcodes
+INFO:root:After reading 24000 lines, 175 chunks are done. So far: 379 rejections (0.015792) 24000 barcodes
+INFO:root:After reading 25000 lines, 228 chunks are done. So far: 392 rejections (0.015680) 25000 barcodes
+INFO:root:After reading 26000 lines, 241 chunks are done. So far: 407 rejections (0.015654) 26000 barcodes
+INFO:root:After reading 27000 lines, 408 chunks are done. So far: 417 rejections (0.015444) 27000 barcodes
+INFO:root:After reading 28000 lines, 446 chunks are done. So far: 429 rejections (0.015321) 28000 barcodes
+INFO:root:After reading 29000 lines, 610 chunks are done. So far: 445 rejections (0.015345) 29000 barcodes
+INFO:root:After reading 30000 lines, 1149 chunks are done. So far: 470 rejections (0.015667) 30000 barcodes
+INFO:root:After reading 31000 lines, 5859 chunks are done. So far: 486 rejections (0.015677) 31000 barcodes
+INFO:root:After reading 31790 lines, 29867 chunks are done. So far: 496 rejections (0.015602) 31790 barcodes
+INFO:root:Done!
+INFO:root:MD5 is 2bc9967bf7735cade239200cd75bb9f7
+DEBUG:root:dncode cost time:72.1997480392s
+DEBUG:root:end time:2020-05-20 15:57:02
+DEBUG:root:cost time:122.433532s
+DEBUG:root:start time:2020-05-20 15:57:02
+INFO:root:currect file name:沃森和克里克.jpg
+INFO:root:Reading the file. This may take a few mintues
+DEBUG:root:Input file has 129775 bytes
+DEBUG:root:Padded the file with 17 zero to have a round number of blocks of data
+INFO:root:File MD5 is 71a98016c101f8abd788245b486add4a
+INFO:root:There are 4056 input segments
+INFO:root:Upper bounds on packets for decoding is 4438 (x1.094296)  with 0.001000 probability
+
+
+Valid oligos: 100%|█████████▉| 31639/31790 [00:46<00:00, 689.84it/s]
+Valid oligos: 100%|█████████▉| 31710/31790 [00:46<00:00, 652.47it/s]
+Valid oligos: 100%|██████████| 31790/31790 [00:46<00:00, 684.24it/s]
+INFO:root:Finished. Generated 31790 packets out of 257239 tries (0.124)
+DEBUG:root:encode cost time:46.4797749519s
+INFO:root:After reading 1000 lines, 4 chunks are done. So far: 18 rejections (0.018000) 1000 barcodes
+INFO:root:After reading 2000 lines, 13 chunks are done. So far: 40 rejections (0.020000) 2000 barcodes
+INFO:root:After reading 3000 lines, 23 chunks are done. So far: 54 rejections (0.018000) 3000 barcodes
+INFO:root:After reading 4000 lines, 60 chunks are done. So far: 66 rejections (0.016500) 4000 barcodes
+INFO:root:After reading 4609 lines, 4056 chunks are done. So far: 81 rejections (0.017574) 4609 barcodes
+INFO:root:Done!
+INFO:root:MD5 is 71a98016c101f8abd788245b486add4a
+DEBUG:root:dncode cost time:3.17159605026s
+DEBUG:root:end time:2020-05-20 15:57:52
+DEBUG:root:cost time:49.6513710022s
+DEBUG:root:start time:2020-05-20 15:57:52
+INFO:root:currect file name:青岛大学.jpg
+INFO:root:Reading the file. This may take a few mintues
+DEBUG:root:Input file has 11140 bytes
+DEBUG:root:Padded the file with 28 zero to have a round number of blocks of data
+INFO:root:File MD5 is 837f7219d671ed875eaa00864be5223f
+INFO:root:There are 349 input segments
+INFO:root:Upper bounds on packets for decoding is 428 (x1.227532)  with 0.001000 probability
+
+
+Valid oligos: 100%|█████████▉| 31636/31790 [00:40<00:00, 753.04it/s]
+Valid oligos: 100%|█████████▉| 31712/31790 [00:40<00:00, 748.38it/s]
+Valid oligos: 100%|██████████| 31790/31790 [00:40<00:00, 776.86it/s]
+INFO:root:Finished. Generated 31790 packets out of 252049 tries (0.126)
+DEBUG:root:encode cost time:40.9256308079s
+INFO:root:After reading 450 lines, 349 chunks are done. So far: 7 rejections (0.015556) 450 barcodes
+INFO:root:Done!
+INFO:root:MD5 is 837f7219d671ed875eaa00864be5223f
+DEBUG:root:dncode cost time:0.208768129349s
+DEBUG:root:end time:2020-05-20 15:58:33
+DEBUG:root:cost time:41.1343989372s
+DEBUG:root:start time:2020-05-20 15:58:33
+INFO:root:currect file name:熊猫.jpg
+INFO:root:Reading the file. This may take a few mintues
+DEBUG:root:Input file has 22809 bytes
+DEBUG:root:Padded the file with 7 zero to have a round number of blocks of data
+INFO:root:File MD5 is 94ff022287f94be29fc24b908fd1faed
+INFO:root:There are 713 input segments
+INFO:root:Upper bounds on packets for decoding is 839 (x1.177221)  with 0.001000 probability
+
+
+Valid oligos: 100%|█████████▉| 31702/31790 [00:42<00:00, 746.03it/s]
+Valid oligos: 100%|█████████▉| 31783/31790 [00:43<00:00, 758.23it/s]
+Valid oligos: 100%|██████████| 31790/31790 [00:43<00:00, 737.43it/s]
+INFO:root:Finished. Generated 31790 packets out of 259589 tries (0.122)
+DEBUG:root:encode cost time:43.1151869297s
+INFO:root:After reading 935 lines, 713 chunks are done. So far: 15 rejections (0.016043) 935 barcodes
+INFO:root:Done!
+INFO:root:MD5 is 94ff022287f94be29fc24b908fd1faed
+DEBUG:root:dncode cost time:0.490188121796s
+DEBUG:root:end time:2020-05-20 15:59:16
+DEBUG:root:cost time:43.6053750515s
+DEBUG:root:start time:2020-05-20 15:59:16
+INFO:root:currect file name:纯白.jpg
+INFO:root:Reading the file. This may take a few mintues
+DEBUG:root:Input file has 25011 bytes
+DEBUG:root:Padded the file with 13 zero to have a round number of blocks of data
+INFO:root:File MD5 is 938295e3337b796f2e01ee5020e455ad
+INFO:root:There are 782 input segments
+INFO:root:Upper bounds on packets for decoding is 916 (x1.171480)  with 0.001000 probability
+
+
+Valid oligos: 100%|█████████▉| 31643/31790 [00:49<00:00, 600.31it/s]
+Valid oligos: 100%|█████████▉| 31705/31790 [00:50<00:00, 577.32it/s]
+Valid oligos: 100%|█████████▉| 31772/31790 [00:50<00:00, 600.80it/s]
+Valid oligos: 100%|██████████| 31790/31790 [00:50<00:00, 633.68it/s]
+INFO:root:Finished. Generated 31790 packets out of 303581 tries (0.105)
+DEBUG:root:encode cost time:50.1824200153s
+INFO:root:After reading 1000 lines, 0 chunks are done. So far: 12 rejections (0.012000) 1000 barcodes
+INFO:root:After reading 1880 lines, 782 chunks are done. So far: 40 rejections (0.021277) 1880 barcodes
+INFO:root:Done!
+INFO:root:MD5 is 938295e3337b796f2e01ee5020e455ad
+DEBUG:root:dncode cost time:0.962767124176s
+DEBUG:root:end time:2020-05-20 16:00:08
+DEBUG:root:cost time:51.1451871395s
+DEBUG:root:start time:2020-05-20 16:00:08
+INFO:root:currect file name:基因.jpg
+INFO:root:Reading the file. This may take a few mintues
+DEBUG:root:Input file has 398907 bytes
+DEBUG:root:Padded the file with 5 zero to have a round number of blocks of data
+INFO:root:File MD5 is 324222dbf965b7771420ded60cee7167
+INFO:root:There are 12466 input segments
+INFO:root:Upper bounds on packets for decoding is 13237 (x1.061873)  with 0.001000 probability
+
+
+Valid oligos: 100%|█████████▉| 31651/31790 [00:47<00:00, 694.12it/s]
+Valid oligos: 100%|█████████▉| 31722/31790 [00:47<00:00, 667.75it/s]
+Valid oligos: 100%|██████████| 31790/31790 [00:47<00:00, 671.33it/s]
+INFO:root:Finished. Generated 31790 packets out of 254754 tries (0.125)
+DEBUG:root:encode cost time:47.4021542072s
+INFO:root:After reading 1000 lines, 4 chunks are done. So far: 19 rejections (0.019000) 1000 barcodes
+INFO:root:After reading 2000 lines, 8 chunks are done. So far: 33 rejections (0.016500) 2000 barcodes
+INFO:root:After reading 3000 lines, 14 chunks are done. So far: 50 rejections (0.016667) 3000 barcodes
+INFO:root:After reading 4000 lines, 17 chunks are done. So far: 73 rejections (0.018250) 4000 barcodes
+INFO:root:After reading 5000 lines, 22 chunks are done. So far: 95 rejections (0.019000) 5000 barcodes
+INFO:root:After reading 6000 lines, 27 chunks are done. So far: 115 rejections (0.019167) 6000 barcodes
+INFO:root:After reading 7000 lines, 39 chunks are done. So far: 131 rejections (0.018714) 7000 barcodes
+INFO:root:After reading 8000 lines, 46 chunks are done. So far: 149 rejections (0.018625) 8000 barcodes
+INFO:root:After reading 9000 lines, 65 chunks are done. So far: 170 rejections (0.018889) 9000 barcodes
+INFO:root:After reading 10000 lines, 75 chunks are done. So far: 194 rejections (0.019400) 10000 barcodes
+INFO:root:After reading 11000 lines, 130 chunks are done. So far: 211 rejections (0.019182) 11000 barcodes
+INFO:root:After reading 12000 lines, 238 chunks are done. So far: 233 rejections (0.019417) 12000 barcodes
+INFO:root:After reading 13000 lines, 510 chunks are done. So far: 247 rejections (0.019000) 13000 barcodes
+INFO:root:After reading 13634 lines, 12466 chunks are done. So far: 260 rejections (0.019070) 13634 barcodes
+INFO:root:Done!
+INFO:root:MD5 is 324222dbf965b7771420ded60cee7167
+DEBUG:root:dncode cost time:11.1365737915s
+DEBUG:root:end time:2020-05-20 16:01:06
+DEBUG:root:cost time:58.5387279987s
+DEBUG:root:start time:2020-05-20 16:01:06
+INFO:root:currect file name:蒙娜丽莎.jpg
+INFO:root:Reading the file. This may take a few mintues
+DEBUG:root:Input file has 97530 bytes
+DEBUG:root:Padded the file with 6 zero to have a round number of blocks of data
+INFO:root:File MD5 is 1b326581aa16aea75a0c4b17b206b23b
+INFO:root:There are 3048 input segments
+INFO:root:Upper bounds on packets for decoding is 3367 (x1.104775)  with 0.001000 probability
+
+
+Valid oligos: 100%|█████████▉| 31722/31790 [00:44<00:00, 808.27it/s]
+Valid oligos: 100%|██████████| 31790/31790 [00:44<00:00, 708.84it/s]
+INFO:root:Finished. Generated 31790 packets out of 255855 tries (0.124)
+DEBUG:root:encode cost time:44.8624639511s
+INFO:root:After reading 1000 lines, 4 chunks are done. So far: 21 rejections (0.021000) 1000 barcodes
+INFO:root:After reading 2000 lines, 34 chunks are done. So far: 40 rejections (0.020000) 2000 barcodes
+INFO:root:After reading 3000 lines, 72 chunks are done. So far: 51 rejections (0.017000) 3000 barcodes
+INFO:root:After reading 3469 lines, 3048 chunks are done. So far: 57 rejections (0.016431) 3469 barcodes
+INFO:root:Done!
+INFO:root:MD5 is 1b326581aa16aea75a0c4b17b206b23b
+DEBUG:root:dncode cost time:2.15973496437s
+DEBUG:root:end time:2020-05-20 16:01:53
+DEBUG:root:cost time:47.0221989155s
+DEBUG:root:start time:2020-05-20 16:01:53
+INFO:root:currect file name:染色体.jpg
+INFO:root:Reading the file. This may take a few mintues
+DEBUG:root:Input file has 20697 bytes
+DEBUG:root:Padded the file with 7 zero to have a round number of blocks of data
+INFO:root:File MD5 is 9a540c889c1da6d69918eb9fc5d7c3d0
+INFO:root:There are 647 input segments
+INFO:root:Upper bounds on packets for decoding is 765 (x1.183454)  with 0.001000 probability
+
+
+Valid oligos: 100%|█████████▉| 31691/31790 [00:43<00:00, 799.94it/s]
+Valid oligos: 100%|█████████▉| 31772/31790 [00:43<00:00, 758.43it/s]
+Valid oligos: 100%|██████████| 31790/31790 [00:43<00:00, 734.40it/s]
+INFO:root:Finished. Generated 31790 packets out of 263090 tries (0.121)
+DEBUG:root:encode cost time:43.2930798531s
+INFO:root:After reading 792 lines, 647 chunks are done. So far: 12 rejections (0.015152) 792 barcodes
+INFO:root:Done!
+INFO:root:MD5 is 9a540c889c1da6d69918eb9fc5d7c3d0
+DEBUG:root:dncode cost time:0.376860141754s
+DEBUG:root:end time:2020-05-20 16:02:37
+DEBUG:root:cost time:43.6699399948s
+DEBUG:root:start time:2020-05-20 16:02:37
+INFO:root:currect file name:书.jpg
+INFO:root:Reading the file. This may take a few mintues
+DEBUG:root:Input file has 550271 bytes
+DEBUG:root:Padded the file with 1 zero to have a round number of blocks of data
+INFO:root:File MD5 is c840b5108f864d87a9be0e3f035b9102
+INFO:root:There are 17196 input segments
+INFO:root:Upper bounds on packets for decoding is 18137 (x1.054736)  with 0.001000 probability
+
+
+Valid oligos: 100%|█████████▉| 31670/31790 [00:48<00:00, 660.29it/s]
+Valid oligos: 100%|█████████▉| 31746/31790 [00:48<00:00, 685.35it/s]
+Valid oligos: 100%|██████████| 31790/31790 [00:48<00:00, 656.52it/s]
+INFO:root:Finished. Generated 31790 packets out of 253931 tries (0.125)
+DEBUG:root:encode cost time:48.4920220375s
+INFO:root:After reading 1000 lines, 2 chunks are done. So far: 16 rejections (0.016000) 1000 barcodes
+INFO:root:After reading 2000 lines, 6 chunks are done. So far: 38 rejections (0.019000) 2000 barcodes
+INFO:root:After reading 3000 lines, 10 chunks are done. So far: 54 rejections (0.018000) 3000 barcodes
+INFO:root:After reading 4000 lines, 15 chunks are done. So far: 73 rejections (0.018250) 4000 barcodes
+INFO:root:After reading 5000 lines, 17 chunks are done. So far: 92 rejections (0.018400) 5000 barcodes
+INFO:root:After reading 6000 lines, 23 chunks are done. So far: 112 rejections (0.018667) 6000 barcodes
+INFO:root:After reading 7000 lines, 38 chunks are done. So far: 123 rejections (0.017571) 7000 barcodes
+INFO:root:After reading 8000 lines, 43 chunks are done. So far: 142 rejections (0.017750) 8000 barcodes
+INFO:root:After reading 9000 lines, 51 chunks are done. So far: 156 rejections (0.017333) 9000 barcodes
+INFO:root:After reading 10000 lines, 71 chunks are done. So far: 178 rejections (0.017800) 10000 barcodes
+INFO:root:After reading 11000 lines, 89 chunks are done. So far: 193 rejections (0.017545) 11000 barcodes
+INFO:root:After reading 12000 lines, 118 chunks are done. So far: 206 rejections (0.017167) 12000 barcodes
+INFO:root:After reading 13000 lines, 137 chunks are done. So far: 225 rejections (0.017308) 13000 barcodes
+INFO:root:After reading 14000 lines, 157 chunks are done. So far: 233 rejections (0.016643) 14000 barcodes
+INFO:root:After reading 15000 lines, 240 chunks are done. So far: 253 rejections (0.016867) 15000 barcodes
+INFO:root:After reading 16000 lines, 507 chunks are done. So far: 273 rejections (0.017063) 16000 barcodes
+INFO:root:After reading 17000 lines, 1235 chunks are done. So far: 283 rejections (0.016647) 17000 barcodes
+INFO:root:After reading 18000 lines, 2576 chunks are done. So far: 297 rejections (0.016500) 18000 barcodes
+INFO:root:After reading 18471 lines, 17196 chunks are done. So far: 307 rejections (0.016621) 18471 barcodes
+INFO:root:Done!
+INFO:root:MD5 is c840b5108f864d87a9be0e3f035b9102
+DEBUG:root:dncode cost time:23.9687848091s
+DEBUG:root:end time:2020-05-20 16:03:49
+DEBUG:root:cost time:72.4608068466s
+DEBUG:root:start time:2020-05-20 16:03:49
+INFO:root:currect file name:中国地图.jpg
+INFO:root:Reading the file. This may take a few mintues
+DEBUG:root:Input file has 538078 bytes
+DEBUG:root:Padded the file with 2 zero to have a round number of blocks of data
+INFO:root:File MD5 is cd116b46ad7ceafda4127066871ccd44
+INFO:root:There are 16815 input segments
+INFO:root:Upper bounds on packets for decoding is 17743 (x1.055207)  with 0.001000 probability
+
+
+Valid oligos: 100%|█████████▉| 31644/31790 [00:49<00:00, 583.56it/s]
+Valid oligos: 100%|█████████▉| 31721/31790 [00:49<00:00, 626.43it/s]
+Valid oligos: 100%|█████████▉| 31787/31790 [00:49<00:00, 562.01it/s]
+Valid oligos: 100%|██████████| 31790/31790 [00:49<00:00, 644.39it/s]
+INFO:root:Finished. Generated 31790 packets out of 261454 tries (0.122)
+DEBUG:root:encode cost time:49.4095039368s
+INFO:root:After reading 1000 lines, 1 chunks are done. So far: 15 rejections (0.015000) 1000 barcodes
+INFO:root:After reading 2000 lines, 7 chunks are done. So far: 38 rejections (0.019000) 2000 barcodes
+INFO:root:After reading 3000 lines, 9 chunks are done. So far: 53 rejections (0.017667) 3000 barcodes
+INFO:root:After reading 4000 lines, 13 chunks are done. So far: 69 rejections (0.017250) 4000 barcodes
+INFO:root:After reading 5000 lines, 16 chunks are done. So far: 84 rejections (0.016800) 5000 barcodes
+INFO:root:After reading 6000 lines, 17 chunks are done. So far: 101 rejections (0.016833) 6000 barcodes
+INFO:root:After reading 7000 lines, 19 chunks are done. So far: 124 rejections (0.017714) 7000 barcodes
+INFO:root:After reading 8000 lines, 27 chunks are done. So far: 149 rejections (0.018625) 8000 barcodes
+INFO:root:After reading 9000 lines, 32 chunks are done. So far: 168 rejections (0.018667) 9000 barcodes
+INFO:root:After reading 10000 lines, 34 chunks are done. So far: 181 rejections (0.018100) 10000 barcodes
+INFO:root:After reading 11000 lines, 55 chunks are done. So far: 199 rejections (0.018091) 11000 barcodes
+INFO:root:After reading 12000 lines, 82 chunks are done. So far: 214 rejections (0.017833) 12000 barcodes
+INFO:root:After reading 13000 lines, 110 chunks are done. So far: 229 rejections (0.017615) 13000 barcodes
+INFO:root:After reading 14000 lines, 127 chunks are done. So far: 244 rejections (0.017429) 14000 barcodes
+INFO:root:After reading 15000 lines, 237 chunks are done. So far: 258 rejections (0.017200) 15000 barcodes
+INFO:root:After reading 16000 lines, 377 chunks are done. So far: 272 rejections (0.017000) 16000 barcodes
+INFO:root:After reading 17000 lines, 723 chunks are done. So far: 292 rejections (0.017176) 17000 barcodes
+INFO:root:After reading 18000 lines, 1680 chunks are done. So far: 301 rejections (0.016722) 18000 barcodes
+INFO:root:After reading 18515 lines, 16815 chunks are done. So far: 310 rejections (0.016743) 18515 barcodes
+INFO:root:Done!
+INFO:root:MD5 is cd116b46ad7ceafda4127066871ccd44
+DEBUG:root:dncode cost time:25.1018500328s
+DEBUG:root:end time:2020-05-20 16:05:04
+DEBUG:root:cost time:74.5113539696s
+DEBUG:root:start time:2020-05-20 16:05:04
+INFO:root:currect file name:DNA.jpg
+INFO:root:Reading the file. This may take a few mintues
+DEBUG:root:Input file has 12258 bytes
+DEBUG:root:Padded the file with 30 zero to have a round number of blocks of data
+INFO:root:File MD5 is 72fb2c4765eacb67768bc1736b029134
+INFO:root:There are 384 input segments
+INFO:root:Upper bounds on packets for decoding is 468 (x1.220006)  with 0.001000 probability
+
+
+Valid oligos: 100%|█████████▉| 31669/31790 [00:44<00:00, 692.57it/s]
+Valid oligos: 100%|█████████▉| 31740/31790 [00:45<00:00, 689.79it/s]
+Valid oligos: 100%|██████████| 31790/31790 [00:45<00:00, 704.18it/s]
+INFO:root:Finished. Generated 31790 packets out of 280888 tries (0.113)
+DEBUG:root:encode cost time:45.1496460438s
+INFO:root:After reading 531 lines, 384 chunks are done. So far: 5 rejections (0.009416) 531 barcodes
+INFO:root:Done!
+INFO:root:MD5 is 72fb2c4765eacb67768bc1736b029134
+DEBUG:root:dncode cost time:0.253857135773s
+DEBUG:root:end time:2020-05-20 16:05:49
+DEBUG:root:cost time:45.4035031796s
+DEBUG:root:start time:2020-05-20 16:05:49
+INFO:root:currect file name:地球.jpg
+INFO:root:Reading the file. This may take a few mintues
+DEBUG:root:Input file has 60718 bytes
+DEBUG:root:Padded the file with 18 zero to have a round number of blocks of data
+INFO:root:File MD5 is e22dccec10d52b36bfc783972d4de4af
+INFO:root:There are 1898 input segments
+INFO:root:Upper bounds on packets for decoding is 2134 (x1.124640)  with 0.001000 probability
+
+
+Valid oligos: 100%|█████████▉| 31635/31790 [00:43<00:00, 709.80it/s]
+Valid oligos: 100%|█████████▉| 31707/31790 [00:43<00:00, 699.43it/s]
+Valid oligos: 100%|█████████▉| 31787/31790 [00:43<00:00, 724.09it/s]
+Valid oligos: 100%|██████████| 31790/31790 [00:43<00:00, 728.60it/s]
+INFO:root:Finished. Generated 31790 packets out of 256028 tries (0.124)
+DEBUG:root:encode cost time:43.6418709755s
+INFO:root:After reading 1000 lines, 9 chunks are done. So far: 13 rejections (0.013000) 1000 barcodes
+INFO:root:After reading 2000 lines, 55 chunks are done. So far: 27 rejections (0.013500) 2000 barcodes
+INFO:root:After reading 2235 lines, 1898 chunks are done. So far: 30 rejections (0.013423) 2235 barcodes
+INFO:root:Done!
+INFO:root:MD5 is e22dccec10d52b36bfc783972d4de4af
+DEBUG:root:dncode cost time:1.31881117821s
+DEBUG:root:end time:2020-05-20 16:06:34
+DEBUG:root:cost time:44.9606821537s
+DEBUG:root:start time:2020-05-20 16:06:34
+INFO:root:currect file name:烟斗.jpg
+INFO:root:Reading the file. This may take a few mintues
+DEBUG:root:Input file has 409560 bytes
+DEBUG:root:Padded the file with 8 zero to have a round number of blocks of data
+INFO:root:File MD5 is 216a7a2e0dee5cb725987fa79165182b
+INFO:root:There are 12799 input segments
+INFO:root:Upper bounds on packets for decoding is 13582 (x1.061254)  with 0.001000 probability
+
+
+Valid oligos: 100%|█████████▉| 31644/31790 [00:49<00:00, 607.91it/s]
+Valid oligos: 100%|█████████▉| 31720/31790 [00:49<00:00, 646.47it/s]
+Valid oligos: 100%|█████████▉| 31787/31790 [00:50<00:00, 605.59it/s]
+Valid oligos: 100%|██████████| 31790/31790 [00:50<00:00, 634.95it/s]
+INFO:root:Finished. Generated 31790 packets out of 267301 tries (0.119)
+DEBUG:root:encode cost time:50.1196119785s
+INFO:root:After reading 1000 lines, 1 chunks are done. So far: 23 rejections (0.023000) 1000 barcodes
+INFO:root:After reading 2000 lines, 1 chunks are done. So far: 39 rejections (0.019500) 2000 barcodes
+INFO:root:After reading 3000 lines, 1 chunks are done. So far: 55 rejections (0.018333) 3000 barcodes
+INFO:root:After reading 4000 lines, 2 chunks are done. So far: 75 rejections (0.018750) 4000 barcodes
+INFO:root:After reading 5000 lines, 4 chunks are done. So far: 95 rejections (0.019000) 5000 barcodes
+INFO:root:After reading 6000 lines, 6 chunks are done. So far: 114 rejections (0.019000) 6000 barcodes
+INFO:root:After reading 7000 lines, 13 chunks are done. So far: 133 rejections (0.019000) 7000 barcodes
+INFO:root:After reading 8000 lines, 16 chunks are done. So far: 147 rejections (0.018375) 8000 barcodes
+INFO:root:After reading 9000 lines, 20 chunks are done. So far: 158 rejections (0.017556) 9000 barcodes
+INFO:root:After reading 10000 lines, 23 chunks are done. So far: 174 rejections (0.017400) 10000 barcodes
+INFO:root:After reading 11000 lines, 34 chunks are done. So far: 197 rejections (0.017909) 11000 barcodes
+INFO:root:After reading 12000 lines, 62 chunks are done. So far: 209 rejections (0.017417) 12000 barcodes
+INFO:root:After reading 13000 lines, 110 chunks are done. So far: 218 rejections (0.016769) 13000 barcodes
+INFO:root:After reading 14000 lines, 1192 chunks are done. So far: 229 rejections (0.016357) 14000 barcodes
+INFO:root:After reading 14193 lines, 12799 chunks are done. So far: 231 rejections (0.016276) 14193 barcodes
+INFO:root:Done!
+INFO:root:MD5 is 216a7a2e0dee5cb725987fa79165182b
+DEBUG:root:dncode cost time:11.973044157s
+DEBUG:root:end time:2020-05-20 16:07:36
+DEBUG:root:cost time:62.0926561356s
+INFO:root:all complete!

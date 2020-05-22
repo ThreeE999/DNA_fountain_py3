@@ -1,0 +1,1147 @@
+nohup: ignoring input
+DEBUG:root:start time:2020-05-21 18:35:49
+INFO:root:currect file name:罗密欧与朱丽叶.txt
+INFO:root:Reading the file. This may take a few mintues
+DEBUG:root:Input file has 66362 bytes
+DEBUG:root:Padded the file with 6 zero to have a round number of blocks of data
+INFO:root:File MD5 is a419a61fdfc3da5dfea250316c6f41ee
+INFO:root:There are 2074 input segments
+INFO:root:Upper bounds on packets for decoding is 2324 (x1.120696)  with 0.001000 probability
+
+
+Valid oligos: 100%|█████████▉| 125073/125681 [08:10<00:02, 225.80it/s]
+Valid oligos: 100%|█████████▉| 125104/125681 [08:10<00:02, 244.02it/s]
+Valid oligos: 100%|█████████▉| 125130/125681 [08:10<00:02, 233.46it/s]
+Valid oligos: 100%|█████████▉| 125154/125681 [08:10<00:02, 187.02it/s]
+Valid oligos: 100%|█████████▉| 125179/125681 [08:10<00:02, 197.87it/s]
+Valid oligos: 100%|█████████▉| 125201/125681 [08:10<00:02, 175.64it/s]
+Valid oligos: 100%|█████████▉| 125222/125681 [08:11<00:02, 180.78it/s]
+Valid oligos: 100%|█████████▉| 125247/125681 [08:11<00:02, 195.82it/s]
+Valid oligos: 100%|█████████▉| 125274/125681 [08:11<00:01, 212.95it/s]
+Valid oligos: 100%|█████████▉| 125297/125681 [08:11<00:01, 201.31it/s]
+Valid oligos: 100%|█████████▉| 125325/125681 [08:11<00:01, 212.40it/s]
+Valid oligos: 100%|█████████▉| 125348/125681 [08:11<00:01, 209.67it/s]
+Valid oligos: 100%|█████████▉| 125375/125681 [08:11<00:01, 222.58it/s]
+Valid oligos: 100%|█████████▉| 125398/125681 [08:11<00:01, 219.76it/s]
+Valid oligos: 100%|█████████▉| 125425/125681 [08:11<00:01, 230.18it/s]
+Valid oligos: 100%|█████████▉| 125454/125681 [08:12<00:00, 239.87it/s]
+Valid oligos: 100%|█████████▉| 125481/125681 [08:12<00:00, 247.78it/s]
+Valid oligos: 100%|█████████▉| 125507/125681 [08:12<00:00, 246.45it/s]
+Valid oligos: 100%|█████████▉| 125532/125681 [08:12<00:00, 244.41it/s]
+Valid oligos: 100%|█████████▉| 125557/125681 [08:12<00:00, 245.67it/s]
+Valid oligos: 100%|█████████▉| 125582/125681 [08:12<00:00, 200.04it/s]
+Valid oligos: 100%|█████████▉| 125604/125681 [08:12<00:00, 196.24it/s]
+Valid oligos: 100%|█████████▉| 125628/125681 [08:12<00:00, 207.50it/s]
+Valid oligos: 100%|█████████▉| 125651/125681 [08:12<00:00, 213.43it/s]
+Valid oligos: 100%|██████████| 125681/125681 [08:13<00:00, 254.89it/s]
+INFO:root:Finished. Generated 125681 packets out of 1005900 tries (0.125)
+INFO:root:Out file's name is '/root/biyeshiji/resurlt/books/罗密欧与朱丽叶.txt.py3.dna'
+DEBUG:root:encode cost time:493.12636280059814s
+INFO:root:After reading 1000 lines, 13 chunks are done. So far: 16 rejections (0.016000) 1000 barcodes
+INFO:root:After reading 2000 lines, 82 chunks are done. So far: 34 rejections (0.017000) 2000 barcodes
+INFO:root:After reading 2391 lines, 2074 chunks are done. So far: 40 rejections (0.016729) 2391 barcodes
+INFO:root:Done!
+INFO:root:MD5 is a419a61fdfc3da5dfea250316c6f41ee
+INFO:root:Out file's name is '/root/biyeshiji/resurlt/books/罗密欧与朱丽叶.txt.py3.recover',that is type of '.tar.gz'
+DEBUG:root:dncode cost time:2.377584457397461s
+DEBUG:root:end time:2020-05-21 18:44:05
+DEBUG:root:cost time:495.5039472579956s
+DEBUG:root:start time:2020-05-21 18:44:05
+INFO:root:currect file name:三体.txt
+INFO:root:Reading the file. This may take a few mintues
+DEBUG:root:Input file has 961074 bytes
+DEBUG:root:Padded the file with 14 zero to have a round number of blocks of data
+INFO:root:File MD5 is 26580d3801e8c4243183a66a7b8cbdfe
+INFO:root:There are 30034 input segments
+INFO:root:Upper bounds on packets for decoding is 31361 (x1.044192)  with 0.001000 probability
+
+
+Valid oligos: 100%|█████████▉| 125074/125681 [09:34<00:02, 215.03it/s]
+Valid oligos: 100%|█████████▉| 125102/125681 [09:34<00:02, 227.32it/s]
+Valid oligos: 100%|█████████▉| 125126/125681 [09:34<00:02, 208.40it/s]
+Valid oligos: 100%|█████████▉| 125148/125681 [09:34<00:02, 206.68it/s]
+Valid oligos: 100%|█████████▉| 125170/125681 [09:34<00:02, 202.63it/s]
+Valid oligos: 100%|█████████▉| 125193/125681 [09:35<00:02, 204.73it/s]
+Valid oligos: 100%|█████████▉| 125214/125681 [09:35<00:02, 205.38it/s]
+Valid oligos: 100%|█████████▉| 125239/125681 [09:35<00:02, 206.07it/s]
+Valid oligos: 100%|█████████▉| 125260/125681 [09:35<00:02, 202.36it/s]
+Valid oligos: 100%|█████████▉| 125287/125681 [09:35<00:01, 215.55it/s]
+Valid oligos: 100%|█████████▉| 125309/125681 [09:35<00:01, 216.38it/s]
+Valid oligos: 100%|█████████▉| 125336/125681 [09:35<00:01, 221.63it/s]
+Valid oligos: 100%|█████████▉| 125369/125681 [09:35<00:01, 239.15it/s]
+Valid oligos: 100%|█████████▉| 125394/125681 [09:35<00:01, 227.81it/s]
+Valid oligos: 100%|█████████▉| 125424/125681 [09:36<00:01, 245.02it/s]
+Valid oligos: 100%|█████████▉| 125450/125681 [09:36<00:01, 224.07it/s]
+Valid oligos: 100%|█████████▉| 125474/125681 [09:36<00:00, 215.88it/s]
+Valid oligos: 100%|█████████▉| 125500/125681 [09:36<00:00, 226.69it/s]
+Valid oligos: 100%|█████████▉| 125524/125681 [09:36<00:00, 229.55it/s]
+Valid oligos: 100%|█████████▉| 125558/125681 [09:36<00:00, 251.55it/s]
+Valid oligos: 100%|█████████▉| 125589/125681 [09:36<00:00, 259.08it/s]
+Valid oligos: 100%|█████████▉| 125616/125681 [09:36<00:00, 213.20it/s]
+Valid oligos: 100%|█████████▉| 125640/125681 [09:36<00:00, 213.90it/s]
+Valid oligos: 100%|█████████▉| 125663/125681 [09:37<00:00, 218.48it/s]
+Valid oligos: 100%|██████████| 125681/125681 [09:37<00:00, 217.76it/s]
+INFO:root:Finished. Generated 125681 packets out of 1008796 tries (0.125)
+INFO:root:Out file's name is '/root/biyeshiji/resurlt/books/三体.txt.py3.dna'
+DEBUG:root:encode cost time:577.4922821521759s
+INFO:root:After reading 1000 lines, 3 chunks are done. So far: 21 rejections (0.021000) 1000 barcodes
+INFO:root:After reading 2000 lines, 6 chunks are done. So far: 42 rejections (0.021000) 2000 barcodes
+INFO:root:After reading 3000 lines, 9 chunks are done. So far: 67 rejections (0.022333) 3000 barcodes
+INFO:root:After reading 4000 lines, 13 chunks are done. So far: 93 rejections (0.023250) 4000 barcodes
+INFO:root:After reading 5000 lines, 14 chunks are done. So far: 105 rejections (0.021000) 5000 barcodes
+INFO:root:After reading 6000 lines, 14 chunks are done. So far: 124 rejections (0.020667) 6000 barcodes
+INFO:root:After reading 7000 lines, 16 chunks are done. So far: 139 rejections (0.019857) 7000 barcodes
+INFO:root:After reading 8000 lines, 17 chunks are done. So far: 158 rejections (0.019750) 8000 barcodes
+INFO:root:After reading 9000 lines, 20 chunks are done. So far: 180 rejections (0.020000) 9000 barcodes
+INFO:root:After reading 10000 lines, 24 chunks are done. So far: 198 rejections (0.019800) 10000 barcodes
+INFO:root:After reading 11000 lines, 26 chunks are done. So far: 219 rejections (0.019909) 11000 barcodes
+INFO:root:After reading 12000 lines, 30 chunks are done. So far: 236 rejections (0.019667) 12000 barcodes
+INFO:root:After reading 13000 lines, 37 chunks are done. So far: 254 rejections (0.019538) 13000 barcodes
+INFO:root:After reading 14000 lines, 53 chunks are done. So far: 269 rejections (0.019214) 14000 barcodes
+INFO:root:After reading 15000 lines, 58 chunks are done. So far: 287 rejections (0.019133) 15000 barcodes
+INFO:root:After reading 16000 lines, 67 chunks are done. So far: 307 rejections (0.019187) 16000 barcodes
+INFO:root:After reading 17000 lines, 81 chunks are done. So far: 328 rejections (0.019294) 17000 barcodes
+INFO:root:After reading 18000 lines, 101 chunks are done. So far: 345 rejections (0.019167) 18000 barcodes
+INFO:root:After reading 19000 lines, 121 chunks are done. So far: 370 rejections (0.019474) 19000 barcodes
+INFO:root:After reading 20000 lines, 136 chunks are done. So far: 381 rejections (0.019050) 20000 barcodes
+INFO:root:After reading 21000 lines, 153 chunks are done. So far: 395 rejections (0.018810) 21000 barcodes
+INFO:root:After reading 22000 lines, 162 chunks are done. So far: 416 rejections (0.018909) 22000 barcodes
+INFO:root:After reading 23000 lines, 163 chunks are done. So far: 438 rejections (0.019043) 23000 barcodes
+INFO:root:After reading 24000 lines, 186 chunks are done. So far: 447 rejections (0.018625) 24000 barcodes
+INFO:root:After reading 25000 lines, 211 chunks are done. So far: 470 rejections (0.018800) 25000 barcodes
+INFO:root:After reading 26000 lines, 225 chunks are done. So far: 490 rejections (0.018846) 26000 barcodes
+INFO:root:After reading 27000 lines, 297 chunks are done. So far: 506 rejections (0.018741) 27000 barcodes
+INFO:root:After reading 28000 lines, 337 chunks are done. So far: 527 rejections (0.018821) 28000 barcodes
+INFO:root:After reading 29000 lines, 674 chunks are done. So far: 542 rejections (0.018690) 29000 barcodes
+INFO:root:After reading 30000 lines, 764 chunks are done. So far: 554 rejections (0.018467) 30000 barcodes
+INFO:root:After reading 31000 lines, 1591 chunks are done. So far: 574 rejections (0.018516) 31000 barcodes
+INFO:root:After reading 31997 lines, 30034 chunks are done. So far: 588 rejections (0.018377) 31997 barcodes
+INFO:root:Done!
+INFO:root:MD5 is 26580d3801e8c4243183a66a7b8cbdfe
+INFO:root:Out file's name is '/root/biyeshiji/resurlt/books/三体.txt.py3.recover',that is type of '.tar.gz'
+DEBUG:root:dncode cost time:52.48004102706909s
+DEBUG:root:end time:2020-05-21 18:54:35
+DEBUG:root:cost time:629.972323179245s
+DEBUG:root:start time:2020-05-21 18:54:35
+INFO:root:currect file name:水浒传.txt
+INFO:root:Reading the file. This may take a few mintues
+DEBUG:root:Input file has 919920 bytes
+DEBUG:root:Padded the file with 16 zero to have a round number of blocks of data
+INFO:root:File MD5 is 14f55e5010a2678dcbb695e16dacebd6
+INFO:root:There are 28748 input segments
+INFO:root:Upper bounds on packets for decoding is 30039 (x1.044942)  with 0.001000 probability
+
+
+Valid oligos: 100%|█████████▉| 125053/125681 [09:27<00:02, 238.10it/s]
+Valid oligos: 100%|█████████▉| 125078/125681 [09:28<00:02, 237.25it/s]
+Valid oligos: 100%|█████████▉| 125107/125681 [09:28<00:02, 249.16it/s]
+Valid oligos: 100%|█████████▉| 125142/125681 [09:28<00:01, 271.66it/s]
+Valid oligos: 100%|█████████▉| 125171/125681 [09:28<00:01, 258.11it/s]
+Valid oligos: 100%|█████████▉| 125198/125681 [09:28<00:02, 211.04it/s]
+Valid oligos: 100%|█████████▉| 125236/125681 [09:28<00:01, 242.36it/s]
+Valid oligos: 100%|█████████▉| 125264/125681 [09:28<00:01, 229.88it/s]
+Valid oligos: 100%|█████████▉| 125300/125681 [09:28<00:01, 254.79it/s]
+Valid oligos: 100%|█████████▉| 125328/125681 [09:29<00:01, 242.46it/s]
+Valid oligos: 100%|█████████▉| 125355/125681 [09:29<00:01, 234.54it/s]
+Valid oligos: 100%|█████████▉| 125380/125681 [09:29<00:01, 222.90it/s]
+Valid oligos: 100%|█████████▉| 125404/125681 [09:29<00:01, 220.43it/s]
+Valid oligos: 100%|█████████▉| 125435/125681 [09:29<00:01, 240.07it/s]
+Valid oligos: 100%|█████████▉| 125462/125681 [09:29<00:00, 246.18it/s]
+Valid oligos: 100%|█████████▉| 125492/125681 [09:29<00:00, 251.77it/s]
+Valid oligos: 100%|█████████▉| 125518/125681 [09:29<00:00, 231.74it/s]
+Valid oligos: 100%|█████████▉| 125550/125681 [09:30<00:00, 251.37it/s]
+Valid oligos: 100%|█████████▉| 125577/125681 [09:30<00:00, 245.42it/s]
+Valid oligos: 100%|█████████▉| 125603/125681 [09:30<00:00, 240.52it/s]
+Valid oligos: 100%|█████████▉| 125628/125681 [09:30<00:00, 204.21it/s]
+Valid oligos: 100%|█████████▉| 125658/125681 [09:30<00:00, 225.52it/s]
+Valid oligos: 100%|██████████| 125681/125681 [09:30<00:00, 220.27it/s]
+INFO:root:Finished. Generated 125681 packets out of 1007723 tries (0.125)
+INFO:root:Out file's name is '/root/biyeshiji/resurlt/books/水浒传.txt.py3.dna'
+DEBUG:root:encode cost time:571.0768883228302s
+INFO:root:After reading 1000 lines, 8 chunks are done. So far: 14 rejections (0.014000) 1000 barcodes
+INFO:root:After reading 2000 lines, 9 chunks are done. So far: 30 rejections (0.015000) 2000 barcodes
+INFO:root:After reading 3000 lines, 11 chunks are done. So far: 47 rejections (0.015667) 3000 barcodes
+INFO:root:After reading 4000 lines, 16 chunks are done. So far: 68 rejections (0.017000) 4000 barcodes
+INFO:root:After reading 5000 lines, 19 chunks are done. So far: 92 rejections (0.018400) 5000 barcodes
+INFO:root:After reading 6000 lines, 20 chunks are done. So far: 118 rejections (0.019667) 6000 barcodes
+INFO:root:After reading 7000 lines, 22 chunks are done. So far: 136 rejections (0.019429) 7000 barcodes
+INFO:root:After reading 8000 lines, 26 chunks are done. So far: 156 rejections (0.019500) 8000 barcodes
+INFO:root:After reading 9000 lines, 30 chunks are done. So far: 176 rejections (0.019556) 9000 barcodes
+INFO:root:After reading 10000 lines, 35 chunks are done. So far: 196 rejections (0.019600) 10000 barcodes
+INFO:root:After reading 11000 lines, 41 chunks are done. So far: 222 rejections (0.020182) 11000 barcodes
+INFO:root:After reading 12000 lines, 49 chunks are done. So far: 237 rejections (0.019750) 12000 barcodes
+INFO:root:After reading 13000 lines, 51 chunks are done. So far: 253 rejections (0.019462) 13000 barcodes
+INFO:root:After reading 14000 lines, 57 chunks are done. So far: 273 rejections (0.019500) 14000 barcodes
+INFO:root:After reading 15000 lines, 66 chunks are done. So far: 289 rejections (0.019267) 15000 barcodes
+INFO:root:After reading 16000 lines, 78 chunks are done. So far: 310 rejections (0.019375) 16000 barcodes
+INFO:root:After reading 17000 lines, 103 chunks are done. So far: 327 rejections (0.019235) 17000 barcodes
+INFO:root:After reading 18000 lines, 128 chunks are done. So far: 349 rejections (0.019389) 18000 barcodes
+INFO:root:After reading 19000 lines, 146 chunks are done. So far: 370 rejections (0.019474) 19000 barcodes
+INFO:root:After reading 20000 lines, 170 chunks are done. So far: 380 rejections (0.019000) 20000 barcodes
+INFO:root:After reading 21000 lines, 187 chunks are done. So far: 402 rejections (0.019143) 21000 barcodes
+INFO:root:After reading 22000 lines, 223 chunks are done. So far: 418 rejections (0.019000) 22000 barcodes
+INFO:root:After reading 23000 lines, 247 chunks are done. So far: 430 rejections (0.018696) 23000 barcodes
+INFO:root:After reading 24000 lines, 257 chunks are done. So far: 446 rejections (0.018583) 24000 barcodes
+INFO:root:After reading 25000 lines, 299 chunks are done. So far: 462 rejections (0.018480) 25000 barcodes
+INFO:root:After reading 26000 lines, 352 chunks are done. So far: 471 rejections (0.018115) 26000 barcodes
+INFO:root:After reading 27000 lines, 479 chunks are done. So far: 479 rejections (0.017741) 27000 barcodes
+INFO:root:After reading 28000 lines, 595 chunks are done. So far: 488 rejections (0.017429) 28000 barcodes
+INFO:root:After reading 29000 lines, 1137 chunks are done. So far: 508 rejections (0.017517) 29000 barcodes
+INFO:root:After reading 30000 lines, 2550 chunks are done. So far: 528 rejections (0.017600) 30000 barcodes
+INFO:root:After reading 30797 lines, 28748 chunks are done. So far: 546 rejections (0.017729) 30797 barcodes
+INFO:root:Done!
+INFO:root:MD5 is 14f55e5010a2678dcbb695e16dacebd6
+INFO:root:Out file's name is '/root/biyeshiji/resurlt/books/水浒传.txt.py3.recover',that is type of '.tar.gz'
+DEBUG:root:dncode cost time:50.16685652732849s
+DEBUG:root:end time:2020-05-21 19:04:56
+DEBUG:root:cost time:621.2437448501587s
+DEBUG:root:start time:2020-05-21 19:04:56
+INFO:root:currect file name:蛙.txt
+INFO:root:Reading the file. This may take a few mintues
+DEBUG:root:Input file has 251238 bytes
+DEBUG:root:Padded the file with 26 zero to have a round number of blocks of data
+INFO:root:File MD5 is 5655c9150e4cc854aa2c8dfbb9763f41
+INFO:root:There are 7852 input segments
+INFO:root:Upper bounds on packets for decoding is 8430 (x1.073683)  with 0.001000 probability
+
+
+Valid oligos: 100%|█████████▉| 125073/125681 [08:18<00:02, 226.20it/s]
+Valid oligos: 100%|█████████▉| 125114/125681 [08:18<00:02, 257.28it/s]
+Valid oligos: 100%|█████████▉| 125145/125681 [08:18<00:02, 264.30it/s]
+Valid oligos: 100%|█████████▉| 125186/125681 [08:19<00:01, 294.36it/s]
+Valid oligos: 100%|█████████▉| 125218/125681 [08:19<00:01, 273.32it/s]
+Valid oligos: 100%|█████████▉| 125248/125681 [08:19<00:01, 265.26it/s]
+Valid oligos: 100%|█████████▉| 125276/125681 [08:19<00:01, 251.34it/s]
+Valid oligos: 100%|█████████▉| 125312/125681 [08:19<00:01, 271.85it/s]
+Valid oligos: 100%|█████████▉| 125341/125681 [08:19<00:01, 273.90it/s]
+Valid oligos: 100%|█████████▉| 125376/125681 [08:19<00:01, 290.23it/s]
+Valid oligos: 100%|█████████▉| 125408/125681 [08:19<00:00, 297.16it/s]
+Valid oligos: 100%|█████████▉| 125443/125681 [08:19<00:00, 309.86it/s]
+Valid oligos: 100%|█████████▉| 125475/125681 [08:20<00:00, 278.07it/s]
+Valid oligos: 100%|█████████▉| 125508/125681 [08:20<00:00, 291.58it/s]
+Valid oligos: 100%|█████████▉| 125540/125681 [08:20<00:00, 294.62it/s]
+Valid oligos: 100%|█████████▉| 125572/125681 [08:20<00:00, 300.26it/s]
+Valid oligos: 100%|█████████▉| 125603/125681 [08:20<00:00, 279.02it/s]
+Valid oligos: 100%|█████████▉| 125632/125681 [08:20<00:00, 246.85it/s]
+Valid oligos: 100%|█████████▉| 125659/125681 [08:20<00:00, 249.91it/s]
+Valid oligos: 100%|██████████| 125681/125681 [08:20<00:00, 250.92it/s]
+INFO:root:Finished. Generated 125681 packets out of 1005486 tries (0.125)
+INFO:root:Out file's name is '/root/biyeshiji/resurlt/books/蛙.txt.py3.dna'
+DEBUG:root:encode cost time:501.0172836780548s
+INFO:root:After reading 1000 lines, 6 chunks are done. So far: 20 rejections (0.020000) 1000 barcodes
+INFO:root:After reading 2000 lines, 7 chunks are done. So far: 30 rejections (0.015000) 2000 barcodes
+INFO:root:After reading 3000 lines, 20 chunks are done. So far: 49 rejections (0.016333) 3000 barcodes
+INFO:root:After reading 4000 lines, 23 chunks are done. So far: 66 rejections (0.016500) 4000 barcodes
+INFO:root:After reading 5000 lines, 34 chunks are done. So far: 84 rejections (0.016800) 5000 barcodes
+INFO:root:After reading 6000 lines, 55 chunks are done. So far: 101 rejections (0.016833) 6000 barcodes
+INFO:root:After reading 7000 lines, 100 chunks are done. So far: 121 rejections (0.017286) 7000 barcodes
+INFO:root:After reading 8000 lines, 379 chunks are done. So far: 133 rejections (0.016625) 8000 barcodes
+INFO:root:After reading 8567 lines, 7852 chunks are done. So far: 140 rejections (0.016342) 8567 barcodes
+INFO:root:Done!
+INFO:root:MD5 is 5655c9150e4cc854aa2c8dfbb9763f41
+INFO:root:Out file's name is '/root/biyeshiji/resurlt/books/蛙.txt.py3.recover',that is type of '.tar.gz'
+DEBUG:root:dncode cost time:8.790236949920654s
+DEBUG:root:end time:2020-05-21 19:13:26
+DEBUG:root:cost time:509.80752062797546s
+DEBUG:root:start time:2020-05-21 19:13:26
+INFO:root:currect file name:论语.txt
+INFO:root:Reading the file. This may take a few mintues
+DEBUG:root:Input file has 160785 bytes
+DEBUG:root:Padded the file with 15 zero to have a round number of blocks of data
+INFO:root:File MD5 is 7dfce34d899bb75413d791c5e04ccf94
+INFO:root:There are 5025 input segments
+INFO:root:Upper bounds on packets for decoding is 5462 (x1.087069)  with 0.001000 probability
+
+
+Valid oligos: 100%|█████████▉| 125088/125681 [08:24<00:01, 475.55it/s]
+Valid oligos: 100%|█████████▉| 125138/125681 [08:24<00:01, 468.43it/s]
+Valid oligos: 100%|█████████▉| 125186/125681 [08:24<00:01, 442.33it/s]
+Valid oligos: 100%|█████████▉| 125231/125681 [08:24<00:01, 398.28it/s]
+Valid oligos: 100%|█████████▉| 125282/125681 [08:24<00:00, 426.21it/s]
+Valid oligos: 100%|█████████▉| 125339/125681 [08:24<00:00, 456.45it/s]
+Valid oligos: 100%|█████████▉| 125387/125681 [08:25<00:00, 408.82it/s]
+Valid oligos: 100%|█████████▉| 125435/125681 [08:25<00:00, 427.33it/s]
+Valid oligos: 100%|█████████▉| 125483/125681 [08:25<00:00, 438.33it/s]
+Valid oligos: 100%|█████████▉| 125529/125681 [08:25<00:00, 405.85it/s]
+Valid oligos: 100%|█████████▉| 125579/125681 [08:25<00:00, 426.92it/s]
+Valid oligos: 100%|█████████▉| 125625/125681 [08:25<00:00, 412.02it/s]
+Valid oligos: 100%|█████████▉| 125669/125681 [08:25<00:00, 415.54it/s]
+Valid oligos: 100%|██████████| 125681/125681 [08:25<00:00, 248.48it/s]
+INFO:root:Finished. Generated 125681 packets out of 1004744 tries (0.125)
+INFO:root:Out file's name is '/root/biyeshiji/resurlt/books/论语.txt.py3.dna'
+DEBUG:root:encode cost time:505.8554265499115s
+INFO:root:After reading 1000 lines, 8 chunks are done. So far: 18 rejections (0.018000) 1000 barcodes
+INFO:root:After reading 2000 lines, 13 chunks are done. So far: 33 rejections (0.016500) 2000 barcodes
+INFO:root:After reading 3000 lines, 30 chunks are done. So far: 50 rejections (0.016667) 3000 barcodes
+INFO:root:After reading 4000 lines, 79 chunks are done. So far: 61 rejections (0.015250) 4000 barcodes
+INFO:root:After reading 5000 lines, 211 chunks are done. So far: 78 rejections (0.015600) 5000 barcodes
+INFO:root:After reading 5536 lines, 5025 chunks are done. So far: 91 rejections (0.016438) 5536 barcodes
+INFO:root:Done!
+INFO:root:MD5 is 7dfce34d899bb75413d791c5e04ccf94
+INFO:root:Out file's name is '/root/biyeshiji/resurlt/books/论语.txt.py3.recover',that is type of '.tar.gz'
+DEBUG:root:dncode cost time:3.2299418449401855s
+DEBUG:root:end time:2020-05-21 19:21:55
+DEBUG:root:cost time:509.0853683948517s
+DEBUG:root:start time:2020-05-21 19:21:55
+INFO:root:currect file name:西游记.txt
+INFO:root:Reading the file. This may take a few mintues
+DEBUG:root:Input file has 953523 bytes
+DEBUG:root:Padded the file with 13 zero to have a round number of blocks of data
+INFO:root:File MD5 is 5d5d7e34cacedc0cd02bc3608675684e
+INFO:root:There are 29798 input segments
+INFO:root:Upper bounds on packets for decoding is 31118 (x1.044329)  with 0.001000 probability
+
+
+Valid oligos: 100%|█████████▉| 125061/125681 [05:18<00:01, 418.81it/s]
+Valid oligos: 100%|█████████▉| 125104/125681 [05:18<00:01, 412.89it/s]
+Valid oligos: 100%|█████████▉| 125147/125681 [05:18<00:01, 408.61it/s]
+Valid oligos: 100%|█████████▉| 125191/125681 [05:18<00:01, 411.42it/s]
+Valid oligos: 100%|█████████▉| 125246/125681 [05:18<00:00, 443.06it/s]
+Valid oligos: 100%|█████████▉| 125292/125681 [05:18<00:00, 424.60it/s]
+Valid oligos: 100%|█████████▉| 125336/125681 [05:18<00:00, 397.50it/s]
+Valid oligos: 100%|█████████▉| 125377/125681 [05:18<00:00, 375.34it/s]
+Valid oligos: 100%|█████████▉| 125416/125681 [05:18<00:00, 369.48it/s]
+Valid oligos: 100%|█████████▉| 125460/125681 [05:19<00:00, 380.10it/s]
+Valid oligos: 100%|█████████▉| 125499/125681 [05:19<00:00, 360.53it/s]
+Valid oligos: 100%|█████████▉| 125536/125681 [05:19<00:00, 354.62it/s]
+Valid oligos: 100%|█████████▉| 125578/125681 [05:19<00:00, 371.80it/s]
+Valid oligos: 100%|█████████▉| 125624/125681 [05:19<00:00, 393.20it/s]
+Valid oligos: 100%|█████████▉| 125665/125681 [05:19<00:00, 377.02it/s]
+Valid oligos: 100%|██████████| 125681/125681 [05:19<00:00, 393.22it/s]
+INFO:root:Finished. Generated 125681 packets out of 1007514 tries (0.125)
+INFO:root:Out file's name is '/root/biyeshiji/resurlt/books/西游记.txt.py3.dna'
+DEBUG:root:encode cost time:319.9883089065552s
+INFO:root:After reading 1000 lines, 1 chunks are done. So far: 14 rejections (0.014000) 1000 barcodes
+INFO:root:After reading 2000 lines, 4 chunks are done. So far: 37 rejections (0.018500) 2000 barcodes
+INFO:root:After reading 3000 lines, 11 chunks are done. So far: 53 rejections (0.017667) 3000 barcodes
+INFO:root:After reading 4000 lines, 12 chunks are done. So far: 75 rejections (0.018750) 4000 barcodes
+INFO:root:After reading 5000 lines, 19 chunks are done. So far: 90 rejections (0.018000) 5000 barcodes
+INFO:root:After reading 6000 lines, 20 chunks are done. So far: 107 rejections (0.017833) 6000 barcodes
+INFO:root:After reading 7000 lines, 23 chunks are done. So far: 129 rejections (0.018429) 7000 barcodes
+INFO:root:After reading 8000 lines, 29 chunks are done. So far: 147 rejections (0.018375) 8000 barcodes
+INFO:root:After reading 9000 lines, 30 chunks are done. So far: 175 rejections (0.019444) 9000 barcodes
+INFO:root:After reading 10000 lines, 35 chunks are done. So far: 191 rejections (0.019100) 10000 barcodes
+INFO:root:After reading 11000 lines, 41 chunks are done. So far: 210 rejections (0.019091) 11000 barcodes
+INFO:root:After reading 12000 lines, 58 chunks are done. So far: 230 rejections (0.019167) 12000 barcodes
+INFO:root:After reading 13000 lines, 65 chunks are done. So far: 249 rejections (0.019154) 13000 barcodes
+INFO:root:After reading 14000 lines, 78 chunks are done. So far: 259 rejections (0.018500) 14000 barcodes
+INFO:root:After reading 15000 lines, 87 chunks are done. So far: 275 rejections (0.018333) 15000 barcodes
+INFO:root:After reading 16000 lines, 101 chunks are done. So far: 291 rejections (0.018187) 16000 barcodes
+INFO:root:After reading 17000 lines, 122 chunks are done. So far: 302 rejections (0.017765) 17000 barcodes
+INFO:root:After reading 18000 lines, 133 chunks are done. So far: 317 rejections (0.017611) 18000 barcodes
+INFO:root:After reading 19000 lines, 140 chunks are done. So far: 328 rejections (0.017263) 19000 barcodes
+INFO:root:After reading 20000 lines, 151 chunks are done. So far: 349 rejections (0.017450) 20000 barcodes
+INFO:root:After reading 21000 lines, 171 chunks are done. So far: 364 rejections (0.017333) 21000 barcodes
+INFO:root:After reading 22000 lines, 188 chunks are done. So far: 383 rejections (0.017409) 22000 barcodes
+INFO:root:After reading 23000 lines, 208 chunks are done. So far: 402 rejections (0.017478) 23000 barcodes
+INFO:root:After reading 24000 lines, 215 chunks are done. So far: 417 rejections (0.017375) 24000 barcodes
+INFO:root:After reading 25000 lines, 244 chunks are done. So far: 424 rejections (0.016960) 25000 barcodes
+INFO:root:After reading 26000 lines, 269 chunks are done. So far: 439 rejections (0.016885) 26000 barcodes
+INFO:root:After reading 27000 lines, 393 chunks are done. So far: 453 rejections (0.016778) 27000 barcodes
+INFO:root:After reading 28000 lines, 429 chunks are done. So far: 476 rejections (0.017000) 28000 barcodes
+INFO:root:After reading 29000 lines, 535 chunks are done. So far: 489 rejections (0.016862) 29000 barcodes
+INFO:root:After reading 30000 lines, 609 chunks are done. So far: 502 rejections (0.016733) 30000 barcodes
+INFO:root:After reading 31000 lines, 1228 chunks are done. So far: 520 rejections (0.016774) 31000 barcodes
+INFO:root:After reading 31740 lines, 29798 chunks are done. So far: 533 rejections (0.016793) 31740 barcodes
+INFO:root:Done!
+INFO:root:MD5 is 5d5d7e34cacedc0cd02bc3608675684e
+INFO:root:Out file's name is '/root/biyeshiji/resurlt/books/西游记.txt.py3.recover',that is type of '.tar.gz'
+DEBUG:root:dncode cost time:40.31619119644165s
+DEBUG:root:end time:2020-05-21 19:27:56
+DEBUG:root:cost time:360.3045001029968s
+DEBUG:root:start time:2020-05-21 19:27:56
+INFO:root:currect file name:安娜·卡列尼娜.txt
+INFO:root:Reading the file. This may take a few mintues
+DEBUG:root:Input file has 747724 bytes
+DEBUG:root:Padded the file with 20 zero to have a round number of blocks of data
+INFO:root:File MD5 is 9f2546f7ef55a7bcb92ab63b5049c1ca
+INFO:root:There are 23367 input segments
+INFO:root:Upper bounds on packets for decoding is 24504 (x1.048675)  with 0.001000 probability
+
+
+Valid oligos: 100%|█████████▉| 125054/125681 [07:21<00:02, 253.92it/s]
+Valid oligos: 100%|█████████▉| 125082/125681 [07:21<00:02, 260.97it/s]
+Valid oligos: 100%|█████████▉| 125114/125681 [07:21<00:02, 272.69it/s]
+Valid oligos: 100%|█████████▉| 125142/125681 [07:21<00:02, 258.08it/s]
+Valid oligos: 100%|█████████▉| 125169/125681 [07:21<00:02, 230.96it/s]
+Valid oligos: 100%|█████████▉| 125201/125681 [07:21<00:01, 251.43it/s]
+Valid oligos: 100%|█████████▉| 125228/125681 [07:21<00:01, 238.97it/s]
+Valid oligos: 100%|█████████▉| 125255/125681 [07:21<00:01, 241.71it/s]
+Valid oligos: 100%|█████████▉| 125280/125681 [07:21<00:01, 233.44it/s]
+Valid oligos: 100%|█████████▉| 125309/125681 [07:22<00:01, 245.27it/s]
+Valid oligos: 100%|█████████▉| 125335/125681 [07:22<00:01, 212.84it/s]
+Valid oligos: 100%|█████████▉| 125358/125681 [07:22<00:01, 185.18it/s]
+Valid oligos: 100%|█████████▉| 125383/125681 [07:22<00:01, 200.64it/s]
+Valid oligos: 100%|█████████▉| 125405/125681 [07:22<00:01, 191.40it/s]
+Valid oligos: 100%|█████████▉| 125428/125681 [07:22<00:01, 200.60it/s]
+Valid oligos: 100%|█████████▉| 125458/125681 [07:22<00:01, 221.39it/s]
+Valid oligos: 100%|█████████▉| 125482/125681 [07:22<00:00, 216.92it/s]
+Valid oligos: 100%|█████████▉| 125508/125681 [07:23<00:00, 226.72it/s]
+Valid oligos: 100%|█████████▉| 125532/125681 [07:23<00:00, 228.54it/s]
+Valid oligos: 100%|█████████▉| 125558/125681 [07:23<00:00, 236.08it/s]
+Valid oligos: 100%|█████████▉| 125583/125681 [07:23<00:00, 214.10it/s]
+Valid oligos: 100%|█████████▉| 125606/125681 [07:23<00:00, 187.44it/s]
+Valid oligos: 100%|█████████▉| 125633/125681 [07:23<00:00, 201.05it/s]
+Valid oligos: 100%|█████████▉| 125659/125681 [07:23<00:00, 215.67it/s]
+Valid oligos: 100%|██████████| 125681/125681 [07:23<00:00, 283.15it/s]
+INFO:root:Finished. Generated 125681 packets out of 1007915 tries (0.125)
+INFO:root:Out file's name is '/root/biyeshiji/resurlt/books/安娜·卡列尼娜.txt.py3.dna'
+DEBUG:root:encode cost time:444.26635932922363s
+INFO:root:After reading 1000 lines, 3 chunks are done. So far: 16 rejections (0.016000) 1000 barcodes
+INFO:root:After reading 2000 lines, 6 chunks are done. So far: 42 rejections (0.021000) 2000 barcodes
+INFO:root:After reading 3000 lines, 10 chunks are done. So far: 53 rejections (0.017667) 3000 barcodes
+INFO:root:After reading 4000 lines, 11 chunks are done. So far: 71 rejections (0.017750) 4000 barcodes
+INFO:root:After reading 5000 lines, 16 chunks are done. So far: 83 rejections (0.016600) 5000 barcodes
+INFO:root:After reading 6000 lines, 19 chunks are done. So far: 97 rejections (0.016167) 6000 barcodes
+INFO:root:After reading 7000 lines, 22 chunks are done. So far: 114 rejections (0.016286) 7000 barcodes
+INFO:root:After reading 8000 lines, 29 chunks are done. So far: 130 rejections (0.016250) 8000 barcodes
+INFO:root:After reading 9000 lines, 34 chunks are done. So far: 147 rejections (0.016333) 9000 barcodes
+INFO:root:After reading 10000 lines, 37 chunks are done. So far: 159 rejections (0.015900) 10000 barcodes
+INFO:root:After reading 11000 lines, 49 chunks are done. So far: 179 rejections (0.016273) 11000 barcodes
+INFO:root:After reading 12000 lines, 52 chunks are done. So far: 190 rejections (0.015833) 12000 barcodes
+INFO:root:After reading 13000 lines, 71 chunks are done. So far: 204 rejections (0.015692) 13000 barcodes
+INFO:root:After reading 14000 lines, 73 chunks are done. So far: 220 rejections (0.015714) 14000 barcodes
+INFO:root:After reading 15000 lines, 96 chunks are done. So far: 234 rejections (0.015600) 15000 barcodes
+INFO:root:After reading 16000 lines, 104 chunks are done. So far: 257 rejections (0.016063) 16000 barcodes
+INFO:root:After reading 17000 lines, 112 chunks are done. So far: 267 rejections (0.015706) 17000 barcodes
+INFO:root:After reading 18000 lines, 140 chunks are done. So far: 286 rejections (0.015889) 18000 barcodes
+INFO:root:After reading 19000 lines, 215 chunks are done. So far: 302 rejections (0.015895) 19000 barcodes
+INFO:root:After reading 20000 lines, 262 chunks are done. So far: 319 rejections (0.015950) 20000 barcodes
+INFO:root:After reading 21000 lines, 318 chunks are done. So far: 339 rejections (0.016143) 21000 barcodes
+INFO:root:After reading 22000 lines, 405 chunks are done. So far: 360 rejections (0.016364) 22000 barcodes
+INFO:root:After reading 23000 lines, 497 chunks are done. So far: 381 rejections (0.016565) 23000 barcodes
+INFO:root:After reading 24000 lines, 1703 chunks are done. So far: 398 rejections (0.016583) 24000 barcodes
+INFO:root:After reading 24902 lines, 23367 chunks are done. So far: 411 rejections (0.016505) 24902 barcodes
+INFO:root:Done!
+INFO:root:MD5 is 9f2546f7ef55a7bcb92ab63b5049c1ca
+INFO:root:Out file's name is '/root/biyeshiji/resurlt/books/安娜·卡列尼娜.txt.py3.recover',that is type of '.tar.gz'
+DEBUG:root:dncode cost time:39.9509539604187s
+DEBUG:root:end time:2020-05-21 19:36:00
+DEBUG:root:cost time:484.21731328964233s
+DEBUG:root:start time:2020-05-21 19:36:00
+INFO:root:currect file name:中华人民共和国宪法.txt
+INFO:root:Reading the file. This may take a few mintues
+DEBUG:root:Input file has 184846 bytes
+DEBUG:root:Padded the file with 18 zero to have a round number of blocks of data
+INFO:root:File MD5 is babf392a6c095ae62f63b7d51a985ebe
+INFO:root:There are 5777 input segments
+INFO:root:Upper bounds on packets for decoding is 6254 (x1.082668)  with 0.001000 probability
+
+
+Valid oligos: 100%|█████████▉| 125071/125681 [06:23<00:01, 463.96it/s]
+Valid oligos: 100%|█████████▉| 125118/125681 [06:23<00:01, 428.64it/s]
+Valid oligos: 100%|█████████▉| 125173/125681 [06:23<00:01, 453.74it/s]
+Valid oligos: 100%|█████████▉| 125221/125681 [06:23<00:01, 451.32it/s]
+Valid oligos: 100%|█████████▉| 125267/125681 [06:23<00:01, 385.86it/s]
+Valid oligos: 100%|█████████▉| 125308/125681 [06:23<00:00, 387.94it/s]
+Valid oligos: 100%|█████████▉| 125358/125681 [06:23<00:00, 415.48it/s]
+Valid oligos: 100%|█████████▉| 125402/125681 [06:24<00:00, 379.12it/s]
+Valid oligos: 100%|█████████▉| 125452/125681 [06:24<00:00, 408.22it/s]
+Valid oligos: 100%|█████████▉| 125495/125681 [06:24<00:00, 381.81it/s]
+Valid oligos: 100%|█████████▉| 125543/125681 [06:24<00:00, 402.42it/s]
+Valid oligos: 100%|█████████▉| 125594/125681 [06:24<00:00, 423.85it/s]
+Valid oligos: 100%|█████████▉| 125643/125681 [06:24<00:00, 440.03it/s]
+Valid oligos: 100%|██████████| 125681/125681 [06:24<00:00, 326.67it/s]
+INFO:root:Finished. Generated 125681 packets out of 1008764 tries (0.125)
+INFO:root:Out file's name is '/root/biyeshiji/resurlt/books/中华人民共和国宪法.txt.py3.dna'
+DEBUG:root:encode cost time:384.8201835155487s
+INFO:root:After reading 1000 lines, 3 chunks are done. So far: 26 rejections (0.026000) 1000 barcodes
+INFO:root:After reading 2000 lines, 10 chunks are done. So far: 41 rejections (0.020500) 2000 barcodes
+INFO:root:After reading 3000 lines, 22 chunks are done. So far: 59 rejections (0.019667) 3000 barcodes
+INFO:root:After reading 4000 lines, 43 chunks are done. So far: 83 rejections (0.020750) 4000 barcodes
+INFO:root:After reading 5000 lines, 82 chunks are done. So far: 102 rejections (0.020400) 5000 barcodes
+INFO:root:After reading 6000 lines, 786 chunks are done. So far: 119 rejections (0.019833) 6000 barcodes
+INFO:root:After reading 6413 lines, 5777 chunks are done. So far: 124 rejections (0.019336) 6413 barcodes
+INFO:root:Done!
+INFO:root:MD5 is babf392a6c095ae62f63b7d51a985ebe
+INFO:root:Out file's name is '/root/biyeshiji/resurlt/books/中华人民共和国宪法.txt.py3.recover',that is type of '.tar.gz'
+DEBUG:root:dncode cost time:4.178126573562622s
+DEBUG:root:end time:2020-05-21 19:42:29
+DEBUG:root:cost time:388.9983100891113s
+DEBUG:root:start time:2020-05-21 19:42:29
+INFO:root:currect file name:钢铁是怎样炼成的.txt
+INFO:root:Reading the file. This may take a few mintues
+DEBUG:root:Input file has 332043 bytes
+DEBUG:root:Padded the file with 21 zero to have a round number of blocks of data
+INFO:root:File MD5 is a6b126662eccda8c0586db7acfde2e9b
+INFO:root:There are 10377 input segments
+INFO:root:Upper bounds on packets for decoding is 11065 (x1.066328)  with 0.001000 probability
+
+
+Valid oligos: 100%|█████████▉| 125053/125681 [08:31<00:03, 183.00it/s]
+Valid oligos: 100%|█████████▉| 125074/125681 [08:31<00:03, 184.72it/s]
+Valid oligos: 100%|█████████▉| 125094/125681 [08:31<00:03, 187.68it/s]
+Valid oligos: 100%|█████████▉| 125114/125681 [08:31<00:03, 178.95it/s]
+Valid oligos: 100%|█████████▉| 125141/125681 [08:32<00:02, 197.35it/s]
+Valid oligos: 100%|█████████▉| 125165/125681 [08:32<00:02, 206.45it/s]
+Valid oligos: 100%|█████████▉| 125190/125681 [08:32<00:02, 216.97it/s]
+Valid oligos: 100%|█████████▉| 125213/125681 [08:32<00:02, 211.46it/s]
+Valid oligos: 100%|█████████▉| 125235/125681 [08:32<00:02, 212.08it/s]
+Valid oligos: 100%|█████████▉| 125259/125681 [08:32<00:01, 219.30it/s]
+Valid oligos: 100%|█████████▉| 125282/125681 [08:32<00:01, 200.17it/s]
+Valid oligos: 100%|█████████▉| 125303/125681 [08:32<00:01, 202.06it/s]
+Valid oligos: 100%|█████████▉| 125324/125681 [08:32<00:01, 178.97it/s]
+Valid oligos: 100%|█████████▉| 125346/125681 [08:33<00:01, 188.99it/s]
+Valid oligos: 100%|█████████▉| 125371/125681 [08:33<00:01, 202.96it/s]
+Valid oligos: 100%|█████████▉| 125397/125681 [08:33<00:01, 206.90it/s]
+Valid oligos: 100%|█████████▉| 125426/125681 [08:33<00:01, 224.20it/s]
+Valid oligos: 100%|█████████▉| 125454/125681 [08:33<00:00, 236.90it/s]
+Valid oligos: 100%|█████████▉| 125479/125681 [08:33<00:00, 224.75it/s]
+Valid oligos: 100%|█████████▉| 125503/125681 [08:33<00:00, 217.27it/s]
+Valid oligos: 100%|█████████▉| 125526/125681 [08:33<00:00, 198.81it/s]
+Valid oligos: 100%|█████████▉| 125548/125681 [08:33<00:00, 203.93it/s]
+Valid oligos: 100%|█████████▉| 125571/125681 [08:34<00:00, 207.18it/s]
+Valid oligos: 100%|█████████▉| 125593/125681 [08:34<00:00, 198.22it/s]
+Valid oligos: 100%|█████████▉| 125623/125681 [08:34<00:00, 220.43it/s]
+Valid oligos: 100%|█████████▉| 125647/125681 [08:34<00:00, 216.56it/s]
+Valid oligos: 100%|█████████▉| 125675/125681 [08:34<00:00, 231.51it/s]
+Valid oligos: 100%|██████████| 125681/125681 [08:34<00:00, 244.25it/s]
+INFO:root:Finished. Generated 125681 packets out of 1003754 tries (0.125)
+INFO:root:Out file's name is '/root/biyeshiji/resurlt/books/钢铁是怎样炼成的.txt.py3.dna'
+DEBUG:root:encode cost time:514.6873950958252s
+INFO:root:After reading 1000 lines, 4 chunks are done. So far: 17 rejections (0.017000) 1000 barcodes
+INFO:root:After reading 2000 lines, 10 chunks are done. So far: 40 rejections (0.020000) 2000 barcodes
+INFO:root:After reading 3000 lines, 15 chunks are done. So far: 57 rejections (0.019000) 3000 barcodes
+INFO:root:After reading 4000 lines, 19 chunks are done. So far: 80 rejections (0.020000) 4000 barcodes
+INFO:root:After reading 5000 lines, 36 chunks are done. So far: 100 rejections (0.020000) 5000 barcodes
+INFO:root:After reading 6000 lines, 44 chunks are done. So far: 121 rejections (0.020167) 6000 barcodes
+INFO:root:After reading 7000 lines, 69 chunks are done. So far: 146 rejections (0.020857) 7000 barcodes
+INFO:root:After reading 8000 lines, 80 chunks are done. So far: 164 rejections (0.020500) 8000 barcodes
+INFO:root:After reading 9000 lines, 99 chunks are done. So far: 173 rejections (0.019222) 9000 barcodes
+INFO:root:After reading 10000 lines, 159 chunks are done. So far: 192 rejections (0.019200) 10000 barcodes
+INFO:root:After reading 11000 lines, 2091 chunks are done. So far: 206 rejections (0.018727) 11000 barcodes
+INFO:root:After reading 11359 lines, 10377 chunks are done. So far: 211 rejections (0.018576) 11359 barcodes
+INFO:root:Done!
+INFO:root:MD5 is a6b126662eccda8c0586db7acfde2e9b
+INFO:root:Out file's name is '/root/biyeshiji/resurlt/books/钢铁是怎样炼成的.txt.py3.recover',that is type of '.tar.gz'
+DEBUG:root:dncode cost time:14.72795820236206s
+DEBUG:root:end time:2020-05-21 19:51:19
+DEBUG:root:cost time:529.4153532981873s
+DEBUG:root:start time:2020-05-21 19:51:19
+INFO:root:currect file name:时间简史.txt
+INFO:root:Reading the file. This may take a few mintues
+DEBUG:root:Input file has 104833 bytes
+DEBUG:root:Padded the file with 31 zero to have a round number of blocks of data
+INFO:root:File MD5 is 60aec642cf6b2c85fe312dbe70db1b42
+INFO:root:There are 3277 input segments
+INFO:root:Upper bounds on packets for decoding is 3611 (x1.102027)  with 0.001000 probability
+
+
+Valid oligos: 100%|█████████▉| 125077/125681 [09:22<00:02, 214.53it/s]
+Valid oligos: 100%|█████████▉| 125100/125681 [09:22<00:02, 214.20it/s]
+Valid oligos: 100%|█████████▉| 125123/125681 [09:22<00:02, 212.41it/s]
+Valid oligos: 100%|█████████▉| 125152/125681 [09:22<00:02, 230.55it/s]
+Valid oligos: 100%|█████████▉| 125176/125681 [09:23<00:02, 209.05it/s]
+Valid oligos: 100%|█████████▉| 125205/125681 [09:23<00:02, 227.13it/s]
+Valid oligos: 100%|█████████▉| 125242/125681 [09:23<00:01, 254.39it/s]
+Valid oligos: 100%|█████████▉| 125270/125681 [09:23<00:01, 252.99it/s]
+Valid oligos: 100%|█████████▉| 125297/125681 [09:23<00:01, 236.08it/s]
+Valid oligos: 100%|█████████▉| 125323/125681 [09:23<00:01, 237.07it/s]
+Valid oligos: 100%|█████████▉| 125348/125681 [09:23<00:01, 210.86it/s]
+Valid oligos: 100%|█████████▉| 125381/125681 [09:23<00:01, 234.47it/s]
+Valid oligos: 100%|█████████▉| 125407/125681 [09:24<00:01, 229.97it/s]
+Valid oligos: 100%|█████████▉| 125434/125681 [09:24<00:01, 235.87it/s]
+Valid oligos: 100%|█████████▉| 125460/125681 [09:24<00:00, 240.65it/s]
+Valid oligos: 100%|█████████▉| 125485/125681 [09:24<00:00, 229.37it/s]
+Valid oligos: 100%|█████████▉| 125512/125681 [09:24<00:00, 239.97it/s]
+Valid oligos: 100%|█████████▉| 125537/125681 [09:24<00:00, 210.64it/s]
+Valid oligos: 100%|█████████▉| 125560/125681 [09:24<00:00, 198.07it/s]
+Valid oligos: 100%|█████████▉| 125584/125681 [09:24<00:00, 199.48it/s]
+Valid oligos: 100%|█████████▉| 125605/125681 [09:24<00:00, 200.87it/s]
+Valid oligos: 100%|█████████▉| 125626/125681 [09:25<00:00, 188.60it/s]
+Valid oligos: 100%|█████████▉| 125646/125681 [09:25<00:00, 180.87it/s]
+Valid oligos: 100%|█████████▉| 125669/125681 [09:25<00:00, 188.57it/s]
+Valid oligos: 100%|██████████| 125681/125681 [09:25<00:00, 222.29it/s]
+INFO:root:Finished. Generated 125681 packets out of 1005386 tries (0.125)
+INFO:root:Out file's name is '/root/biyeshiji/resurlt/books/时间简史.txt.py3.dna'
+DEBUG:root:encode cost time:565.4447674751282s
+INFO:root:After reading 1000 lines, 6 chunks are done. So far: 12 rejections (0.012000) 1000 barcodes
+INFO:root:After reading 2000 lines, 27 chunks are done. So far: 40 rejections (0.020000) 2000 barcodes
+INFO:root:After reading 3000 lines, 66 chunks are done. So far: 62 rejections (0.020667) 3000 barcodes
+INFO:root:After reading 4000 lines, 176 chunks are done. So far: 79 rejections (0.019750) 4000 barcodes
+INFO:root:After reading 4046 lines, 3277 chunks are done. So far: 79 rejections (0.019525) 4046 barcodes
+INFO:root:Done!
+INFO:root:MD5 is 60aec642cf6b2c85fe312dbe70db1b42
+INFO:root:Out file's name is '/root/biyeshiji/resurlt/books/时间简史.txt.py3.recover',that is type of '.tar.gz'
+DEBUG:root:dncode cost time:4.213233947753906s
+DEBUG:root:end time:2020-05-21 20:00:48
+DEBUG:root:cost time:569.6580014228821s
+DEBUG:root:start time:2020-05-21 20:00:48
+INFO:root:currect file name:老人与海.txt
+INFO:root:Reading the file. This may take a few mintues
+DEBUG:root:Input file has 49541 bytes
+DEBUG:root:Padded the file with 27 zero to have a round number of blocks of data
+INFO:root:File MD5 is 02252ddca56fbb0872e391682c341c12
+INFO:root:There are 1549 input segments
+INFO:root:Upper bounds on packets for decoding is 1756 (x1.134190)  with 0.001000 probability
+
+
+Valid oligos: 100%|█████████▉| 125064/125681 [07:57<00:02, 257.85it/s]
+Valid oligos: 100%|█████████▉| 125093/125681 [07:57<00:02, 261.15it/s]
+Valid oligos: 100%|█████████▉| 125120/125681 [07:57<00:02, 258.89it/s]
+Valid oligos: 100%|█████████▉| 125147/125681 [07:57<00:02, 255.32it/s]
+Valid oligos: 100%|█████████▉| 125174/125681 [07:57<00:01, 254.52it/s]
+Valid oligos: 100%|█████████▉| 125207/125681 [07:57<00:01, 270.62it/s]
+Valid oligos: 100%|█████████▉| 125242/125681 [07:57<00:01, 288.96it/s]
+Valid oligos: 100%|█████████▉| 125272/125681 [07:57<00:01, 276.76it/s]
+Valid oligos: 100%|█████████▉| 125304/125681 [07:58<00:01, 287.63it/s]
+Valid oligos: 100%|█████████▉| 125334/125681 [07:58<00:01, 257.35it/s]
+Valid oligos: 100%|█████████▉| 125361/125681 [07:58<00:01, 246.86it/s]
+Valid oligos: 100%|█████████▉| 125387/125681 [07:58<00:01, 246.91it/s]
+Valid oligos: 100%|█████████▉| 125418/125681 [07:58<00:01, 255.73it/s]
+Valid oligos: 100%|█████████▉| 125445/125681 [07:58<00:00, 258.85it/s]
+Valid oligos: 100%|█████████▉| 125472/125681 [07:58<00:00, 243.82it/s]
+Valid oligos: 100%|█████████▉| 125497/125681 [07:58<00:00, 238.68it/s]
+Valid oligos: 100%|█████████▉| 125522/125681 [07:58<00:00, 232.42it/s]
+Valid oligos: 100%|█████████▉| 125550/125681 [07:59<00:00, 242.07it/s]
+Valid oligos: 100%|█████████▉| 125581/125681 [07:59<00:00, 255.09it/s]
+Valid oligos: 100%|█████████▉| 125612/125681 [07:59<00:00, 267.34it/s]
+Valid oligos: 100%|█████████▉| 125640/125681 [07:59<00:00, 253.51it/s]
+Valid oligos: 100%|█████████▉| 125668/125681 [07:59<00:00, 260.50it/s]
+Valid oligos: 100%|██████████| 125681/125681 [07:59<00:00, 262.07it/s]
+INFO:root:Finished. Generated 125681 packets out of 1008365 tries (0.125)
+INFO:root:Out file's name is '/root/biyeshiji/resurlt/books/老人与海.txt.py3.dna'
+DEBUG:root:encode cost time:479.5917663574219s
+INFO:root:After reading 1000 lines, 6 chunks are done. So far: 24 rejections (0.024000) 1000 barcodes
+INFO:root:After reading 1933 lines, 1549 chunks are done. So far: 37 rejections (0.019141) 1933 barcodes
+INFO:root:Done!
+INFO:root:MD5 is 02252ddca56fbb0872e391682c341c12
+INFO:root:Out file's name is '/root/biyeshiji/resurlt/books/老人与海.txt.py3.recover',that is type of '.tar.gz'
+DEBUG:root:dncode cost time:1.676215410232544s
+DEBUG:root:end time:2020-05-21 20:08:50
+DEBUG:root:cost time:481.2679817676544s
+DEBUG:root:start time:2020-05-21 20:08:50
+INFO:root:currect file name:三国演义.txt
+INFO:root:Reading the file. This may take a few mintues
+DEBUG:root:Input file has 783702 bytes
+DEBUG:root:Padded the file with 10 zero to have a round number of blocks of data
+INFO:root:File MD5 is 1b3eb6aa48828a8a63fde9f96ea0ab18
+INFO:root:There are 24491 input segments
+INFO:root:Upper bounds on packets for decoding is 25661 (x1.047801)  with 0.001000 probability
+
+
+Valid oligos: 100%|█████████▉| 125061/125681 [09:16<00:02, 218.35it/s]
+Valid oligos: 100%|█████████▉| 125084/125681 [09:16<00:02, 203.66it/s]
+Valid oligos: 100%|█████████▉| 125105/125681 [09:16<00:02, 192.99it/s]
+Valid oligos: 100%|█████████▉| 125130/125681 [09:16<00:02, 206.46it/s]
+Valid oligos: 100%|█████████▉| 125157/125681 [09:16<00:02, 216.83it/s]
+Valid oligos: 100%|█████████▉| 125180/125681 [09:16<00:02, 204.05it/s]
+Valid oligos: 100%|█████████▉| 125212/125681 [09:16<00:02, 228.66it/s]
+Valid oligos: 100%|█████████▉| 125237/125681 [09:16<00:01, 224.42it/s]
+Valid oligos: 100%|█████████▉| 125261/125681 [09:17<00:01, 218.84it/s]
+Valid oligos: 100%|█████████▉| 125284/125681 [09:17<00:01, 202.73it/s]
+Valid oligos: 100%|█████████▉| 125306/125681 [09:17<00:01, 197.68it/s]
+Valid oligos: 100%|█████████▉| 125328/125681 [09:17<00:01, 203.17it/s]
+Valid oligos: 100%|█████████▉| 125350/125681 [09:17<00:01, 207.71it/s]
+Valid oligos: 100%|█████████▉| 125374/125681 [09:17<00:01, 214.23it/s]
+Valid oligos: 100%|█████████▉| 125396/125681 [09:17<00:01, 170.19it/s]
+Valid oligos: 100%|█████████▉| 125415/125681 [09:17<00:01, 161.00it/s]
+Valid oligos: 100%|█████████▉| 125433/125681 [09:18<00:02, 121.13it/s]
+Valid oligos: 100%|█████████▉| 125448/125681 [09:18<00:01, 125.02it/s]
+Valid oligos: 100%|█████████▉| 125472/125681 [09:18<00:01, 145.21it/s]
+Valid oligos: 100%|█████████▉| 125492/125681 [09:18<00:01, 157.61it/s]
+Valid oligos: 100%|█████████▉| 125510/125681 [09:18<00:01, 141.89it/s]
+Valid oligos: 100%|█████████▉| 125534/125681 [09:18<00:00, 161.26it/s]
+Valid oligos: 100%|█████████▉| 125553/125681 [09:18<00:00, 153.86it/s]
+Valid oligos: 100%|█████████▉| 125579/125681 [09:18<00:00, 174.46it/s]
+Valid oligos: 100%|█████████▉| 125605/125681 [09:19<00:00, 192.60it/s]
+Valid oligos: 100%|█████████▉| 125636/125681 [09:19<00:00, 217.10it/s]
+Valid oligos: 100%|█████████▉| 125668/125681 [09:19<00:00, 238.72it/s]
+Valid oligos: 100%|██████████| 125681/125681 [09:19<00:00, 224.66it/s]
+INFO:root:Finished. Generated 125681 packets out of 1007249 tries (0.125)
+INFO:root:Out file's name is '/root/biyeshiji/resurlt/books/三国演义.txt.py3.dna'
+DEBUG:root:encode cost time:559.8177103996277s
+INFO:root:After reading 1000 lines, 4 chunks are done. So far: 14 rejections (0.014000) 1000 barcodes
+INFO:root:After reading 2000 lines, 8 chunks are done. So far: 36 rejections (0.018000) 2000 barcodes
+INFO:root:After reading 3000 lines, 10 chunks are done. So far: 58 rejections (0.019333) 3000 barcodes
+INFO:root:After reading 4000 lines, 11 chunks are done. So far: 67 rejections (0.016750) 4000 barcodes
+INFO:root:After reading 5000 lines, 13 chunks are done. So far: 87 rejections (0.017400) 5000 barcodes
+INFO:root:After reading 6000 lines, 14 chunks are done. So far: 100 rejections (0.016667) 6000 barcodes
+INFO:root:After reading 7000 lines, 17 chunks are done. So far: 120 rejections (0.017143) 7000 barcodes
+INFO:root:After reading 8000 lines, 22 chunks are done. So far: 132 rejections (0.016500) 8000 barcodes
+INFO:root:After reading 9000 lines, 25 chunks are done. So far: 151 rejections (0.016778) 9000 barcodes
+INFO:root:After reading 10000 lines, 30 chunks are done. So far: 166 rejections (0.016600) 10000 barcodes
+INFO:root:After reading 11000 lines, 37 chunks are done. So far: 185 rejections (0.016818) 11000 barcodes
+INFO:root:After reading 12000 lines, 55 chunks are done. So far: 196 rejections (0.016333) 12000 barcodes
+INFO:root:After reading 13000 lines, 63 chunks are done. So far: 210 rejections (0.016154) 13000 barcodes
+INFO:root:After reading 14000 lines, 78 chunks are done. So far: 220 rejections (0.015714) 14000 barcodes
+INFO:root:After reading 15000 lines, 93 chunks are done. So far: 235 rejections (0.015667) 15000 barcodes
+INFO:root:After reading 16000 lines, 105 chunks are done. So far: 254 rejections (0.015875) 16000 barcodes
+INFO:root:After reading 17000 lines, 125 chunks are done. So far: 272 rejections (0.016000) 17000 barcodes
+INFO:root:After reading 18000 lines, 141 chunks are done. So far: 287 rejections (0.015944) 18000 barcodes
+INFO:root:After reading 19000 lines, 196 chunks are done. So far: 306 rejections (0.016105) 19000 barcodes
+INFO:root:After reading 20000 lines, 208 chunks are done. So far: 330 rejections (0.016500) 20000 barcodes
+INFO:root:After reading 21000 lines, 285 chunks are done. So far: 344 rejections (0.016381) 21000 barcodes
+INFO:root:After reading 22000 lines, 313 chunks are done. So far: 367 rejections (0.016682) 22000 barcodes
+INFO:root:After reading 23000 lines, 453 chunks are done. So far: 383 rejections (0.016652) 23000 barcodes
+INFO:root:After reading 24000 lines, 815 chunks are done. So far: 401 rejections (0.016708) 24000 barcodes
+INFO:root:After reading 25000 lines, 1324 chunks are done. So far: 415 rejections (0.016600) 25000 barcodes
+INFO:root:After reading 26000 lines, 4478 chunks are done. So far: 429 rejections (0.016500) 26000 barcodes
+INFO:root:After reading 26087 lines, 24491 chunks are done. So far: 431 rejections (0.016522) 26087 barcodes
+INFO:root:Done!
+INFO:root:MD5 is 1b3eb6aa48828a8a63fde9f96ea0ab18
+INFO:root:Out file's name is '/root/biyeshiji/resurlt/books/三国演义.txt.py3.recover',that is type of '.tar.gz'
+DEBUG:root:dncode cost time:38.25043249130249s
+DEBUG:root:end time:2020-05-21 20:18:48
+DEBUG:root:cost time:598.0681428909302s
+DEBUG:root:start time:2020-05-21 20:18:48
+INFO:root:currect file name:战争与和平.txt
+INFO:root:Reading the file. This may take a few mintues
+DEBUG:root:Input file has 1341295 bytes
+DEBUG:root:Padded the file with 17 zero to have a round number of blocks of data
+INFO:root:File MD5 is 85ed1c042ba7758b1a5239a668cb231f
+INFO:root:There are 41916 input segments
+INFO:root:Upper bounds on packets for decoding is 43544 (x1.038847)  with 0.001000 probability
+
+
+Valid oligos: 100%|█████████▉| 125060/125681 [10:21<00:02, 221.35it/s]
+Valid oligos: 100%|█████████▉| 125086/125681 [10:21<00:02, 230.27it/s]
+Valid oligos: 100%|█████████▉| 125113/125681 [10:21<00:02, 240.25it/s]
+Valid oligos: 100%|█████████▉| 125138/125681 [10:21<00:02, 238.60it/s]
+Valid oligos: 100%|█████████▉| 125163/125681 [10:21<00:02, 206.04it/s]
+Valid oligos: 100%|█████████▉| 125185/125681 [10:21<00:02, 202.32it/s]
+Valid oligos: 100%|█████████▉| 125206/125681 [10:21<00:02, 185.79it/s]
+Valid oligos: 100%|█████████▉| 125226/125681 [10:21<00:02, 176.63it/s]
+Valid oligos: 100%|█████████▉| 125254/125681 [10:22<00:02, 198.22it/s]
+Valid oligos: 100%|█████████▉| 125283/125681 [10:22<00:01, 199.59it/s]
+Valid oligos: 100%|█████████▉| 125316/125681 [10:22<00:01, 226.30it/s]
+Valid oligos: 100%|█████████▉| 125341/125681 [10:22<00:01, 215.88it/s]
+Valid oligos: 100%|█████████▉| 125366/125681 [10:22<00:01, 218.56it/s]
+Valid oligos: 100%|█████████▉| 125394/125681 [10:22<00:01, 233.89it/s]
+Valid oligos: 100%|█████████▉| 125419/125681 [10:22<00:01, 236.86it/s]
+Valid oligos: 100%|█████████▉| 125444/125681 [10:22<00:01, 230.36it/s]
+Valid oligos: 100%|█████████▉| 125470/125681 [10:22<00:00, 237.75it/s]
+Valid oligos: 100%|█████████▉| 125495/125681 [10:23<00:00, 216.45it/s]
+Valid oligos: 100%|█████████▉| 125518/125681 [10:23<00:00, 199.66it/s]
+Valid oligos: 100%|█████████▉| 125539/125681 [10:23<00:00, 171.87it/s]
+Valid oligos: 100%|█████████▉| 125562/125681 [10:23<00:00, 185.86it/s]
+Valid oligos: 100%|█████████▉| 125582/125681 [10:23<00:00, 183.69it/s]
+Valid oligos: 100%|█████████▉| 125609/125681 [10:23<00:00, 202.75it/s]
+Valid oligos: 100%|█████████▉| 125631/125681 [10:23<00:00, 197.95it/s]
+Valid oligos: 100%|█████████▉| 125655/125681 [10:23<00:00, 199.01it/s]
+Valid oligos: 100%|█████████▉| 125676/125681 [10:24<00:00, 198.99it/s]
+Valid oligos: 100%|██████████| 125681/125681 [10:24<00:00, 201.40it/s]
+INFO:root:Finished. Generated 125681 packets out of 1001995 tries (0.125)
+INFO:root:Out file's name is '/root/biyeshiji/resurlt/books/战争与和平.txt.py3.dna'
+DEBUG:root:encode cost time:624.7434887886047s
+INFO:root:After reading 1000 lines, 5 chunks are done. So far: 6 rejections (0.006000) 1000 barcodes
+INFO:root:After reading 2000 lines, 7 chunks are done. So far: 22 rejections (0.011000) 2000 barcodes
+INFO:root:After reading 3000 lines, 9 chunks are done. So far: 42 rejections (0.014000) 3000 barcodes
+INFO:root:After reading 4000 lines, 11 chunks are done. So far: 55 rejections (0.013750) 4000 barcodes
+INFO:root:After reading 5000 lines, 12 chunks are done. So far: 66 rejections (0.013200) 5000 barcodes
+INFO:root:After reading 6000 lines, 15 chunks are done. So far: 84 rejections (0.014000) 6000 barcodes
+INFO:root:After reading 7000 lines, 21 chunks are done. So far: 96 rejections (0.013714) 7000 barcodes
+INFO:root:After reading 8000 lines, 24 chunks are done. So far: 105 rejections (0.013125) 8000 barcodes
+INFO:root:After reading 9000 lines, 25 chunks are done. So far: 130 rejections (0.014444) 9000 barcodes
+INFO:root:After reading 10000 lines, 32 chunks are done. So far: 144 rejections (0.014400) 10000 barcodes
+INFO:root:After reading 11000 lines, 38 chunks are done. So far: 157 rejections (0.014273) 11000 barcodes
+INFO:root:After reading 12000 lines, 41 chunks are done. So far: 175 rejections (0.014583) 12000 barcodes
+INFO:root:After reading 13000 lines, 44 chunks are done. So far: 197 rejections (0.015154) 13000 barcodes
+INFO:root:After reading 14000 lines, 48 chunks are done. So far: 211 rejections (0.015071) 14000 barcodes
+INFO:root:After reading 15000 lines, 57 chunks are done. So far: 220 rejections (0.014667) 15000 barcodes
+INFO:root:After reading 16000 lines, 63 chunks are done. So far: 248 rejections (0.015500) 16000 barcodes
+INFO:root:After reading 17000 lines, 64 chunks are done. So far: 269 rejections (0.015824) 17000 barcodes
+INFO:root:After reading 18000 lines, 74 chunks are done. So far: 286 rejections (0.015889) 18000 barcodes
+INFO:root:After reading 19000 lines, 99 chunks are done. So far: 305 rejections (0.016053) 19000 barcodes
+INFO:root:After reading 20000 lines, 112 chunks are done. So far: 316 rejections (0.015800) 20000 barcodes
+INFO:root:After reading 21000 lines, 119 chunks are done. So far: 337 rejections (0.016048) 21000 barcodes
+INFO:root:After reading 22000 lines, 126 chunks are done. So far: 351 rejections (0.015955) 22000 barcodes
+INFO:root:After reading 23000 lines, 136 chunks are done. So far: 371 rejections (0.016130) 23000 barcodes
+INFO:root:After reading 24000 lines, 148 chunks are done. So far: 387 rejections (0.016125) 24000 barcodes
+INFO:root:After reading 25000 lines, 159 chunks are done. So far: 403 rejections (0.016120) 25000 barcodes
+INFO:root:After reading 26000 lines, 181 chunks are done. So far: 416 rejections (0.016000) 26000 barcodes
+INFO:root:After reading 27000 lines, 230 chunks are done. So far: 430 rejections (0.015926) 27000 barcodes
+INFO:root:After reading 28000 lines, 264 chunks are done. So far: 444 rejections (0.015857) 28000 barcodes
+INFO:root:After reading 29000 lines, 291 chunks are done. So far: 462 rejections (0.015931) 29000 barcodes
+INFO:root:After reading 30000 lines, 319 chunks are done. So far: 478 rejections (0.015933) 30000 barcodes
+INFO:root:After reading 31000 lines, 346 chunks are done. So far: 497 rejections (0.016032) 31000 barcodes
+INFO:root:After reading 32000 lines, 384 chunks are done. So far: 515 rejections (0.016094) 32000 barcodes
+INFO:root:After reading 33000 lines, 417 chunks are done. So far: 528 rejections (0.016000) 33000 barcodes
+INFO:root:After reading 34000 lines, 453 chunks are done. So far: 542 rejections (0.015941) 34000 barcodes
+INFO:root:After reading 35000 lines, 487 chunks are done. So far: 555 rejections (0.015857) 35000 barcodes
+INFO:root:After reading 36000 lines, 542 chunks are done. So far: 584 rejections (0.016222) 36000 barcodes
+INFO:root:After reading 37000 lines, 623 chunks are done. So far: 601 rejections (0.016243) 37000 barcodes
+INFO:root:After reading 38000 lines, 732 chunks are done. So far: 614 rejections (0.016158) 38000 barcodes
+INFO:root:After reading 39000 lines, 799 chunks are done. So far: 628 rejections (0.016103) 39000 barcodes
+INFO:root:After reading 40000 lines, 942 chunks are done. So far: 640 rejections (0.016000) 40000 barcodes
+INFO:root:After reading 41000 lines, 1197 chunks are done. So far: 656 rejections (0.016000) 41000 barcodes
+INFO:root:After reading 42000 lines, 1748 chunks are done. So far: 669 rejections (0.015929) 42000 barcodes
+INFO:root:After reading 43000 lines, 6457 chunks are done. So far: 684 rejections (0.015907) 43000 barcodes
+INFO:root:After reading 44000 lines, 22152 chunks are done. So far: 703 rejections (0.015977) 44000 barcodes
+INFO:root:After reading 44173 lines, 41916 chunks are done. So far: 709 rejections (0.016051) 44173 barcodes
+INFO:root:Done!
+INFO:root:MD5 is 85ed1c042ba7758b1a5239a668cb231f
+INFO:root:Out file's name is '/root/biyeshiji/resurlt/books/战争与和平.txt.py3.recover',that is type of '.tar.gz'
+DEBUG:root:dncode cost time:96.76315832138062s
+DEBUG:root:end time:2020-05-21 20:30:50
+DEBUG:root:cost time:721.5066471099854s
+DEBUG:root:start time:2020-05-21 20:30:50
+INFO:root:currect file name:狂人日记.txt
+INFO:root:Reading the file. This may take a few mintues
+DEBUG:root:Input file has 8745 bytes
+DEBUG:root:Padded the file with 23 zero to have a round number of blocks of data
+INFO:root:File MD5 is eab4ab1d7204a9e1124d9fa9a439244b
+INFO:root:There are 274 input segments
+INFO:root:Upper bounds on packets for decoding is 341 (x1.247190)  with 0.001000 probability
+
+
+Valid oligos: 100%|█████████▉| 125061/125681 [07:44<00:02, 257.73it/s]
+Valid oligos: 100%|█████████▉| 125089/125681 [07:44<00:02, 241.00it/s]
+Valid oligos: 100%|█████████▉| 125117/125681 [07:44<00:02, 251.38it/s]
+Valid oligos: 100%|█████████▉| 125145/125681 [07:44<00:02, 255.76it/s]
+Valid oligos: 100%|█████████▉| 125172/125681 [07:44<00:02, 247.85it/s]
+Valid oligos: 100%|█████████▉| 125206/125681 [07:44<00:01, 266.65it/s]
+Valid oligos: 100%|█████████▉| 125234/125681 [07:44<00:01, 253.46it/s]
+Valid oligos: 100%|█████████▉| 125271/125681 [07:44<00:01, 279.15it/s]
+Valid oligos: 100%|█████████▉| 125301/125681 [07:45<00:01, 281.30it/s]
+Valid oligos: 100%|█████████▉| 125331/125681 [07:45<00:01, 255.30it/s]
+Valid oligos: 100%|█████████▉| 125358/125681 [07:45<00:01, 243.51it/s]
+Valid oligos: 100%|█████████▉| 125387/125681 [07:45<00:01, 255.74it/s]
+Valid oligos: 100%|█████████▉| 125414/125681 [07:45<00:01, 252.80it/s]
+Valid oligos: 100%|█████████▉| 125440/125681 [07:45<00:00, 252.81it/s]
+Valid oligos: 100%|█████████▉| 125472/125681 [07:45<00:00, 267.28it/s]
+Valid oligos: 100%|█████████▉| 125501/125681 [07:45<00:00, 272.13it/s]
+Valid oligos: 100%|█████████▉| 125534/125681 [07:45<00:00, 278.74it/s]
+Valid oligos: 100%|█████████▉| 125563/125681 [07:46<00:00, 233.65it/s]
+Valid oligos: 100%|█████████▉| 125588/125681 [07:46<00:00, 219.45it/s]
+Valid oligos: 100%|█████████▉| 125613/125681 [07:46<00:00, 226.76it/s]
+Valid oligos: 100%|█████████▉| 125646/125681 [07:46<00:00, 249.51it/s]
+Valid oligos: 100%|█████████▉| 125673/125681 [07:46<00:00, 237.41it/s]
+Valid oligos: 100%|██████████| 125681/125681 [07:46<00:00, 269.35it/s]
+INFO:root:Finished. Generated 125681 packets out of 1003226 tries (0.125)
+INFO:root:Out file's name is '/root/biyeshiji/resurlt/books/狂人日记.txt.py3.dna'
+DEBUG:root:encode cost time:466.6160309314728s
+INFO:root:After reading 363 lines, 274 chunks are done. So far: 5 rejections (0.013774) 363 barcodes
+INFO:root:Done!
+INFO:root:MD5 is eab4ab1d7204a9e1124d9fa9a439244b
+INFO:root:Out file's name is '/root/biyeshiji/resurlt/books/狂人日记.txt.py3.recover',that is type of '.tar.gz'
+DEBUG:root:dncode cost time:0.322556734085083s
+DEBUG:root:end time:2020-05-21 20:38:37
+DEBUG:root:cost time:466.93858766555786s
+DEBUG:root:start time:2020-05-21 20:38:37
+INFO:root:currect file name:红楼梦.txt
+INFO:root:Reading the file. This may take a few mintues
+DEBUG:root:Input file has 1097542 bytes
+DEBUG:root:Padded the file with 26 zero to have a round number of blocks of data
+INFO:root:File MD5 is 85081f19ed9723e7f30e5399a2010d5e
+INFO:root:There are 34299 input segments
+INFO:root:Upper bounds on packets for decoding is 35738 (x1.041982)  with 0.001000 probability
+
+
+Valid oligos: 100%|█████████▉| 125074/125681 [10:24<00:02, 218.36it/s]
+Valid oligos: 100%|█████████▉| 125102/125681 [10:24<00:02, 227.29it/s]
+Valid oligos: 100%|█████████▉| 125126/125681 [10:24<00:02, 213.67it/s]
+Valid oligos: 100%|█████████▉| 125149/125681 [10:24<00:02, 202.80it/s]
+Valid oligos: 100%|█████████▉| 125177/125681 [10:24<00:02, 218.69it/s]
+Valid oligos: 100%|█████████▉| 125200/125681 [10:25<00:02, 203.06it/s]
+Valid oligos: 100%|█████████▉| 125227/125681 [10:25<00:02, 216.92it/s]
+Valid oligos: 100%|█████████▉| 125250/125681 [10:25<00:02, 207.11it/s]
+Valid oligos: 100%|█████████▉| 125290/125681 [10:25<00:01, 240.56it/s]
+Valid oligos: 100%|█████████▉| 125317/125681 [10:25<00:01, 214.39it/s]
+Valid oligos: 100%|█████████▉| 125343/125681 [10:25<00:01, 222.15it/s]
+Valid oligos: 100%|█████████▉| 125373/125681 [10:25<00:01, 239.16it/s]
+Valid oligos: 100%|█████████▉| 125399/125681 [10:25<00:01, 240.78it/s]
+Valid oligos: 100%|█████████▉| 125428/125681 [10:26<00:01, 246.44it/s]
+Valid oligos: 100%|█████████▉| 125454/125681 [10:26<00:00, 240.87it/s]
+Valid oligos: 100%|█████████▉| 125480/125681 [10:26<00:00, 242.66it/s]
+Valid oligos: 100%|█████████▉| 125505/125681 [10:26<00:00, 244.80it/s]
+Valid oligos: 100%|█████████▉| 125530/125681 [10:26<00:00, 230.53it/s]
+Valid oligos: 100%|█████████▉| 125554/125681 [10:26<00:00, 208.85it/s]
+Valid oligos: 100%|█████████▉| 125583/125681 [10:26<00:00, 227.76it/s]
+Valid oligos: 100%|█████████▉| 125608/125681 [10:26<00:00, 230.35it/s]
+Valid oligos: 100%|█████████▉| 125635/125681 [10:26<00:00, 230.60it/s]
+Valid oligos: 100%|█████████▉| 125659/125681 [10:27<00:00, 230.21it/s]
+Valid oligos: 100%|██████████| 125681/125681 [10:27<00:00, 200.39it/s]
+INFO:root:Finished. Generated 125681 packets out of 1005588 tries (0.125)
+INFO:root:Out file's name is '/root/biyeshiji/resurlt/books/红楼梦.txt.py3.dna'
+DEBUG:root:encode cost time:627.7791397571564s
+INFO:root:After reading 1000 lines, 5 chunks are done. So far: 23 rejections (0.023000) 1000 barcodes
+INFO:root:After reading 2000 lines, 10 chunks are done. So far: 36 rejections (0.018000) 2000 barcodes
+INFO:root:After reading 3000 lines, 14 chunks are done. So far: 53 rejections (0.017667) 3000 barcodes
+INFO:root:After reading 4000 lines, 16 chunks are done. So far: 65 rejections (0.016250) 4000 barcodes
+INFO:root:After reading 5000 lines, 20 chunks are done. So far: 84 rejections (0.016800) 5000 barcodes
+INFO:root:After reading 6000 lines, 26 chunks are done. So far: 97 rejections (0.016167) 6000 barcodes
+INFO:root:After reading 7000 lines, 26 chunks are done. So far: 111 rejections (0.015857) 7000 barcodes
+INFO:root:After reading 8000 lines, 34 chunks are done. So far: 134 rejections (0.016750) 8000 barcodes
+INFO:root:After reading 9000 lines, 37 chunks are done. So far: 162 rejections (0.018000) 9000 barcodes
+INFO:root:After reading 10000 lines, 42 chunks are done. So far: 178 rejections (0.017800) 10000 barcodes
+INFO:root:After reading 11000 lines, 44 chunks are done. So far: 190 rejections (0.017273) 11000 barcodes
+INFO:root:After reading 12000 lines, 53 chunks are done. So far: 201 rejections (0.016750) 12000 barcodes
+INFO:root:After reading 13000 lines, 59 chunks are done. So far: 222 rejections (0.017077) 13000 barcodes
+INFO:root:After reading 14000 lines, 60 chunks are done. So far: 238 rejections (0.017000) 14000 barcodes
+INFO:root:After reading 15000 lines, 68 chunks are done. So far: 252 rejections (0.016800) 15000 barcodes
+INFO:root:After reading 16000 lines, 77 chunks are done. So far: 262 rejections (0.016375) 16000 barcodes
+INFO:root:After reading 17000 lines, 99 chunks are done. So far: 276 rejections (0.016235) 17000 barcodes
+INFO:root:After reading 18000 lines, 116 chunks are done. So far: 286 rejections (0.015889) 18000 barcodes
+INFO:root:After reading 19000 lines, 121 chunks are done. So far: 309 rejections (0.016263) 19000 barcodes
+INFO:root:After reading 20000 lines, 126 chunks are done. So far: 329 rejections (0.016450) 20000 barcodes
+INFO:root:After reading 21000 lines, 126 chunks are done. So far: 351 rejections (0.016714) 21000 barcodes
+INFO:root:After reading 22000 lines, 133 chunks are done. So far: 366 rejections (0.016636) 22000 barcodes
+INFO:root:After reading 23000 lines, 167 chunks are done. So far: 382 rejections (0.016609) 23000 barcodes
+INFO:root:After reading 24000 lines, 172 chunks are done. So far: 404 rejections (0.016833) 24000 barcodes
+INFO:root:After reading 25000 lines, 191 chunks are done. So far: 430 rejections (0.017200) 25000 barcodes
+INFO:root:After reading 26000 lines, 217 chunks are done. So far: 456 rejections (0.017538) 26000 barcodes
+INFO:root:After reading 27000 lines, 254 chunks are done. So far: 472 rejections (0.017481) 27000 barcodes
+INFO:root:After reading 28000 lines, 279 chunks are done. So far: 483 rejections (0.017250) 28000 barcodes
+INFO:root:After reading 29000 lines, 324 chunks are done. So far: 496 rejections (0.017103) 29000 barcodes
+INFO:root:After reading 30000 lines, 372 chunks are done. So far: 509 rejections (0.016967) 30000 barcodes
+INFO:root:After reading 31000 lines, 414 chunks are done. So far: 518 rejections (0.016710) 31000 barcodes
+INFO:root:After reading 32000 lines, 462 chunks are done. So far: 533 rejections (0.016656) 32000 barcodes
+INFO:root:After reading 33000 lines, 652 chunks are done. So far: 556 rejections (0.016848) 33000 barcodes
+INFO:root:After reading 34000 lines, 781 chunks are done. So far: 574 rejections (0.016882) 34000 barcodes
+INFO:root:After reading 35000 lines, 3171 chunks are done. So far: 588 rejections (0.016800) 35000 barcodes
+INFO:root:After reading 36000 lines, 6834 chunks are done. So far: 616 rejections (0.017111) 36000 barcodes
+INFO:root:After reading 36723 lines, 34299 chunks are done. So far: 625 rejections (0.017019) 36723 barcodes
+INFO:root:Done!
+INFO:root:MD5 is 85081f19ed9723e7f30e5399a2010d5e
+INFO:root:Out file's name is '/root/biyeshiji/resurlt/books/红楼梦.txt.py3.recover',that is type of '.tar.gz'
+DEBUG:root:dncode cost time:103.43311834335327s
+DEBUG:root:end time:2020-05-21 20:50:48
+DEBUG:root:cost time:731.2122581005096s
+DEBUG:root:start time:2020-05-21 20:50:48
+INFO:root:currect file name:繁星·春水.txt
+INFO:root:Reading the file. This may take a few mintues
+DEBUG:root:Input file has 37299 bytes
+DEBUG:root:Padded the file with 13 zero to have a round number of blocks of data
+INFO:root:File MD5 is c4252f1ab302c05634f6e2d990eeb091
+INFO:root:There are 1166 input segments
+INFO:root:Upper bounds on packets for decoding is 1339 (x1.148634)  with 0.001000 probability
+
+
+Valid oligos: 100%|█████████▉| 125060/125681 [08:16<00:02, 268.82it/s]
+Valid oligos: 100%|█████████▉| 125089/125681 [08:16<00:02, 273.02it/s]
+Valid oligos: 100%|█████████▉| 125123/125681 [08:16<00:01, 288.62it/s]
+Valid oligos: 100%|█████████▉| 125155/125681 [08:16<00:01, 297.16it/s]
+Valid oligos: 100%|█████████▉| 125186/125681 [08:17<00:01, 281.63it/s]
+Valid oligos: 100%|█████████▉| 125233/125681 [08:17<00:01, 314.69it/s]
+Valid oligos: 100%|█████████▉| 125267/125681 [08:17<00:01, 275.62it/s]
+Valid oligos: 100%|█████████▉| 125299/125681 [08:17<00:01, 287.07it/s]
+Valid oligos: 100%|█████████▉| 125330/125681 [08:17<00:01, 285.92it/s]
+Valid oligos: 100%|█████████▉| 125360/125681 [08:17<00:01, 280.18it/s]
+Valid oligos: 100%|█████████▉| 125396/125681 [08:17<00:00, 300.11it/s]
+Valid oligos: 100%|█████████▉| 125427/125681 [08:17<00:00, 283.23it/s]
+Valid oligos: 100%|█████████▉| 125457/125681 [08:17<00:00, 259.40it/s]
+Valid oligos: 100%|█████████▉| 125491/125681 [08:18<00:00, 274.60it/s]
+Valid oligos: 100%|█████████▉| 125520/125681 [08:18<00:00, 260.40it/s]
+Valid oligos: 100%|█████████▉| 125549/125681 [08:18<00:00, 268.57it/s]
+Valid oligos: 100%|█████████▉| 125577/125681 [08:18<00:00, 263.65it/s]
+Valid oligos: 100%|█████████▉| 125620/125681 [08:18<00:00, 294.49it/s]
+Valid oligos: 100%|█████████▉| 125651/125681 [08:18<00:00, 293.34it/s]
+Valid oligos: 100%|██████████| 125681/125681 [08:18<00:00, 252.00it/s]
+INFO:root:Finished. Generated 125681 packets out of 1002261 tries (0.125)
+INFO:root:Out file's name is '/root/biyeshiji/resurlt/books/繁星·春水.txt.py3.dna'
+DEBUG:root:encode cost time:498.7640883922577s
+INFO:root:After reading 1000 lines, 58 chunks are done. So far: 23 rejections (0.023000) 1000 barcodes
+INFO:root:After reading 1388 lines, 1166 chunks are done. So far: 31 rejections (0.022334) 1388 barcodes
+INFO:root:Done!
+INFO:root:MD5 is c4252f1ab302c05634f6e2d990eeb091
+INFO:root:Out file's name is '/root/biyeshiji/resurlt/books/繁星·春水.txt.py3.recover',that is type of '.tar.gz'
+DEBUG:root:dncode cost time:1.1769218444824219s
+DEBUG:root:end time:2020-05-21 20:59:08
+DEBUG:root:cost time:499.9410102367401s
+DEBUG:root:start time:2020-05-21 20:59:08
+INFO:root:currect file name:钢铁是怎样炼成的英文版.txt
+INFO:root:Reading the file. This may take a few mintues
+DEBUG:root:Input file has 158825 bytes
+DEBUG:root:Padded the file with 23 zero to have a round number of blocks of data
+INFO:root:File MD5 is fb88609411d2a7587b782519aa7311dc
+INFO:root:There are 4964 input segments
+INFO:root:Upper bounds on packets for decoding is 5398 (x1.087465)  with 0.001000 probability
+
+
+Valid oligos: 100%|█████████▉| 125064/125681 [09:04<00:02, 227.09it/s]
+Valid oligos: 100%|█████████▉| 125087/125681 [09:04<00:02, 224.54it/s]
+Valid oligos: 100%|█████████▉| 125110/125681 [09:05<00:02, 193.73it/s]
+Valid oligos: 100%|█████████▉| 125146/125681 [09:05<00:02, 224.47it/s]
+Valid oligos: 100%|█████████▉| 125171/125681 [09:05<00:02, 227.63it/s]
+Valid oligos: 100%|█████████▉| 125200/125681 [09:05<00:01, 243.28it/s]
+Valid oligos: 100%|█████████▉| 125226/125681 [09:05<00:01, 238.72it/s]
+Valid oligos: 100%|█████████▉| 125251/125681 [09:05<00:01, 219.56it/s]
+Valid oligos: 100%|█████████▉| 125275/125681 [09:05<00:01, 207.81it/s]
+Valid oligos: 100%|█████████▉| 125297/125681 [09:05<00:01, 204.09it/s]
+Valid oligos: 100%|█████████▉| 125331/125681 [09:06<00:01, 231.80it/s]
+Valid oligos: 100%|█████████▉| 125356/125681 [09:06<00:01, 197.47it/s]
+Valid oligos: 100%|█████████▉| 125384/125681 [09:06<00:01, 212.36it/s]
+Valid oligos: 100%|█████████▉| 125408/125681 [09:06<00:01, 216.17it/s]
+Valid oligos: 100%|█████████▉| 125437/125681 [09:06<00:01, 230.79it/s]
+Valid oligos: 100%|█████████▉| 125463/125681 [09:06<00:00, 236.24it/s]
+Valid oligos: 100%|█████████▉| 125488/125681 [09:06<00:01, 185.40it/s]
+Valid oligos: 100%|█████████▉| 125509/125681 [09:06<00:00, 186.14it/s]
+Valid oligos: 100%|█████████▉| 125530/125681 [09:07<00:00, 184.95it/s]
+Valid oligos: 100%|█████████▉| 125552/125681 [09:07<00:00, 193.19it/s]
+Valid oligos: 100%|█████████▉| 125585/125681 [09:07<00:00, 220.17it/s]
+Valid oligos: 100%|█████████▉| 125610/125681 [09:07<00:00, 224.61it/s]
+Valid oligos: 100%|█████████▉| 125634/125681 [09:07<00:00, 195.09it/s]
+Valid oligos: 100%|█████████▉| 125659/125681 [09:07<00:00, 208.16it/s]
+Valid oligos: 100%|██████████| 125681/125681 [09:07<00:00, 229.45it/s]
+INFO:root:Finished. Generated 125681 packets out of 1006701 tries (0.125)
+INFO:root:Out file's name is '/root/biyeshiji/resurlt/books/钢铁是怎样炼成的英文版.txt.py3.dna'
+DEBUG:root:encode cost time:547.8563323020935s
+INFO:root:After reading 1000 lines, 2 chunks are done. So far: 16 rejections (0.016000) 1000 barcodes
+INFO:root:After reading 2000 lines, 11 chunks are done. So far: 31 rejections (0.015500) 2000 barcodes
+INFO:root:After reading 3000 lines, 26 chunks are done. So far: 43 rejections (0.014333) 3000 barcodes
+INFO:root:After reading 4000 lines, 75 chunks are done. So far: 61 rejections (0.015250) 4000 barcodes
+INFO:root:After reading 5000 lines, 124 chunks are done. So far: 84 rejections (0.016800) 5000 barcodes
+INFO:root:After reading 5633 lines, 4964 chunks are done. So far: 100 rejections (0.017753) 5633 barcodes
+INFO:root:Done!
+INFO:root:MD5 is fb88609411d2a7587b782519aa7311dc
+INFO:root:Out file's name is '/root/biyeshiji/resurlt/books/钢铁是怎样炼成的英文版.txt.py3.recover',that is type of '.tar.gz'
+DEBUG:root:dncode cost time:6.72370457649231s
+DEBUG:root:end time:2020-05-21 21:08:23
+DEBUG:root:cost time:554.5800368785858s
+DEBUG:root:start time:2020-05-21 21:08:23
+INFO:root:currect file name:史蒂夫·乔布斯传.txt
+INFO:root:Reading the file. This may take a few mintues
+DEBUG:root:Input file has 552259 bytes
+DEBUG:root:Padded the file with 29 zero to have a round number of blocks of data
+INFO:root:File MD5 is cb71e1885448da5fb6495483fe7c299f
+INFO:root:There are 17259 input segments
+INFO:root:Upper bounds on packets for decoding is 18202 (x1.054664)  with 0.001000 probability
+
+
+Valid oligos: 100%|█████████▉| 125064/125681 [09:49<00:02, 227.67it/s]
+Valid oligos: 100%|█████████▉| 125088/125681 [09:49<00:02, 221.06it/s]
+Valid oligos: 100%|█████████▉| 125111/125681 [09:50<00:02, 205.32it/s]
+Valid oligos: 100%|█████████▉| 125133/125681 [09:50<00:02, 202.26it/s]
+Valid oligos: 100%|█████████▉| 125154/125681 [09:50<00:02, 190.98it/s]
+Valid oligos: 100%|█████████▉| 125186/125681 [09:50<00:02, 215.82it/s]
+Valid oligos: 100%|█████████▉| 125213/125681 [09:50<00:02, 227.10it/s]
+Valid oligos: 100%|█████████▉| 125240/125681 [09:50<00:01, 235.20it/s]
+Valid oligos: 100%|█████████▉| 125265/125681 [09:50<00:01, 209.92it/s]
+Valid oligos: 100%|█████████▉| 125288/125681 [09:50<00:01, 203.51it/s]
+Valid oligos: 100%|█████████▉| 125310/125681 [09:50<00:01, 201.51it/s]
+Valid oligos: 100%|█████████▉| 125332/125681 [09:51<00:01, 192.09it/s]
+Valid oligos: 100%|█████████▉| 125352/125681 [09:51<00:01, 189.07it/s]
+Valid oligos: 100%|█████████▉| 125377/125681 [09:51<00:01, 202.37it/s]
+Valid oligos: 100%|█████████▉| 125399/125681 [09:51<00:01, 206.77it/s]
+Valid oligos: 100%|█████████▉| 125427/125681 [09:51<00:01, 221.56it/s]
+Valid oligos: 100%|█████████▉| 125451/125681 [09:51<00:01, 220.84it/s]
+Valid oligos: 100%|█████████▉| 125474/125681 [09:51<00:01, 194.02it/s]
+Valid oligos: 100%|█████████▉| 125495/125681 [09:51<00:00, 197.60it/s]
+Valid oligos: 100%|█████████▉| 125531/125681 [09:51<00:00, 228.16it/s]
+Valid oligos: 100%|█████████▉| 125556/125681 [09:52<00:00, 222.97it/s]
+Valid oligos: 100%|█████████▉| 125580/125681 [09:52<00:00, 225.58it/s]
+Valid oligos: 100%|█████████▉| 125604/125681 [09:52<00:00, 228.32it/s]
+Valid oligos: 100%|█████████▉| 125628/125681 [09:52<00:00, 217.49it/s]
+Valid oligos: 100%|█████████▉| 125652/125681 [09:52<00:00, 223.56it/s]
+Valid oligos: 100%|█████████▉| 125675/125681 [09:52<00:00, 216.32it/s]
+Valid oligos: 100%|██████████| 125681/125681 [09:52<00:00, 212.07it/s]
+INFO:root:Finished. Generated 125681 packets out of 1009832 tries (0.124)
+INFO:root:Out file's name is '/root/biyeshiji/resurlt/books/史蒂夫·乔布斯传.txt.py3.dna'
+DEBUG:root:encode cost time:592.9103074073792s
+INFO:root:After reading 1000 lines, 1 chunks are done. So far: 17 rejections (0.017000) 1000 barcodes
+INFO:root:After reading 2000 lines, 4 chunks are done. So far: 36 rejections (0.018000) 2000 barcodes
+INFO:root:After reading 3000 lines, 11 chunks are done. So far: 46 rejections (0.015333) 3000 barcodes
+INFO:root:After reading 4000 lines, 13 chunks are done. So far: 70 rejections (0.017500) 4000 barcodes
+INFO:root:After reading 5000 lines, 20 chunks are done. So far: 89 rejections (0.017800) 5000 barcodes
+INFO:root:After reading 6000 lines, 24 chunks are done. So far: 111 rejections (0.018500) 6000 barcodes
+INFO:root:After reading 7000 lines, 35 chunks are done. So far: 131 rejections (0.018714) 7000 barcodes
+INFO:root:After reading 8000 lines, 59 chunks are done. So far: 149 rejections (0.018625) 8000 barcodes
+INFO:root:After reading 9000 lines, 65 chunks are done. So far: 162 rejections (0.018000) 9000 barcodes
+INFO:root:After reading 10000 lines, 71 chunks are done. So far: 181 rejections (0.018100) 10000 barcodes
+INFO:root:After reading 11000 lines, 83 chunks are done. So far: 195 rejections (0.017727) 11000 barcodes
+INFO:root:After reading 12000 lines, 89 chunks are done. So far: 214 rejections (0.017833) 12000 barcodes
+INFO:root:After reading 13000 lines, 99 chunks are done. So far: 231 rejections (0.017769) 13000 barcodes
+INFO:root:After reading 14000 lines, 127 chunks are done. So far: 246 rejections (0.017571) 14000 barcodes
+INFO:root:After reading 15000 lines, 213 chunks are done. So far: 260 rejections (0.017333) 15000 barcodes
+INFO:root:After reading 16000 lines, 398 chunks are done. So far: 286 rejections (0.017875) 16000 barcodes
+INFO:root:After reading 17000 lines, 548 chunks are done. So far: 301 rejections (0.017706) 17000 barcodes
+INFO:root:After reading 18000 lines, 1483 chunks are done. So far: 316 rejections (0.017556) 18000 barcodes
+INFO:root:After reading 18586 lines, 17259 chunks are done. So far: 329 rejections (0.017701) 18586 barcodes
+INFO:root:Done!
+INFO:root:MD5 is cb71e1885448da5fb6495483fe7c299f
+INFO:root:Out file's name is '/root/biyeshiji/resurlt/books/史蒂夫·乔布斯传.txt.py3.recover',that is type of '.tar.gz'
+DEBUG:root:dncode cost time:29.190421104431152s
+DEBUG:root:end time:2020-05-21 21:18:45
+DEBUG:root:cost time:622.1007285118103s
+DEBUG:root:start time:2020-05-21 21:18:45
+INFO:root:currect file name:童年.txt
+INFO:root:Reading the file. This may take a few mintues
+DEBUG:root:Input file has 119462 bytes
+DEBUG:root:Padded the file with 26 zero to have a round number of blocks of data
+INFO:root:File MD5 is 670092a02eda80f457c7c24348fe807f
+INFO:root:There are 3734 input segments
+INFO:root:Upper bounds on packets for decoding is 4097 (x1.097226)  with 0.001000 probability
+
+
+Valid oligos: 100%|█████████▉| 125065/125681 [08:34<00:02, 260.12it/s]
+Valid oligos: 100%|█████████▉| 125093/125681 [08:35<00:02, 246.03it/s]
+Valid oligos: 100%|█████████▉| 125119/125681 [08:35<00:02, 245.07it/s]
+Valid oligos: 100%|█████████▉| 125150/125681 [08:35<00:02, 261.01it/s]
+Valid oligos: 100%|█████████▉| 125180/125681 [08:35<00:01, 268.24it/s]
+Valid oligos: 100%|█████████▉| 125209/125681 [08:35<00:01, 274.10it/s]
+Valid oligos: 100%|█████████▉| 125237/125681 [08:35<00:01, 275.40it/s]
+Valid oligos: 100%|█████████▉| 125265/125681 [08:35<00:01, 261.35it/s]
+Valid oligos: 100%|█████████▉| 125301/125681 [08:35<00:01, 283.97it/s]
+Valid oligos: 100%|█████████▉| 125331/125681 [08:35<00:01, 256.66it/s]
+Valid oligos: 100%|█████████▉| 125358/125681 [08:36<00:01, 258.13it/s]
+Valid oligos: 100%|█████████▉| 125388/125681 [08:36<00:01, 268.72it/s]
+Valid oligos: 100%|█████████▉| 125416/125681 [08:36<00:00, 271.18it/s]
+Valid oligos: 100%|█████████▉| 125446/125681 [08:36<00:00, 269.83it/s]
+Valid oligos: 100%|█████████▉| 125481/125681 [08:36<00:00, 288.30it/s]
+Valid oligos: 100%|█████████▉| 125511/125681 [08:36<00:00, 267.79it/s]
+Valid oligos: 100%|█████████▉| 125546/125681 [08:36<00:00, 286.89it/s]
+Valid oligos: 100%|█████████▉| 125576/125681 [08:36<00:00, 284.26it/s]
+Valid oligos: 100%|█████████▉| 125606/125681 [08:36<00:00, 250.76it/s]
+Valid oligos: 100%|█████████▉| 125633/125681 [08:37<00:00, 238.82it/s]
+Valid oligos: 100%|█████████▉| 125666/125681 [08:37<00:00, 257.78it/s]
+Valid oligos: 100%|██████████| 125681/125681 [08:37<00:00, 242.96it/s]
+INFO:root:Finished. Generated 125681 packets out of 1005696 tries (0.125)
+INFO:root:Out file's name is '/root/biyeshiji/resurlt/books/童年.txt.py3.dna'
+DEBUG:root:encode cost time:517.3554394245148s
+INFO:root:After reading 1000 lines, 6 chunks are done. So far: 16 rejections (0.016000) 1000 barcodes
+INFO:root:After reading 2000 lines, 15 chunks are done. So far: 32 rejections (0.016000) 2000 barcodes
+INFO:root:After reading 3000 lines, 68 chunks are done. So far: 52 rejections (0.017333) 3000 barcodes
+INFO:root:After reading 4000 lines, 282 chunks are done. So far: 65 rejections (0.016250) 4000 barcodes
+INFO:root:After reading 4278 lines, 3734 chunks are done. So far: 71 rejections (0.016597) 4278 barcodes
+INFO:root:Done!
+INFO:root:MD5 is 670092a02eda80f457c7c24348fe807f
+INFO:root:Out file's name is '/root/biyeshiji/resurlt/books/童年.txt.py3.recover',that is type of '.tar.gz'
+DEBUG:root:dncode cost time:4.0434699058532715s
+DEBUG:root:end time:2020-05-21 21:27:27
+DEBUG:root:cost time:521.398909330368s
+DEBUG:root:start time:2020-05-21 21:27:27
+INFO:root:currect file name:即兴诗人(节选).txt
+INFO:root:Reading the file. This may take a few mintues
+DEBUG:root:Input file has 69325 bytes
+DEBUG:root:Padded the file with 19 zero to have a round number of blocks of data
+INFO:root:File MD5 is c37ae02e973c359330fbecd1b3903ee9
+INFO:root:There are 2167 input segments
+INFO:root:Upper bounds on packets for decoding is 2424 (x1.118754)  with 0.001000 probability
+
+
+Valid oligos: 100%|█████████▉| 125057/125681 [08:05<00:02, 305.14it/s]
+Valid oligos: 100%|█████████▉| 125089/125681 [08:05<00:01, 299.60it/s]
+Valid oligos: 100%|█████████▉| 125127/125681 [08:05<00:01, 317.35it/s]
+Valid oligos: 100%|█████████▉| 125160/125681 [08:05<00:01, 296.20it/s]
+Valid oligos: 100%|█████████▉| 125191/125681 [08:05<00:01, 263.90it/s]
+Valid oligos: 100%|█████████▉| 125219/125681 [08:06<00:01, 262.13it/s]
+Valid oligos: 100%|█████████▉| 125247/125681 [08:06<00:01, 240.52it/s]
+Valid oligos: 100%|█████████▉| 125279/125681 [08:06<00:01, 259.83it/s]
+Valid oligos: 100%|█████████▉| 125307/125681 [08:06<00:01, 260.58it/s]
+Valid oligos: 100%|█████████▉| 125334/125681 [08:06<00:01, 257.33it/s]
+Valid oligos: 100%|█████████▉| 125361/125681 [08:06<00:01, 257.08it/s]
+Valid oligos: 100%|█████████▉| 125388/125681 [08:06<00:01, 259.17it/s]
+Valid oligos: 100%|█████████▉| 125415/125681 [08:06<00:01, 252.39it/s]
+Valid oligos: 100%|█████████▉| 125451/125681 [08:06<00:00, 276.77it/s]
+Valid oligos: 100%|█████████▉| 125482/125681 [08:06<00:00, 283.41it/s]
+Valid oligos: 100%|█████████▉| 125516/125681 [08:07<00:00, 297.16it/s]
+Valid oligos: 100%|█████████▉| 125547/125681 [08:07<00:00, 296.75it/s]
+Valid oligos: 100%|█████████▉| 125578/125681 [08:07<00:00, 267.49it/s]
+Valid oligos: 100%|█████████▉| 125606/125681 [08:07<00:00, 261.68it/s]
+Valid oligos: 100%|█████████▉| 125633/125681 [08:07<00:00, 244.43it/s]
+Valid oligos: 100%|█████████▉| 125659/125681 [08:07<00:00, 214.64it/s]
+Valid oligos: 100%|██████████| 125681/125681 [08:07<00:00, 257.65it/s]
+INFO:root:Finished. Generated 125681 packets out of 1006068 tries (0.125)
+INFO:root:Out file's name is '/root/biyeshiji/resurlt/books/即兴诗人(节选).txt.py3.dna'
+DEBUG:root:encode cost time:487.8288366794586s
+INFO:root:After reading 1000 lines, 4 chunks are done. So far: 17 rejections (0.017000) 1000 barcodes
+INFO:root:After reading 2000 lines, 139 chunks are done. So far: 36 rejections (0.018000) 2000 barcodes
+INFO:root:After reading 2532 lines, 2167 chunks are done. So far: 42 rejections (0.016588) 2532 barcodes
+INFO:root:Done!
+INFO:root:MD5 is c37ae02e973c359330fbecd1b3903ee9
+INFO:root:Out file's name is '/root/biyeshiji/resurlt/books/即兴诗人(节选).txt.py3.recover',that is type of '.tar.gz'
+DEBUG:root:dncode cost time:2.304515838623047s
+DEBUG:root:end time:2020-05-21 21:35:37
+DEBUG:root:cost time:490.13335251808167s
+INFO:root:all complete!

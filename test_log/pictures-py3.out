@@ -1,0 +1,626 @@
+DEBUG:root:start time:2020-05-20 15:48:26
+INFO:root:currect file name:猫.jpg
+INFO:root:Reading the file. This may take a few mintues
+DEBUG:root:Input file has 266148 bytes
+DEBUG:root:Padded the file with 28 zero to have a round number of blocks of data
+INFO:root:File MD5 is 6e9d84e9e257393ba5b7f2f38f47cea5
+INFO:root:There are 8318 input segments
+INFO:root:Upper bounds on packets for decoding is 8917 (x1.072088)  with 0.001000 probability
+
+
+Valid oligos: 100%|█████████▉| 31636/31790 [01:15<00:00, 434.95it/s]
+Valid oligos: 100%|█████████▉| 31681/31790 [01:16<00:00, 428.22it/s]
+Valid oligos: 100%|█████████▉| 31725/31790 [01:16<00:00, 417.17it/s]
+Valid oligos: 100%|█████████▉| 31769/31790 [01:16<00:00, 421.86it/s]
+Valid oligos: 100%|██████████| 31790/31790 [01:16<00:00, 416.58it/s]
+INFO:root:Finished. Generated 31790 packets out of 255580 tries (0.124)
+INFO:root:Out file's name is '/root/biyeshiji/resurlt/pictures/猫.jpg.py3.dna'
+DEBUG:root:encode cost time:76.35967493057251s
+INFO:root:After reading 1000 lines, 2 chunks are done. So far: 13 rejections (0.013000) 1000 barcodes
+INFO:root:After reading 2000 lines, 7 chunks are done. So far: 29 rejections (0.014500) 2000 barcodes
+INFO:root:After reading 3000 lines, 16 chunks are done. So far: 47 rejections (0.015667) 3000 barcodes
+INFO:root:After reading 4000 lines, 30 chunks are done. So far: 70 rejections (0.017500) 4000 barcodes
+INFO:root:After reading 5000 lines, 44 chunks are done. So far: 87 rejections (0.017400) 5000 barcodes
+INFO:root:After reading 6000 lines, 55 chunks are done. So far: 108 rejections (0.018000) 6000 barcodes
+INFO:root:After reading 7000 lines, 97 chunks are done. So far: 125 rejections (0.017857) 7000 barcodes
+INFO:root:After reading 8000 lines, 194 chunks are done. So far: 152 rejections (0.019000) 8000 barcodes
+INFO:root:After reading 9000 lines, 1409 chunks are done. So far: 170 rejections (0.018889) 9000 barcodes
+INFO:root:After reading 9076 lines, 8318 chunks are done. So far: 170 rejections (0.018731) 9076 barcodes
+INFO:root:Done!
+INFO:root:MD5 is 6e9d84e9e257393ba5b7f2f38f47cea5
+INFO:root:Out file's name is '/root/biyeshiji/resurlt/pictures/猫.jpg.py3.recover',that is type of '.tar.gz'
+DEBUG:root:dncode cost time:5.364208459854126s
+DEBUG:root:end time:2020-05-20 15:49:47
+DEBUG:root:cost time:81.72388339042664s
+DEBUG:root:start time:2020-05-20 15:49:47
+INFO:root:currect file name:天安门.jpg
+INFO:root:Reading the file. This may take a few mintues
+DEBUG:root:Input file has 338411 bytes
+DEBUG:root:Padded the file with 21 zero to have a round number of blocks of data
+INFO:root:File MD5 is 3800fbad75f7998a8039bcca9db5959a
+INFO:root:There are 10576 input segments
+INFO:root:Upper bounds on packets for decoding is 11272 (x1.065851)  with 0.001000 probability
+
+
+Valid oligos: 100%|█████████▉| 31636/31790 [01:17<00:00, 417.09it/s]
+Valid oligos: 100%|█████████▉| 31686/31790 [01:17<00:00, 438.59it/s]
+Valid oligos: 100%|█████████▉| 31731/31790 [01:17<00:00, 431.16it/s]
+Valid oligos: 100%|█████████▉| 31775/31790 [01:17<00:00, 426.80it/s]
+Valid oligos: 100%|██████████| 31790/31790 [01:17<00:00, 410.67it/s]
+INFO:root:Finished. Generated 31790 packets out of 253767 tries (0.125)
+INFO:root:Out file's name is '/root/biyeshiji/resurlt/pictures/天安门.jpg.py3.dna'
+DEBUG:root:encode cost time:77.46139931678772s
+INFO:root:After reading 1000 lines, 1 chunks are done. So far: 25 rejections (0.025000) 1000 barcodes
+INFO:root:After reading 2000 lines, 4 chunks are done. So far: 45 rejections (0.022500) 2000 barcodes
+INFO:root:After reading 3000 lines, 8 chunks are done. So far: 62 rejections (0.020667) 3000 barcodes
+INFO:root:After reading 4000 lines, 13 chunks are done. So far: 81 rejections (0.020250) 4000 barcodes
+INFO:root:After reading 5000 lines, 20 chunks are done. So far: 102 rejections (0.020400) 5000 barcodes
+INFO:root:After reading 6000 lines, 33 chunks are done. So far: 114 rejections (0.019000) 6000 barcodes
+INFO:root:After reading 7000 lines, 35 chunks are done. So far: 126 rejections (0.018000) 7000 barcodes
+INFO:root:After reading 8000 lines, 45 chunks are done. So far: 143 rejections (0.017875) 8000 barcodes
+INFO:root:After reading 9000 lines, 52 chunks are done. So far: 162 rejections (0.018000) 9000 barcodes
+INFO:root:After reading 10000 lines, 507 chunks are done. So far: 187 rejections (0.018700) 10000 barcodes
+INFO:root:After reading 11000 lines, 1161 chunks are done. So far: 202 rejections (0.018364) 11000 barcodes
+INFO:root:After reading 11514 lines, 10576 chunks are done. So far: 212 rejections (0.018412) 11514 barcodes
+INFO:root:Done!
+INFO:root:MD5 is 3800fbad75f7998a8039bcca9db5959a
+INFO:root:Out file's name is '/root/biyeshiji/resurlt/pictures/天安门.jpg.py3.recover',that is type of '.tar.gz'
+DEBUG:root:dncode cost time:8.560019969940186s
+DEBUG:root:end time:2020-05-20 15:51:13
+DEBUG:root:cost time:86.0214192867279s
+DEBUG:root:start time:2020-05-20 15:51:13
+INFO:root:currect file name:微软.jpg
+INFO:root:Reading the file. This may take a few mintues
+DEBUG:root:Input file has 14181 bytes
+DEBUG:root:Padded the file with 27 zero to have a round number of blocks of data
+INFO:root:File MD5 is 83b452b9c2a745e6ef8161a04fdb82d1
+INFO:root:There are 444 input segments
+INFO:root:Upper bounds on packets for decoding is 536 (x1.209209)  with 0.001000 probability
+
+
+Valid oligos: 100%|█████████▉| 31663/31790 [01:06<00:00, 429.29it/s]
+Valid oligos: 100%|█████████▉| 31714/31790 [01:06<00:00, 449.83it/s]
+Valid oligos: 100%|█████████▉| 31760/31790 [01:06<00:00, 447.36it/s]
+Valid oligos: 100%|██████████| 31790/31790 [01:06<00:00, 477.19it/s]
+INFO:root:Finished. Generated 31790 packets out of 254298 tries (0.125)
+INFO:root:Out file's name is '/root/biyeshiji/resurlt/pictures/微软.jpg.py3.dna'
+DEBUG:root:encode cost time:66.62373566627502s
+INFO:root:After reading 648 lines, 444 chunks are done. So far: 8 rejections (0.012346) 648 barcodes
+INFO:root:Done!
+INFO:root:MD5 is 83b452b9c2a745e6ef8161a04fdb82d1
+INFO:root:Out file's name is '/root/biyeshiji/resurlt/pictures/微软.jpg.py3.recover',that is type of '.tar.gz'
+DEBUG:root:dncode cost time:0.3192157745361328s
+DEBUG:root:end time:2020-05-20 15:52:20
+DEBUG:root:cost time:66.94295144081116s
+DEBUG:root:start time:2020-05-20 15:52:20
+INFO:root:currect file name:五四广场.jpg
+INFO:root:Reading the file. This may take a few mintues
+DEBUG:root:Input file has 70872 bytes
+DEBUG:root:Padded the file with 8 zero to have a round number of blocks of data
+INFO:root:File MD5 is eb32f97c04245aeddd09b8ca83b5432f
+INFO:root:There are 2215 input segments
+INFO:root:Upper bounds on packets for decoding is 2475 (x1.117795)  with 0.001000 probability
+
+
+Valid oligos: 100%|█████████▉| 31638/31790 [01:11<00:00, 531.07it/s]
+Valid oligos: 100%|█████████▉| 31694/31790 [01:11<00:00, 505.47it/s]
+Valid oligos: 100%|█████████▉| 31747/31790 [01:11<00:00, 467.43it/s]
+Valid oligos: 100%|██████████| 31790/31790 [01:11<00:00, 443.54it/s]
+INFO:root:Finished. Generated 31790 packets out of 253434 tries (0.125)
+INFO:root:Out file's name is '/root/biyeshiji/resurlt/pictures/五四广场.jpg.py3.dna'
+DEBUG:root:encode cost time:71.68656253814697s
+INFO:root:After reading 1000 lines, 9 chunks are done. So far: 14 rejections (0.014000) 1000 barcodes
+INFO:root:After reading 2000 lines, 55 chunks are done. So far: 33 rejections (0.016500) 2000 barcodes
+INFO:root:After reading 2547 lines, 2215 chunks are done. So far: 40 rejections (0.015705) 2547 barcodes
+INFO:root:Done!
+INFO:root:MD5 is eb32f97c04245aeddd09b8ca83b5432f
+INFO:root:Out file's name is '/root/biyeshiji/resurlt/pictures/五四广场.jpg.py3.recover',that is type of '.tar.gz'
+DEBUG:root:dncode cost time:1.432450294494629s
+DEBUG:root:end time:2020-05-20 15:53:33
+DEBUG:root:cost time:73.1190128326416s
+DEBUG:root:start time:2020-05-20 15:53:33
+INFO:root:currect file name:华为.jpg
+INFO:root:Reading the file. This may take a few mintues
+DEBUG:root:Input file has 50750 bytes
+DEBUG:root:Padded the file with 2 zero to have a round number of blocks of data
+INFO:root:File MD5 is 8c1f967e0a48b1cc1703f5edd183b10a
+INFO:root:There are 1586 input segments
+INFO:root:Upper bounds on packets for decoding is 1796 (x1.133038)  with 0.001000 probability
+
+
+Valid oligos: 100%|█████████▉| 31680/31790 [01:10<00:00, 477.87it/s]
+Valid oligos: 100%|█████████▉| 31729/31790 [01:10<00:00, 479.95it/s]
+Valid oligos: 100%|█████████▉| 31783/31790 [01:10<00:00, 490.47it/s]
+Valid oligos: 100%|██████████| 31790/31790 [01:10<00:00, 448.86it/s]
+INFO:root:Finished. Generated 31790 packets out of 254437 tries (0.125)
+INFO:root:Out file's name is '/root/biyeshiji/resurlt/pictures/华为.jpg.py3.dna'
+DEBUG:root:encode cost time:70.83368587493896s
+INFO:root:After reading 1000 lines, 27 chunks are done. So far: 20 rejections (0.020000) 1000 barcodes
+INFO:root:After reading 1899 lines, 1586 chunks are done. So far: 35 rejections (0.018431) 1899 barcodes
+INFO:root:Done!
+INFO:root:MD5 is 8c1f967e0a48b1cc1703f5edd183b10a
+INFO:root:Out file's name is '/root/biyeshiji/resurlt/pictures/华为.jpg.py3.recover',that is type of '.tar.gz'
+DEBUG:root:dncode cost time:0.9925034046173096s
+DEBUG:root:end time:2020-05-20 15:54:45
+DEBUG:root:cost time:71.82618927955627s
+DEBUG:root:start time:2020-05-20 15:54:45
+INFO:root:currect file name:青岛大学景色.jpg
+INFO:root:Reading the file. This may take a few mintues
+DEBUG:root:Input file has 618640 bytes
+DEBUG:root:Padded the file with 16 zero to have a round number of blocks of data
+INFO:root:File MD5 is 63ca58f749a76b35670cffddb2dc0332
+INFO:root:There are 19333 input segments
+INFO:root:Upper bounds on packets for decoding is 20344 (x1.052342)  with 0.001000 probability
+
+
+Valid oligos: 100%|█████████▉| 31680/31790 [01:20<00:00, 430.36it/s]
+Valid oligos: 100%|█████████▉| 31727/31790 [01:20<00:00, 433.64it/s]
+Valid oligos: 100%|█████████▉| 31772/31790 [01:20<00:00, 423.15it/s]
+Valid oligos: 100%|██████████| 31790/31790 [01:20<00:00, 395.97it/s]
+INFO:root:Finished. Generated 31790 packets out of 253976 tries (0.125)
+INFO:root:Out file's name is '/root/biyeshiji/resurlt/pictures/青岛大学景色.jpg.py3.dna'
+DEBUG:root:encode cost time:80.37186884880066s
+INFO:root:After reading 1000 lines, 3 chunks are done. So far: 16 rejections (0.016000) 1000 barcodes
+INFO:root:After reading 2000 lines, 4 chunks are done. So far: 31 rejections (0.015500) 2000 barcodes
+INFO:root:After reading 3000 lines, 6 chunks are done. So far: 44 rejections (0.014667) 3000 barcodes
+INFO:root:After reading 4000 lines, 7 chunks are done. So far: 57 rejections (0.014250) 4000 barcodes
+INFO:root:After reading 5000 lines, 7 chunks are done. So far: 72 rejections (0.014400) 5000 barcodes
+INFO:root:After reading 6000 lines, 14 chunks are done. So far: 92 rejections (0.015333) 6000 barcodes
+INFO:root:After reading 7000 lines, 20 chunks are done. So far: 102 rejections (0.014571) 7000 barcodes
+INFO:root:After reading 8000 lines, 35 chunks are done. So far: 117 rejections (0.014625) 8000 barcodes
+INFO:root:After reading 9000 lines, 38 chunks are done. So far: 130 rejections (0.014444) 9000 barcodes
+INFO:root:After reading 10000 lines, 46 chunks are done. So far: 149 rejections (0.014900) 10000 barcodes
+INFO:root:After reading 11000 lines, 54 chunks are done. So far: 171 rejections (0.015545) 11000 barcodes
+INFO:root:After reading 12000 lines, 65 chunks are done. So far: 191 rejections (0.015917) 12000 barcodes
+INFO:root:After reading 13000 lines, 67 chunks are done. So far: 202 rejections (0.015538) 13000 barcodes
+INFO:root:After reading 14000 lines, 71 chunks are done. So far: 220 rejections (0.015714) 14000 barcodes
+INFO:root:After reading 15000 lines, 81 chunks are done. So far: 234 rejections (0.015600) 15000 barcodes
+INFO:root:After reading 16000 lines, 97 chunks are done. So far: 249 rejections (0.015562) 16000 barcodes
+INFO:root:After reading 17000 lines, 124 chunks are done. So far: 267 rejections (0.015706) 17000 barcodes
+INFO:root:After reading 18000 lines, 267 chunks are done. So far: 276 rejections (0.015333) 18000 barcodes
+INFO:root:After reading 19000 lines, 367 chunks are done. So far: 294 rejections (0.015474) 19000 barcodes
+INFO:root:After reading 20000 lines, 3527 chunks are done. So far: 305 rejections (0.015250) 20000 barcodes
+INFO:root:After reading 20704 lines, 19333 chunks are done. So far: 317 rejections (0.015311) 20704 barcodes
+INFO:root:Done!
+INFO:root:MD5 is 63ca58f749a76b35670cffddb2dc0332
+INFO:root:Out file's name is '/root/biyeshiji/resurlt/pictures/青岛大学景色.jpg.py3.recover',that is type of '.tar.gz'
+DEBUG:root:dncode cost time:16.030959844589233s
+DEBUG:root:end time:2020-05-20 15:56:22
+DEBUG:root:cost time:96.40282869338989s
+DEBUG:root:start time:2020-05-20 15:56:22
+INFO:root:currect file name:联合国.jpg
+INFO:root:Reading the file. This may take a few mintues
+DEBUG:root:Input file has 30419 bytes
+DEBUG:root:Padded the file with 13 zero to have a round number of blocks of data
+INFO:root:File MD5 is e2c1a4e95de26f13f2ab16cba98673e9
+INFO:root:There are 951 input segments
+INFO:root:Upper bounds on packets for decoding is 1103 (x1.159912)  with 0.001000 probability
+
+
+Valid oligos: 100%|█████████▉| 31664/31790 [01:09<00:00, 449.32it/s]
+Valid oligos: 100%|█████████▉| 31715/31790 [01:09<00:00, 465.21it/s]
+Valid oligos: 100%|█████████▉| 31762/31790 [01:09<00:00, 427.47it/s]
+Valid oligos: 100%|██████████| 31790/31790 [01:10<00:00, 454.11it/s]
+INFO:root:Finished. Generated 31790 packets out of 254217 tries (0.125)
+INFO:root:Out file's name is '/root/biyeshiji/resurlt/pictures/联合国.jpg.py3.dna'
+DEBUG:root:encode cost time:70.01292705535889s
+INFO:root:After reading 1000 lines, 110 chunks are done. So far: 12 rejections (0.012000) 1000 barcodes
+INFO:root:After reading 1104 lines, 951 chunks are done. So far: 14 rejections (0.012681) 1104 barcodes
+INFO:root:Done!
+INFO:root:MD5 is e2c1a4e95de26f13f2ab16cba98673e9
+INFO:root:Out file's name is '/root/biyeshiji/resurlt/pictures/联合国.jpg.py3.recover',that is type of '.tar.gz'
+DEBUG:root:dncode cost time:0.5532543659210205s
+DEBUG:root:end time:2020-05-20 15:57:32
+DEBUG:root:cost time:70.56618142127991s
+DEBUG:root:start time:2020-05-20 15:57:32
+INFO:root:currect file name:动物细胞.jpg
+INFO:root:Reading the file. This may take a few mintues
+DEBUG:root:Input file has 896618 bytes
+DEBUG:root:Padded the file with 22 zero to have a round number of blocks of data
+INFO:root:File MD5 is bcb753f79cf5ed4c361253559ef94d6f
+INFO:root:There are 28020 input segments
+INFO:root:Upper bounds on packets for decoding is 29291 (x1.045391)  with 0.001000 probability
+
+
+Valid oligos: 100%|█████████▉| 31634/31790 [01:21<00:00, 467.40it/s]
+Valid oligos: 100%|█████████▉| 31682/31790 [01:21<00:00, 470.79it/s]
+Valid oligos: 100%|█████████▉| 31730/31790 [01:21<00:00, 446.86it/s]
+Valid oligos: 100%|█████████▉| 31782/31790 [01:21<00:00, 462.84it/s]
+Valid oligos: 100%|██████████| 31790/31790 [01:21<00:00, 388.65it/s]
+INFO:root:Finished. Generated 31790 packets out of 256440 tries (0.124)
+INFO:root:Out file's name is '/root/biyeshiji/resurlt/pictures/动物细胞.jpg.py3.dna'
+DEBUG:root:encode cost time:81.93009281158447s
+INFO:root:After reading 1000 lines, 3 chunks are done. So far: 21 rejections (0.021000) 1000 barcodes
+INFO:root:After reading 2000 lines, 3 chunks are done. So far: 32 rejections (0.016000) 2000 barcodes
+INFO:root:After reading 3000 lines, 6 chunks are done. So far: 58 rejections (0.019333) 3000 barcodes
+INFO:root:After reading 4000 lines, 7 chunks are done. So far: 80 rejections (0.020000) 4000 barcodes
+INFO:root:After reading 5000 lines, 9 chunks are done. So far: 91 rejections (0.018200) 5000 barcodes
+INFO:root:After reading 6000 lines, 11 chunks are done. So far: 106 rejections (0.017667) 6000 barcodes
+INFO:root:After reading 7000 lines, 15 chunks are done. So far: 119 rejections (0.017000) 7000 barcodes
+INFO:root:After reading 8000 lines, 19 chunks are done. So far: 131 rejections (0.016375) 8000 barcodes
+INFO:root:After reading 9000 lines, 20 chunks are done. So far: 149 rejections (0.016556) 9000 barcodes
+INFO:root:After reading 10000 lines, 21 chunks are done. So far: 160 rejections (0.016000) 10000 barcodes
+INFO:root:After reading 11000 lines, 32 chunks are done. So far: 176 rejections (0.016000) 11000 barcodes
+INFO:root:After reading 12000 lines, 43 chunks are done. So far: 192 rejections (0.016000) 12000 barcodes
+INFO:root:After reading 13000 lines, 50 chunks are done. So far: 215 rejections (0.016538) 13000 barcodes
+INFO:root:After reading 14000 lines, 76 chunks are done. So far: 230 rejections (0.016429) 14000 barcodes
+INFO:root:After reading 15000 lines, 97 chunks are done. So far: 244 rejections (0.016267) 15000 barcodes
+INFO:root:After reading 16000 lines, 108 chunks are done. So far: 261 rejections (0.016313) 16000 barcodes
+INFO:root:After reading 17000 lines, 125 chunks are done. So far: 276 rejections (0.016235) 17000 barcodes
+INFO:root:After reading 18000 lines, 160 chunks are done. So far: 290 rejections (0.016111) 18000 barcodes
+INFO:root:After reading 19000 lines, 193 chunks are done. So far: 304 rejections (0.016000) 19000 barcodes
+INFO:root:After reading 20000 lines, 223 chunks are done. So far: 320 rejections (0.016000) 20000 barcodes
+INFO:root:After reading 21000 lines, 237 chunks are done. So far: 334 rejections (0.015905) 21000 barcodes
+INFO:root:After reading 22000 lines, 269 chunks are done. So far: 351 rejections (0.015955) 22000 barcodes
+INFO:root:After reading 23000 lines, 321 chunks are done. So far: 369 rejections (0.016043) 23000 barcodes
+INFO:root:After reading 24000 lines, 380 chunks are done. So far: 379 rejections (0.015792) 24000 barcodes
+INFO:root:After reading 25000 lines, 408 chunks are done. So far: 396 rejections (0.015840) 25000 barcodes
+INFO:root:After reading 26000 lines, 612 chunks are done. So far: 421 rejections (0.016192) 26000 barcodes
+INFO:root:After reading 27000 lines, 749 chunks are done. So far: 438 rejections (0.016222) 27000 barcodes
+INFO:root:After reading 28000 lines, 987 chunks are done. So far: 458 rejections (0.016357) 28000 barcodes
+INFO:root:After reading 29000 lines, 5373 chunks are done. So far: 469 rejections (0.016172) 29000 barcodes
+INFO:root:After reading 29769 lines, 28020 chunks are done. So far: 484 rejections (0.016259) 29769 barcodes
+INFO:root:Done!
+INFO:root:MD5 is bcb753f79cf5ed4c361253559ef94d6f
+INFO:root:Out file's name is '/root/biyeshiji/resurlt/pictures/动物细胞.jpg.py3.recover',that is type of '.tar.gz'
+DEBUG:root:dncode cost time:33.65335512161255s
+DEBUG:root:end time:2020-05-20 15:59:28
+DEBUG:root:cost time:115.58344793319702s
+DEBUG:root:start time:2020-05-20 15:59:28
+INFO:root:currect file name:沃森和克里克.jpg
+INFO:root:Reading the file. This may take a few mintues
+DEBUG:root:Input file has 129524 bytes
+DEBUG:root:Padded the file with 12 zero to have a round number of blocks of data
+INFO:root:File MD5 is e901692e2cd002c25329273eefbe1b09
+INFO:root:There are 4048 input segments
+INFO:root:Upper bounds on packets for decoding is 4430 (x1.094370)  with 0.001000 probability
+
+
+Valid oligos: 100%|█████████▉| 31635/31790 [01:13<00:00, 426.94it/s]
+Valid oligos: 100%|█████████▉| 31690/31790 [01:13<00:00, 454.64it/s]
+Valid oligos: 100%|█████████▉| 31737/31790 [01:13<00:00, 455.75it/s]
+Valid oligos: 100%|█████████▉| 31785/31790 [01:13<00:00, 462.55it/s]
+Valid oligos: 100%|██████████| 31790/31790 [01:13<00:00, 431.48it/s]
+INFO:root:Finished. Generated 31790 packets out of 255349 tries (0.124)
+INFO:root:Out file's name is '/root/biyeshiji/resurlt/pictures/沃森和克里克.jpg.py3.dna'
+DEBUG:root:encode cost time:73.69771313667297s
+INFO:root:After reading 1000 lines, 5 chunks are done. So far: 20 rejections (0.020000) 1000 barcodes
+INFO:root:After reading 2000 lines, 19 chunks are done. So far: 36 rejections (0.018000) 2000 barcodes
+INFO:root:After reading 3000 lines, 68 chunks are done. So far: 48 rejections (0.016000) 3000 barcodes
+INFO:root:After reading 4000 lines, 136 chunks are done. So far: 65 rejections (0.016250) 4000 barcodes
+INFO:root:After reading 4518 lines, 4048 chunks are done. So far: 74 rejections (0.016379) 4518 barcodes
+INFO:root:Done!
+INFO:root:MD5 is e901692e2cd002c25329273eefbe1b09
+INFO:root:Out file's name is '/root/biyeshiji/resurlt/pictures/沃森和克里克.jpg.py3.recover',that is type of '.tar.gz'
+DEBUG:root:dncode cost time:2.496394157409668s
+DEBUG:root:end time:2020-05-20 16:00:44
+DEBUG:root:cost time:76.19410729408264s
+DEBUG:root:start time:2020-05-20 16:00:44
+INFO:root:currect file name:青岛大学.jpg
+INFO:root:Reading the file. This may take a few mintues
+DEBUG:root:Input file has 10931 bytes
+DEBUG:root:Padded the file with 13 zero to have a round number of blocks of data
+INFO:root:File MD5 is 1e5794589b51de486873ce7b979104e0
+INFO:root:There are 342 input segments
+INFO:root:Upper bounds on packets for decoding is 420 (x1.229282)  with 0.001000 probability
+
+
+Valid oligos: 100%|█████████▉| 31668/31790 [01:06<00:00, 477.13it/s]
+Valid oligos: 100%|█████████▉| 31725/31790 [01:06<00:00, 496.42it/s]
+Valid oligos: 100%|█████████▉| 31780/31790 [01:06<00:00, 511.10it/s]
+Valid oligos: 100%|██████████| 31790/31790 [01:06<00:00, 478.22it/s]
+INFO:root:Finished. Generated 31790 packets out of 255118 tries (0.125)
+INFO:root:Out file's name is '/root/biyeshiji/resurlt/pictures/青岛大学.jpg.py3.dna'
+DEBUG:root:encode cost time:66.47976279258728s
+INFO:root:After reading 412 lines, 342 chunks are done. So far: 3 rejections (0.007282) 412 barcodes
+INFO:root:Done!
+INFO:root:MD5 is 1e5794589b51de486873ce7b979104e0
+INFO:root:Out file's name is '/root/biyeshiji/resurlt/pictures/青岛大学.jpg.py3.recover',that is type of '.tar.gz'
+DEBUG:root:dncode cost time:0.19145774841308594s
+DEBUG:root:end time:2020-05-20 16:01:51
+DEBUG:root:cost time:66.67122054100037s
+DEBUG:root:start time:2020-05-20 16:01:51
+INFO:root:currect file name:熊猫.jpg
+INFO:root:Reading the file. This may take a few mintues
+DEBUG:root:Input file has 22827 bytes
+DEBUG:root:Padded the file with 21 zero to have a round number of blocks of data
+INFO:root:File MD5 is 8f68881c20d29798e28181d09301d216
+INFO:root:There are 714 input segments
+INFO:root:Upper bounds on packets for decoding is 840 (x1.177126)  with 0.001000 probability
+
+
+Valid oligos: 100%|█████████▉| 31637/31790 [01:07<00:00, 474.34it/s]
+Valid oligos: 100%|█████████▉| 31687/31790 [01:07<00:00, 466.02it/s]
+Valid oligos: 100%|█████████▉| 31740/31790 [01:07<00:00, 483.42it/s]
+Valid oligos: 100%|██████████| 31790/31790 [01:07<00:00, 485.14it/s]
+Valid oligos: 100%|██████████| 31790/31790 [01:07<00:00, 467.52it/s]
+INFO:root:Finished. Generated 31790 packets out of 253612 tries (0.125)
+INFO:root:Out file's name is '/root/biyeshiji/resurlt/pictures/熊猫.jpg.py3.dna'
+DEBUG:root:encode cost time:68.00323963165283s
+INFO:root:After reading 869 lines, 714 chunks are done. So far: 9 rejections (0.010357) 869 barcodes
+INFO:root:Done!
+INFO:root:MD5 is 8f68881c20d29798e28181d09301d216
+INFO:root:Out file's name is '/root/biyeshiji/resurlt/pictures/熊猫.jpg.py3.recover',that is type of '.tar.gz'
+DEBUG:root:dncode cost time:0.41528987884521484s
+DEBUG:root:end time:2020-05-20 16:02:59
+DEBUG:root:cost time:68.41852951049805s
+DEBUG:root:start time:2020-05-20 16:02:59
+INFO:root:currect file name:纯白.jpg
+INFO:root:Reading the file. This may take a few mintues
+DEBUG:root:Input file has 6456 bytes
+DEBUG:root:Padded the file with 8 zero to have a round number of blocks of data
+INFO:root:File MD5 is 81b3ec905d4c097b254ccffecf429d05
+INFO:root:There are 202 input segments
+INFO:root:Upper bounds on packets for decoding is 257 (x1.274416)  with 0.001000 probability
+
+
+Valid oligos: 100%|█████████▉| 31632/31790 [01:03<00:00, 516.68it/s]
+Valid oligos: 100%|█████████▉| 31685/31790 [01:04<00:00, 511.64it/s]
+Valid oligos: 100%|█████████▉| 31737/31790 [01:04<00:00, 484.15it/s]
+Valid oligos: 100%|██████████| 31790/31790 [01:04<00:00, 494.80it/s]
+INFO:root:Finished. Generated 31790 packets out of 254378 tries (0.125)
+INFO:root:Out file's name is '/root/biyeshiji/resurlt/pictures/纯白.jpg.py3.dna'
+DEBUG:root:encode cost time:64.25298881530762s
+INFO:root:After reading 284 lines, 202 chunks are done. So far: 5 rejections (0.017606) 284 barcodes
+INFO:root:Done!
+INFO:root:MD5 is 81b3ec905d4c097b254ccffecf429d05
+INFO:root:Out file's name is '/root/biyeshiji/resurlt/pictures/纯白.jpg.py3.recover',that is type of '.tar.gz'
+DEBUG:root:dncode cost time:0.12931323051452637s
+DEBUG:root:end time:2020-05-20 16:04:04
+DEBUG:root:cost time:64.38230204582214s
+DEBUG:root:start time:2020-05-20 16:04:04
+INFO:root:currect file name:基因.jpg
+INFO:root:Reading the file. This may take a few mintues
+DEBUG:root:Input file has 381826 bytes
+DEBUG:root:Padded the file with 30 zero to have a round number of blocks of data
+INFO:root:File MD5 is 76a70a54fad9e08b9642efa55f37b940
+INFO:root:There are 11933 input segments
+INFO:root:Upper bounds on packets for decoding is 12683 (x1.062910)  with 0.001000 probability
+
+
+Valid oligos: 100%|█████████▉| 31656/31790 [01:16<00:00, 415.61it/s]
+Valid oligos: 100%|█████████▉| 31699/31790 [01:17<00:00, 370.09it/s]
+Valid oligos: 100%|█████████▉| 31748/31790 [01:17<00:00, 395.46it/s]
+Valid oligos: 100%|██████████| 31790/31790 [01:17<00:00, 411.29it/s]
+INFO:root:Finished. Generated 31790 packets out of 253447 tries (0.125)
+INFO:root:Out file's name is '/root/biyeshiji/resurlt/pictures/基因.jpg.py3.dna'
+DEBUG:root:encode cost time:77.35111808776855s
+INFO:root:After reading 1000 lines, 5 chunks are done. So far: 20 rejections (0.020000) 1000 barcodes
+INFO:root:After reading 2000 lines, 7 chunks are done. So far: 30 rejections (0.015000) 2000 barcodes
+INFO:root:After reading 3000 lines, 17 chunks are done. So far: 41 rejections (0.013667) 3000 barcodes
+INFO:root:After reading 4000 lines, 20 chunks are done. So far: 65 rejections (0.016250) 4000 barcodes
+INFO:root:After reading 5000 lines, 24 chunks are done. So far: 90 rejections (0.018000) 5000 barcodes
+INFO:root:After reading 6000 lines, 35 chunks are done. So far: 114 rejections (0.019000) 6000 barcodes
+INFO:root:After reading 7000 lines, 54 chunks are done. So far: 134 rejections (0.019143) 7000 barcodes
+INFO:root:After reading 8000 lines, 64 chunks are done. So far: 153 rejections (0.019125) 8000 barcodes
+INFO:root:After reading 9000 lines, 76 chunks are done. So far: 172 rejections (0.019111) 9000 barcodes
+INFO:root:After reading 10000 lines, 87 chunks are done. So far: 183 rejections (0.018300) 10000 barcodes
+INFO:root:After reading 11000 lines, 153 chunks are done. So far: 198 rejections (0.018000) 11000 barcodes
+INFO:root:After reading 12000 lines, 205 chunks are done. So far: 213 rejections (0.017750) 12000 barcodes
+INFO:root:After reading 12984 lines, 11933 chunks are done. So far: 228 rejections (0.017560) 12984 barcodes
+INFO:root:Done!
+INFO:root:MD5 is 76a70a54fad9e08b9642efa55f37b940
+INFO:root:Out file's name is '/root/biyeshiji/resurlt/pictures/基因.jpg.py3.recover',that is type of '.tar.gz'
+DEBUG:root:dncode cost time:11.20335602760315s
+DEBUG:root:end time:2020-05-20 16:05:32
+DEBUG:root:cost time:88.5544741153717s
+DEBUG:root:start time:2020-05-20 16:05:32
+INFO:root:currect file name:蒙娜丽莎.jpg
+INFO:root:Reading the file. This may take a few mintues
+DEBUG:root:Input file has 97642 bytes
+DEBUG:root:Padded the file with 22 zero to have a round number of blocks of data
+INFO:root:File MD5 is 12a14ea04e69b126f1376a2bcb1d0942
+INFO:root:There are 3052 input segments
+INFO:root:Upper bounds on packets for decoding is 3371 (x1.104720)  with 0.001000 probability
+
+
+Valid oligos: 100%|█████████▉| 31653/31790 [01:12<00:00, 503.97it/s]
+Valid oligos: 100%|█████████▉| 31705/31790 [01:12<00:00, 496.38it/s]
+Valid oligos: 100%|█████████▉| 31780/31790 [01:12<00:00, 551.56it/s]
+Valid oligos: 100%|██████████| 31790/31790 [01:12<00:00, 439.08it/s]
+INFO:root:Finished. Generated 31790 packets out of 255657 tries (0.124)
+INFO:root:Out file's name is '/root/biyeshiji/resurlt/pictures/蒙娜丽莎.jpg.py3.dna'
+DEBUG:root:encode cost time:72.42557263374329s
+INFO:root:After reading 1000 lines, 11 chunks are done. So far: 15 rejections (0.015000) 1000 barcodes
+INFO:root:After reading 2000 lines, 29 chunks are done. So far: 34 rejections (0.017000) 2000 barcodes
+INFO:root:After reading 3000 lines, 145 chunks are done. So far: 52 rejections (0.017333) 3000 barcodes
+INFO:root:After reading 3451 lines, 3052 chunks are done. So far: 65 rejections (0.018835) 3451 barcodes
+INFO:root:Done!
+INFO:root:MD5 is 12a14ea04e69b126f1376a2bcb1d0942
+INFO:root:Out file's name is '/root/biyeshiji/resurlt/pictures/蒙娜丽莎.jpg.py3.recover',that is type of '.tar.gz'
+DEBUG:root:dncode cost time:1.9542572498321533s
+DEBUG:root:end time:2020-05-20 16:06:47
+DEBUG:root:cost time:74.37982988357544s
+DEBUG:root:start time:2020-05-20 16:06:47
+INFO:root:currect file name:染色体.jpg
+INFO:root:Reading the file. This may take a few mintues
+DEBUG:root:Input file has 19540 bytes
+DEBUG:root:Padded the file with 12 zero to have a round number of blocks of data
+INFO:root:File MD5 is 2da84ab8d8d6610828310018b8d50ca1
+INFO:root:There are 611 input segments
+INFO:root:Upper bounds on packets for decoding is 725 (x1.187168)  with 0.001000 probability
+
+
+Valid oligos: 100%|█████████▉| 31643/31790 [01:07<00:00, 495.66it/s]
+Valid oligos: 100%|█████████▉| 31694/31790 [01:07<00:00, 477.02it/s]
+Valid oligos: 100%|█████████▉| 31743/31790 [01:07<00:00, 478.76it/s]
+Valid oligos: 100%|██████████| 31790/31790 [01:07<00:00, 471.66it/s]
+INFO:root:Finished. Generated 31790 packets out of 253396 tries (0.125)
+INFO:root:Out file's name is '/root/biyeshiji/resurlt/pictures/染色体.jpg.py3.dna'
+DEBUG:root:encode cost time:67.40658068656921s
+INFO:root:After reading 756 lines, 611 chunks are done. So far: 11 rejections (0.014550) 756 barcodes
+INFO:root:Done!
+INFO:root:MD5 is 2da84ab8d8d6610828310018b8d50ca1
+INFO:root:Out file's name is '/root/biyeshiji/resurlt/pictures/染色体.jpg.py3.recover',that is type of '.tar.gz'
+DEBUG:root:dncode cost time:0.37810373306274414s
+DEBUG:root:end time:2020-05-20 16:07:54
+DEBUG:root:cost time:67.78468441963196s
+DEBUG:root:start time:2020-05-20 16:07:54
+INFO:root:currect file name:书.jpg
+INFO:root:Reading the file. This may take a few mintues
+DEBUG:root:Input file has 549599 bytes
+DEBUG:root:Padded the file with 1 zero to have a round number of blocks of data
+INFO:root:File MD5 is 0f410bcfaf546f5868603d76b001f5f7
+INFO:root:There are 17175 input segments
+INFO:root:Upper bounds on packets for decoding is 18115 (x1.054763)  with 0.001000 probability
+
+
+Valid oligos: 100%|█████████▉| 31643/31790 [01:18<00:00, 420.71it/s]
+Valid oligos: 100%|█████████▉| 31692/31790 [01:18<00:00, 436.05it/s]
+Valid oligos: 100%|█████████▉| 31754/31790 [01:18<00:00, 473.75it/s]
+Valid oligos: 100%|██████████| 31790/31790 [01:19<00:00, 402.09it/s]
+INFO:root:Finished. Generated 31790 packets out of 254109 tries (0.125)
+INFO:root:Out file's name is '/root/biyeshiji/resurlt/pictures/书.jpg.py3.dna'
+DEBUG:root:encode cost time:79.14046335220337s
+INFO:root:After reading 1000 lines, 6 chunks are done. So far: 16 rejections (0.016000) 1000 barcodes
+INFO:root:After reading 2000 lines, 8 chunks are done. So far: 40 rejections (0.020000) 2000 barcodes
+INFO:root:After reading 3000 lines, 14 chunks are done. So far: 52 rejections (0.017333) 3000 barcodes
+INFO:root:After reading 4000 lines, 19 chunks are done. So far: 68 rejections (0.017000) 4000 barcodes
+INFO:root:After reading 5000 lines, 27 chunks are done. So far: 82 rejections (0.016400) 5000 barcodes
+INFO:root:After reading 6000 lines, 30 chunks are done. So far: 105 rejections (0.017500) 6000 barcodes
+INFO:root:After reading 7000 lines, 36 chunks are done. So far: 118 rejections (0.016857) 7000 barcodes
+INFO:root:After reading 8000 lines, 51 chunks are done. So far: 133 rejections (0.016625) 8000 barcodes
+INFO:root:After reading 9000 lines, 62 chunks are done. So far: 150 rejections (0.016667) 9000 barcodes
+INFO:root:After reading 10000 lines, 74 chunks are done. So far: 177 rejections (0.017700) 10000 barcodes
+INFO:root:After reading 11000 lines, 107 chunks are done. So far: 196 rejections (0.017818) 11000 barcodes
+INFO:root:After reading 12000 lines, 136 chunks are done. So far: 206 rejections (0.017167) 12000 barcodes
+INFO:root:After reading 13000 lines, 155 chunks are done. So far: 219 rejections (0.016846) 13000 barcodes
+INFO:root:After reading 14000 lines, 188 chunks are done. So far: 228 rejections (0.016286) 14000 barcodes
+INFO:root:After reading 15000 lines, 269 chunks are done. So far: 245 rejections (0.016333) 15000 barcodes
+INFO:root:After reading 16000 lines, 373 chunks are done. So far: 258 rejections (0.016125) 16000 barcodes
+INFO:root:After reading 17000 lines, 582 chunks are done. So far: 272 rejections (0.016000) 17000 barcodes
+INFO:root:After reading 18000 lines, 3034 chunks are done. So far: 286 rejections (0.015889) 18000 barcodes
+INFO:root:After reading 18415 lines, 17175 chunks are done. So far: 295 rejections (0.016020) 18415 barcodes
+INFO:root:Done!
+INFO:root:MD5 is 0f410bcfaf546f5868603d76b001f5f7
+INFO:root:Out file's name is '/root/biyeshiji/resurlt/pictures/书.jpg.py3.recover',that is type of '.tar.gz'
+DEBUG:root:dncode cost time:12.532192945480347s
+DEBUG:root:end time:2020-05-20 16:09:26
+DEBUG:root:cost time:91.67265629768372s
+DEBUG:root:start time:2020-05-20 16:09:26
+INFO:root:currect file name:中国地图.jpg
+INFO:root:Reading the file. This may take a few mintues
+DEBUG:root:Input file has 483089 bytes
+DEBUG:root:Padded the file with 15 zero to have a round number of blocks of data
+INFO:root:File MD5 is 58ed13a24be78124b8f8d4f4980f5804
+INFO:root:There are 15097 input segments
+INFO:root:Upper bounds on packets for decoding is 15965 (x1.057528)  with 0.001000 probability
+
+
+Valid oligos: 100%|█████████▉| 31681/31790 [01:17<00:00, 485.35it/s]
+Valid oligos: 100%|█████████▉| 31739/31790 [01:17<00:00, 503.00it/s]
+Valid oligos: 100%|██████████| 31790/31790 [01:18<00:00, 407.04it/s]
+INFO:root:Finished. Generated 31790 packets out of 255312 tries (0.125)
+INFO:root:Out file's name is '/root/biyeshiji/resurlt/pictures/中国地图.jpg.py3.dna'
+DEBUG:root:encode cost time:78.17386960983276s
+INFO:root:After reading 1000 lines, 6 chunks are done. So far: 14 rejections (0.014000) 1000 barcodes
+INFO:root:After reading 2000 lines, 10 chunks are done. So far: 35 rejections (0.017500) 2000 barcodes
+INFO:root:After reading 3000 lines, 17 chunks are done. So far: 51 rejections (0.017000) 3000 barcodes
+INFO:root:After reading 4000 lines, 21 chunks are done. So far: 74 rejections (0.018500) 4000 barcodes
+INFO:root:After reading 5000 lines, 34 chunks are done. So far: 94 rejections (0.018800) 5000 barcodes
+INFO:root:After reading 6000 lines, 37 chunks are done. So far: 107 rejections (0.017833) 6000 barcodes
+INFO:root:After reading 7000 lines, 48 chunks are done. So far: 114 rejections (0.016286) 7000 barcodes
+INFO:root:After reading 8000 lines, 56 chunks are done. So far: 130 rejections (0.016250) 8000 barcodes
+INFO:root:After reading 9000 lines, 74 chunks are done. So far: 142 rejections (0.015778) 9000 barcodes
+INFO:root:After reading 10000 lines, 89 chunks are done. So far: 158 rejections (0.015800) 10000 barcodes
+INFO:root:After reading 11000 lines, 128 chunks are done. So far: 176 rejections (0.016000) 11000 barcodes
+INFO:root:After reading 12000 lines, 167 chunks are done. So far: 197 rejections (0.016417) 12000 barcodes
+INFO:root:After reading 13000 lines, 212 chunks are done. So far: 216 rejections (0.016615) 13000 barcodes
+INFO:root:After reading 14000 lines, 293 chunks are done. So far: 229 rejections (0.016357) 14000 barcodes
+INFO:root:After reading 15000 lines, 475 chunks are done. So far: 253 rejections (0.016867) 15000 barcodes
+INFO:root:After reading 16000 lines, 1150 chunks are done. So far: 271 rejections (0.016938) 16000 barcodes
+INFO:root:After reading 16837 lines, 15097 chunks are done. So far: 277 rejections (0.016452) 16837 barcodes
+INFO:root:Done!
+INFO:root:MD5 is 58ed13a24be78124b8f8d4f4980f5804
+INFO:root:Out file's name is '/root/biyeshiji/resurlt/pictures/中国地图.jpg.py3.recover',that is type of '.tar.gz'
+DEBUG:root:dncode cost time:14.472175598144531s
+DEBUG:root:end time:2020-05-20 16:10:59
+DEBUG:root:cost time:92.6460452079773s
+DEBUG:root:start time:2020-05-20 16:10:59
+INFO:root:currect file name:DNA.jpg
+INFO:root:Reading the file. This may take a few mintues
+DEBUG:root:Input file has 10246 bytes
+DEBUG:root:Padded the file with 26 zero to have a round number of blocks of data
+INFO:root:File MD5 is 0a8bac6f40ede9a366defd7bb34ae40e
+INFO:root:There are 321 input segments
+INFO:root:Upper bounds on packets for decoding is 396 (x1.234211)  with 0.001000 probability
+
+
+Valid oligos: 100%|█████████▉| 31656/31790 [01:05<00:00, 501.05it/s]
+Valid oligos: 100%|█████████▉| 31717/31790 [01:05<00:00, 528.88it/s]
+Valid oligos: 100%|█████████▉| 31772/31790 [01:05<00:00, 498.87it/s]
+Valid oligos: 100%|██████████| 31790/31790 [01:05<00:00, 483.79it/s]
+INFO:root:Finished. Generated 31790 packets out of 254138 tries (0.125)
+INFO:root:Out file's name is '/root/biyeshiji/resurlt/pictures/DNA.jpg.py3.dna'
+DEBUG:root:encode cost time:65.71562933921814s
+INFO:root:After reading 455 lines, 321 chunks are done. So far: 7 rejections (0.015385) 455 barcodes
+INFO:root:Done!
+INFO:root:MD5 is 0a8bac6f40ede9a366defd7bb34ae40e
+INFO:root:Out file's name is '/root/biyeshiji/resurlt/pictures/DNA.jpg.py3.recover',that is type of '.tar.gz'
+DEBUG:root:dncode cost time:0.2128152847290039s
+DEBUG:root:end time:2020-05-20 16:12:05
+DEBUG:root:cost time:65.92844462394714s
+DEBUG:root:start time:2020-05-20 16:12:05
+INFO:root:currect file name:地球.jpg
+INFO:root:Reading the file. This may take a few mintues
+DEBUG:root:Input file has 58651 bytes
+DEBUG:root:Padded the file with 5 zero to have a round number of blocks of data
+INFO:root:File MD5 is 8eb30cd180fd8884e9cd803444f15ef7
+INFO:root:There are 1833 input segments
+INFO:root:Upper bounds on packets for decoding is 2064 (x1.126216)  with 0.001000 probability
+
+
+Valid oligos: 100%|█████████▉| 31684/31790 [01:09<00:00, 492.03it/s]
+Valid oligos: 100%|█████████▉| 31736/31790 [01:10<00:00, 457.84it/s]
+Valid oligos: 100%|█████████▉| 31784/31790 [01:10<00:00, 444.44it/s]
+Valid oligos: 100%|██████████| 31790/31790 [01:10<00:00, 453.35it/s]
+INFO:root:Finished. Generated 31790 packets out of 254237 tries (0.125)
+INFO:root:Out file's name is '/root/biyeshiji/resurlt/pictures/地球.jpg.py3.dna'
+DEBUG:root:encode cost time:70.1332483291626s
+INFO:root:After reading 1000 lines, 33 chunks are done. So far: 18 rejections (0.018000) 1000 barcodes
+INFO:root:After reading 2000 lines, 355 chunks are done. So far: 31 rejections (0.015500) 2000 barcodes
+INFO:root:After reading 2103 lines, 1833 chunks are done. So far: 36 rejections (0.017118) 2103 barcodes
+INFO:root:Done!
+INFO:root:MD5 is 8eb30cd180fd8884e9cd803444f15ef7
+INFO:root:Out file's name is '/root/biyeshiji/resurlt/pictures/地球.jpg.py3.recover',that is type of '.tar.gz'
+DEBUG:root:dncode cost time:1.1841111183166504s
+DEBUG:root:end time:2020-05-20 16:13:16
+DEBUG:root:cost time:71.31735944747925s
+DEBUG:root:start time:2020-05-20 16:13:16
+INFO:root:currect file name:烟斗.jpg
+INFO:root:Reading the file. This may take a few mintues
+DEBUG:root:Input file has 396480 bytes
+INFO:root:File MD5 is 450db42187aad760aa5c3ebc52b69975
+INFO:root:There are 12390 input segments
+INFO:root:Upper bounds on packets for decoding is 13158 (x1.062013)  with 0.001000 probability
+
+
+Valid oligos: 100%|█████████▉| 31640/31790 [01:17<00:00, 485.67it/s]
+Valid oligos: 100%|█████████▉| 31691/31790 [01:17<00:00, 492.41it/s]
+Valid oligos: 100%|█████████▉| 31741/31790 [01:17<00:00, 487.60it/s]
+Valid oligos: 100%|██████████| 31790/31790 [01:17<00:00, 443.94it/s]
+Valid oligos: 100%|██████████| 31790/31790 [01:17<00:00, 410.00it/s]
+INFO:root:Finished. Generated 31790 packets out of 255790 tries (0.124)
+INFO:root:Out file's name is '/root/biyeshiji/resurlt/pictures/烟斗.jpg.py3.dna'
+DEBUG:root:encode cost time:77.60000586509705s
+INFO:root:After reading 1000 lines, 2 chunks are done. So far: 16 rejections (0.016000) 1000 barcodes
+INFO:root:After reading 2000 lines, 6 chunks are done. So far: 36 rejections (0.018000) 2000 barcodes
+INFO:root:After reading 3000 lines, 11 chunks are done. So far: 50 rejections (0.016667) 3000 barcodes
+INFO:root:After reading 4000 lines, 14 chunks are done. So far: 65 rejections (0.016250) 4000 barcodes
+INFO:root:After reading 5000 lines, 19 chunks are done. So far: 90 rejections (0.018000) 5000 barcodes
+INFO:root:After reading 6000 lines, 22 chunks are done. So far: 101 rejections (0.016833) 6000 barcodes
+INFO:root:After reading 7000 lines, 35 chunks are done. So far: 117 rejections (0.016714) 7000 barcodes
+INFO:root:After reading 8000 lines, 42 chunks are done. So far: 133 rejections (0.016625) 8000 barcodes
+INFO:root:After reading 9000 lines, 59 chunks are done. So far: 145 rejections (0.016111) 9000 barcodes
+INFO:root:After reading 10000 lines, 104 chunks are done. So far: 158 rejections (0.015800) 10000 barcodes
+INFO:root:After reading 11000 lines, 233 chunks are done. So far: 184 rejections (0.016727) 11000 barcodes
+INFO:root:After reading 12000 lines, 406 chunks are done. So far: 202 rejections (0.016833) 12000 barcodes
+INFO:root:After reading 13000 lines, 954 chunks are done. So far: 220 rejections (0.016923) 13000 barcodes
+INFO:root:After reading 13622 lines, 12390 chunks are done. So far: 231 rejections (0.016958) 13622 barcodes
+INFO:root:Done!
+INFO:root:MD5 is 450db42187aad760aa5c3ebc52b69975
+INFO:root:Out file's name is '/root/biyeshiji/resurlt/pictures/烟斗.jpg.py3.recover',that is type of '.tar.gz'
+DEBUG:root:dncode cost time:10.40775990486145s
+DEBUG:root:end time:2020-05-20 16:14:44
+DEBUG:root:cost time:88.0077657699585s
+INFO:root:all complete!

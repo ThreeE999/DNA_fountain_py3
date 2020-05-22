@@ -1,0 +1,1613 @@
+nohup: ignoring input
+DEBUG:root:start time:2020-05-21 18:33:38
+INFO:root:currect file name:罗密欧与朱丽叶.txt
+INFO:root:Reading the file. This may take a few mintues
+DEBUG:root:Input file has 190777 bytes
+DEBUG:root:Padded the file with 7 zero to have a round number of blocks of data
+INFO:root:File MD5 is 6b1b9416c0fd1f2077ef40f734a4a447
+INFO:root:There are 5962 input segments
+INFO:root:Upper bounds on packets for decoding is 6448 (x1.081681)  with 0.001000 probability
+
+
+Valid oligos: 100%|█████████▉| 125077/125681 [05:04<00:01, 394.98it/s]
+Valid oligos: 100%|█████████▉| 125140/125681 [05:04<00:01, 443.09it/s]
+Valid oligos: 100%|█████████▉| 125200/125681 [05:04<00:01, 476.90it/s]
+Valid oligos: 100%|█████████▉| 125251/125681 [05:04<00:01, 429.47it/s]
+Valid oligos: 100%|█████████▉| 125308/125681 [05:04<00:00, 453.87it/s]
+Valid oligos: 100%|█████████▉| 125375/125681 [05:04<00:00, 495.90it/s]
+Valid oligos: 100%|█████████▉| 125428/125681 [05:04<00:00, 465.40it/s]
+Valid oligos: 100%|█████████▉| 125477/125681 [05:04<00:00, 453.81it/s]
+Valid oligos: 100%|█████████▉| 125525/125681 [05:04<00:00, 430.73it/s]
+Valid oligos: 100%|█████████▉| 125577/125681 [05:05<00:00, 453.01it/s]
+Valid oligos: 100%|█████████▉| 125624/125681 [05:05<00:00, 382.35it/s]
+Valid oligos: 100%|█████████▉| 125674/125681 [05:05<00:00, 409.51it/s]
+Valid oligos: 100%|██████████| 125681/125681 [05:05<00:00, 411.51it/s]
+INFO:root:Finished. Generated 125681 packets out of 1320137 tries (0.095)
+DEBUG:root:encode cost time:305.44344306s
+INFO:root:After reading 1000 lines, 6 chunks are done. So far: 29 rejections (0.029000) 1000 barcodes
+INFO:root:After reading 2000 lines, 14 chunks are done. So far: 57 rejections (0.028500) 2000 barcodes
+INFO:root:After reading 3000 lines, 21 chunks are done. So far: 89 rejections (0.029667) 3000 barcodes
+INFO:root:After reading 4000 lines, 32 chunks are done. So far: 120 rejections (0.030000) 4000 barcodes
+INFO:root:After reading 5000 lines, 46 chunks are done. So far: 142 rejections (0.028400) 5000 barcodes
+INFO:root:After reading 6000 lines, 102 chunks are done. So far: 168 rejections (0.028000) 6000 barcodes
+INFO:root:After reading 7000 lines, 121 chunks are done. So far: 190 rejections (0.027143) 7000 barcodes
+INFO:root:After reading 8000 lines, 152 chunks are done. So far: 214 rejections (0.026750) 8000 barcodes
+INFO:root:After reading 8711 lines, 5962 chunks are done. So far: 226 rejections (0.025944) 8711 barcodes
+INFO:root:Done!
+INFO:root:MD5 is 6b1b9416c0fd1f2077ef40f734a4a447
+DEBUG:root:dncode cost time:12.4984300137s
+DEBUG:root:end time:2020-05-21 18:38:56
+DEBUG:root:cost time:317.941873074s
+DEBUG:root:start time:2020-05-21 18:38:56
+INFO:root:currect file name:三体.txt
+INFO:root:Reading the file. This may take a few mintues
+DEBUG:root:Input file has 1844915 bytes
+DEBUG:root:Padded the file with 13 zero to have a round number of blocks of data
+INFO:root:File MD5 is 751d80fc301d45bd8815b3fa8175f92e
+INFO:root:There are 57654 input segments
+INFO:root:Upper bounds on packets for decoding is 59632 (x1.034319)  with 0.001000 probability
+
+
+Valid oligos: 100%|█████████▉| 125060/125681 [05:37<00:01, 322.65it/s]
+Valid oligos: 100%|█████████▉| 125094/125681 [05:37<00:01, 317.32it/s]
+Valid oligos: 100%|█████████▉| 125134/125681 [05:38<00:01, 330.94it/s]
+Valid oligos: 100%|█████████▉| 125176/125681 [05:38<00:01, 350.08it/s]
+Valid oligos: 100%|█████████▉| 125212/125681 [05:38<00:01, 334.70it/s]
+Valid oligos: 100%|█████████▉| 125247/125681 [05:38<00:01, 332.65it/s]
+Valid oligos: 100%|█████████▉| 125281/125681 [05:38<00:01, 312.22it/s]
+Valid oligos: 100%|█████████▉| 125315/125681 [05:38<00:01, 317.57it/s]
+Valid oligos: 100%|█████████▉| 125366/125681 [05:38<00:00, 349.18it/s]
+Valid oligos: 100%|█████████▉| 125405/125681 [05:38<00:00, 357.55it/s]
+Valid oligos: 100%|█████████▉| 125442/125681 [05:38<00:00, 342.64it/s]
+Valid oligos: 100%|█████████▉| 125499/125681 [05:39<00:00, 383.70it/s]
+Valid oligos: 100%|█████████▉| 125540/125681 [05:39<00:00, 320.17it/s]
+Valid oligos: 100%|█████████▉| 125577/125681 [05:39<00:00, 333.03it/s]
+Valid oligos: 100%|█████████▉| 125624/125681 [05:39<00:00, 358.68it/s]
+Valid oligos: 100%|█████████▉| 125663/125681 [05:39<00:00, 358.64it/s]
+Valid oligos: 100%|██████████| 125681/125681 [05:39<00:00, 370.05it/s]
+INFO:root:Finished. Generated 125681 packets out of 979113 tries (0.128)
+DEBUG:root:encode cost time:339.865936995s
+INFO:root:After reading 1000 lines, 0 chunks are done. So far: 19 rejections (0.019000) 1000 barcodes
+INFO:root:After reading 2000 lines, 2 chunks are done. So far: 39 rejections (0.019500) 2000 barcodes
+INFO:root:After reading 3000 lines, 3 chunks are done. So far: 54 rejections (0.018000) 3000 barcodes
+INFO:root:After reading 4000 lines, 4 chunks are done. So far: 68 rejections (0.017000) 4000 barcodes
+INFO:root:After reading 5000 lines, 4 chunks are done. So far: 88 rejections (0.017600) 5000 barcodes
+INFO:root:After reading 6000 lines, 5 chunks are done. So far: 104 rejections (0.017333) 6000 barcodes
+INFO:root:After reading 7000 lines, 6 chunks are done. So far: 119 rejections (0.017000) 7000 barcodes
+INFO:root:After reading 8000 lines, 8 chunks are done. So far: 135 rejections (0.016875) 8000 barcodes
+INFO:root:After reading 9000 lines, 8 chunks are done. So far: 151 rejections (0.016778) 9000 barcodes
+INFO:root:After reading 10000 lines, 10 chunks are done. So far: 166 rejections (0.016600) 10000 barcodes
+INFO:root:After reading 11000 lines, 14 chunks are done. So far: 179 rejections (0.016273) 11000 barcodes
+INFO:root:After reading 12000 lines, 19 chunks are done. So far: 189 rejections (0.015750) 12000 barcodes
+INFO:root:After reading 13000 lines, 21 chunks are done. So far: 212 rejections (0.016308) 13000 barcodes
+INFO:root:After reading 14000 lines, 24 chunks are done. So far: 229 rejections (0.016357) 14000 barcodes
+INFO:root:After reading 15000 lines, 28 chunks are done. So far: 251 rejections (0.016733) 15000 barcodes
+INFO:root:After reading 16000 lines, 30 chunks are done. So far: 274 rejections (0.017125) 16000 barcodes
+INFO:root:After reading 17000 lines, 30 chunks are done. So far: 288 rejections (0.016941) 17000 barcodes
+INFO:root:After reading 18000 lines, 35 chunks are done. So far: 303 rejections (0.016833) 18000 barcodes
+INFO:root:After reading 19000 lines, 43 chunks are done. So far: 321 rejections (0.016895) 19000 barcodes
+INFO:root:After reading 20000 lines, 45 chunks are done. So far: 330 rejections (0.016500) 20000 barcodes
+INFO:root:After reading 21000 lines, 46 chunks are done. So far: 352 rejections (0.016762) 21000 barcodes
+INFO:root:After reading 22000 lines, 46 chunks are done. So far: 368 rejections (0.016727) 22000 barcodes
+INFO:root:After reading 23000 lines, 47 chunks are done. So far: 387 rejections (0.016826) 23000 barcodes
+INFO:root:After reading 24000 lines, 50 chunks are done. So far: 405 rejections (0.016875) 24000 barcodes
+INFO:root:After reading 25000 lines, 57 chunks are done. So far: 428 rejections (0.017120) 25000 barcodes
+INFO:root:After reading 26000 lines, 60 chunks are done. So far: 442 rejections (0.017000) 26000 barcodes
+INFO:root:After reading 27000 lines, 68 chunks are done. So far: 459 rejections (0.017000) 27000 barcodes
+INFO:root:After reading 28000 lines, 70 chunks are done. So far: 478 rejections (0.017071) 28000 barcodes
+INFO:root:After reading 29000 lines, 75 chunks are done. So far: 491 rejections (0.016931) 29000 barcodes
+INFO:root:After reading 30000 lines, 82 chunks are done. So far: 510 rejections (0.017000) 30000 barcodes
+INFO:root:After reading 31000 lines, 88 chunks are done. So far: 533 rejections (0.017194) 31000 barcodes
+INFO:root:After reading 32000 lines, 97 chunks are done. So far: 554 rejections (0.017313) 32000 barcodes
+INFO:root:After reading 33000 lines, 109 chunks are done. So far: 567 rejections (0.017182) 33000 barcodes
+INFO:root:After reading 34000 lines, 109 chunks are done. So far: 583 rejections (0.017147) 34000 barcodes
+INFO:root:After reading 35000 lines, 131 chunks are done. So far: 603 rejections (0.017229) 35000 barcodes
+INFO:root:After reading 36000 lines, 133 chunks are done. So far: 625 rejections (0.017361) 36000 barcodes
+INFO:root:After reading 37000 lines, 138 chunks are done. So far: 648 rejections (0.017514) 37000 barcodes
+INFO:root:After reading 38000 lines, 141 chunks are done. So far: 668 rejections (0.017579) 38000 barcodes
+INFO:root:After reading 39000 lines, 149 chunks are done. So far: 693 rejections (0.017769) 39000 barcodes
+INFO:root:After reading 40000 lines, 154 chunks are done. So far: 709 rejections (0.017725) 40000 barcodes
+INFO:root:After reading 41000 lines, 160 chunks are done. So far: 725 rejections (0.017683) 41000 barcodes
+INFO:root:After reading 42000 lines, 162 chunks are done. So far: 741 rejections (0.017643) 42000 barcodes
+INFO:root:After reading 43000 lines, 165 chunks are done. So far: 754 rejections (0.017535) 43000 barcodes
+INFO:root:After reading 44000 lines, 175 chunks are done. So far: 776 rejections (0.017636) 44000 barcodes
+INFO:root:After reading 45000 lines, 199 chunks are done. So far: 796 rejections (0.017689) 45000 barcodes
+INFO:root:After reading 46000 lines, 207 chunks are done. So far: 817 rejections (0.017761) 46000 barcodes
+INFO:root:After reading 47000 lines, 225 chunks are done. So far: 828 rejections (0.017617) 47000 barcodes
+INFO:root:After reading 48000 lines, 251 chunks are done. So far: 849 rejections (0.017687) 48000 barcodes
+INFO:root:After reading 49000 lines, 262 chunks are done. So far: 868 rejections (0.017714) 49000 barcodes
+INFO:root:After reading 50000 lines, 282 chunks are done. So far: 887 rejections (0.017740) 50000 barcodes
+INFO:root:After reading 51000 lines, 307 chunks are done. So far: 900 rejections (0.017647) 51000 barcodes
+INFO:root:After reading 52000 lines, 343 chunks are done. So far: 915 rejections (0.017596) 52000 barcodes
+INFO:root:After reading 53000 lines, 363 chunks are done. So far: 926 rejections (0.017472) 53000 barcodes
+INFO:root:After reading 54000 lines, 372 chunks are done. So far: 943 rejections (0.017463) 54000 barcodes
+INFO:root:After reading 55000 lines, 398 chunks are done. So far: 962 rejections (0.017491) 55000 barcodes
+INFO:root:After reading 56000 lines, 450 chunks are done. So far: 977 rejections (0.017446) 56000 barcodes
+INFO:root:After reading 57000 lines, 465 chunks are done. So far: 992 rejections (0.017404) 57000 barcodes
+INFO:root:After reading 58000 lines, 532 chunks are done. So far: 1005 rejections (0.017328) 58000 barcodes
+INFO:root:After reading 59000 lines, 571 chunks are done. So far: 1017 rejections (0.017237) 59000 barcodes
+INFO:root:After reading 60000 lines, 665 chunks are done. So far: 1037 rejections (0.017283) 60000 barcodes
+INFO:root:After reading 61000 lines, 730 chunks are done. So far: 1046 rejections (0.017148) 61000 barcodes
+INFO:root:After reading 62000 lines, 748 chunks are done. So far: 1065 rejections (0.017177) 62000 barcodes
+INFO:root:After reading 63000 lines, 947 chunks are done. So far: 1080 rejections (0.017143) 63000 barcodes
+INFO:root:After reading 64000 lines, 1198 chunks are done. So far: 1094 rejections (0.017094) 64000 barcodes
+INFO:root:After reading 65000 lines, 1788 chunks are done. So far: 1115 rejections (0.017154) 65000 barcodes
+INFO:root:After reading 65539 lines, 57654 chunks are done. So far: 1121 rejections (0.017104) 65539 barcodes
+INFO:root:Done!
+INFO:root:MD5 is 751d80fc301d45bd8815b3fa8175f92e
+DEBUG:root:dncode cost time:284.282748938s
+DEBUG:root:end time:2020-05-21 18:49:20
+DEBUG:root:cost time:624.148685932s
+DEBUG:root:start time:2020-05-21 18:49:20
+INFO:root:currect file name:水浒传.txt
+INFO:root:Reading the file. This may take a few mintues
+DEBUG:root:Input file has 2173162 bytes
+DEBUG:root:Padded the file with 22 zero to have a round number of blocks of data
+INFO:root:File MD5 is 45276a67c0220106af1a50d9b4e3bee1
+INFO:root:There are 67912 input segments
+INFO:root:Upper bounds on packets for decoding is 70098 (x1.032196)  with 0.001000 probability
+
+
+Valid oligos: 100%|█████████▉| 125056/125681 [09:52<00:03, 186.85it/s]
+Valid oligos: 100%|█████████▉| 125078/125681 [09:52<00:03, 195.59it/s]
+Valid oligos: 100%|█████████▉| 125099/125681 [09:52<00:03, 183.92it/s]
+Valid oligos: 100%|█████████▉| 125122/125681 [09:53<00:02, 193.34it/s]
+Valid oligos: 100%|█████████▉| 125144/125681 [09:53<00:02, 199.81it/s]
+Valid oligos: 100%|█████████▉| 125179/125681 [09:53<00:02, 225.27it/s]
+Valid oligos: 100%|█████████▉| 125213/125681 [09:53<00:01, 244.56it/s]
+Valid oligos: 100%|█████████▉| 125239/125681 [09:53<00:02, 213.81it/s]
+Valid oligos: 100%|█████████▉| 125263/125681 [09:53<00:01, 209.83it/s]
+Valid oligos: 100%|█████████▉| 125299/125681 [09:53<00:01, 237.27it/s]
+Valid oligos: 100%|█████████▉| 125325/125681 [09:53<00:01, 224.93it/s]
+Valid oligos: 100%|█████████▉| 125350/125681 [09:53<00:01, 230.36it/s]
+Valid oligos: 100%|█████████▉| 125375/125681 [09:54<00:01, 221.22it/s]
+Valid oligos: 100%|█████████▉| 125404/125681 [09:54<00:01, 236.42it/s]
+Valid oligos: 100%|█████████▉| 125436/125681 [09:54<00:00, 251.91it/s]
+Valid oligos: 100%|█████████▉| 125463/125681 [09:54<00:00, 246.90it/s]
+Valid oligos: 100%|█████████▉| 125489/125681 [09:54<00:00, 219.97it/s]
+Valid oligos: 100%|█████████▉| 125513/125681 [09:54<00:00, 218.18it/s]
+Valid oligos: 100%|█████████▉| 125541/125681 [09:54<00:00, 232.44it/s]
+Valid oligos: 100%|█████████▉| 125565/125681 [09:54<00:00, 218.00it/s]
+Valid oligos: 100%|█████████▉| 125589/125681 [09:55<00:00, 217.35it/s]
+Valid oligos: 100%|█████████▉| 125617/125681 [09:55<00:00, 230.93it/s]
+Valid oligos: 100%|█████████▉| 125641/125681 [09:55<00:00, 220.62it/s]
+Valid oligos: 100%|█████████▉| 125674/125681 [09:55<00:00, 240.61it/s]
+Valid oligos: 100%|██████████| 125681/125681 [09:55<00:00, 211.07it/s]
+INFO:root:Finished. Generated 125681 packets out of 1590833 tries (0.079)
+DEBUG:root:encode cost time:596.07346797s
+INFO:root:After reading 1000 lines, 7 chunks are done. So far: 37 rejections (0.037000) 1000 barcodes
+INFO:root:After reading 2000 lines, 11 chunks are done. So far: 76 rejections (0.038000) 2000 barcodes
+INFO:root:After reading 3000 lines, 12 chunks are done. So far: 119 rejections (0.039667) 3000 barcodes
+INFO:root:After reading 4000 lines, 14 chunks are done. So far: 153 rejections (0.038250) 4000 barcodes
+INFO:root:After reading 5000 lines, 19 chunks are done. So far: 183 rejections (0.036600) 5000 barcodes
+INFO:root:After reading 6000 lines, 21 chunks are done. So far: 223 rejections (0.037167) 6000 barcodes
+INFO:root:After reading 7000 lines, 22 chunks are done. So far: 256 rejections (0.036571) 7000 barcodes
+INFO:root:After reading 8000 lines, 24 chunks are done. So far: 287 rejections (0.035875) 8000 barcodes
+INFO:root:After reading 9000 lines, 26 chunks are done. So far: 324 rejections (0.036000) 9000 barcodes
+INFO:root:After reading 10000 lines, 30 chunks are done. So far: 353 rejections (0.035300) 10000 barcodes
+INFO:root:After reading 11000 lines, 37 chunks are done. So far: 392 rejections (0.035636) 11000 barcodes
+INFO:root:After reading 12000 lines, 40 chunks are done. So far: 414 rejections (0.034500) 12000 barcodes
+INFO:root:After reading 13000 lines, 43 chunks are done. So far: 452 rejections (0.034769) 13000 barcodes
+INFO:root:After reading 14000 lines, 48 chunks are done. So far: 487 rejections (0.034786) 14000 barcodes
+INFO:root:After reading 15000 lines, 50 chunks are done. So far: 510 rejections (0.034000) 15000 barcodes
+INFO:root:After reading 16000 lines, 56 chunks are done. So far: 532 rejections (0.033250) 16000 barcodes
+INFO:root:After reading 17000 lines, 59 chunks are done. So far: 557 rejections (0.032765) 17000 barcodes
+INFO:root:After reading 18000 lines, 63 chunks are done. So far: 592 rejections (0.032889) 18000 barcodes
+INFO:root:After reading 19000 lines, 75 chunks are done. So far: 626 rejections (0.032947) 19000 barcodes
+INFO:root:After reading 20000 lines, 77 chunks are done. So far: 662 rejections (0.033100) 20000 barcodes
+INFO:root:After reading 21000 lines, 80 chunks are done. So far: 689 rejections (0.032810) 21000 barcodes
+INFO:root:After reading 22000 lines, 84 chunks are done. So far: 718 rejections (0.032636) 22000 barcodes
+INFO:root:After reading 23000 lines, 87 chunks are done. So far: 753 rejections (0.032739) 23000 barcodes
+INFO:root:After reading 24000 lines, 88 chunks are done. So far: 788 rejections (0.032833) 24000 barcodes
+INFO:root:After reading 25000 lines, 91 chunks are done. So far: 829 rejections (0.033160) 25000 barcodes
+INFO:root:After reading 26000 lines, 94 chunks are done. So far: 860 rejections (0.033077) 26000 barcodes
+INFO:root:After reading 27000 lines, 97 chunks are done. So far: 888 rejections (0.032889) 27000 barcodes
+INFO:root:After reading 28000 lines, 97 chunks are done. So far: 923 rejections (0.032964) 28000 barcodes
+INFO:root:After reading 29000 lines, 98 chunks are done. So far: 943 rejections (0.032517) 29000 barcodes
+INFO:root:After reading 30000 lines, 106 chunks are done. So far: 977 rejections (0.032567) 30000 barcodes
+INFO:root:After reading 31000 lines, 112 chunks are done. So far: 1011 rejections (0.032613) 31000 barcodes
+INFO:root:After reading 32000 lines, 117 chunks are done. So far: 1053 rejections (0.032906) 32000 barcodes
+INFO:root:After reading 33000 lines, 122 chunks are done. So far: 1084 rejections (0.032848) 33000 barcodes
+INFO:root:After reading 34000 lines, 129 chunks are done. So far: 1111 rejections (0.032676) 34000 barcodes
+INFO:root:After reading 35000 lines, 139 chunks are done. So far: 1136 rejections (0.032457) 35000 barcodes
+INFO:root:After reading 36000 lines, 155 chunks are done. So far: 1172 rejections (0.032556) 36000 barcodes
+INFO:root:After reading 37000 lines, 164 chunks are done. So far: 1206 rejections (0.032595) 37000 barcodes
+INFO:root:After reading 38000 lines, 171 chunks are done. So far: 1238 rejections (0.032579) 38000 barcodes
+INFO:root:After reading 39000 lines, 175 chunks are done. So far: 1270 rejections (0.032564) 39000 barcodes
+INFO:root:After reading 40000 lines, 191 chunks are done. So far: 1301 rejections (0.032525) 40000 barcodes
+INFO:root:After reading 41000 lines, 201 chunks are done. So far: 1345 rejections (0.032805) 41000 barcodes
+INFO:root:After reading 42000 lines, 209 chunks are done. So far: 1374 rejections (0.032714) 42000 barcodes
+INFO:root:After reading 43000 lines, 216 chunks are done. So far: 1397 rejections (0.032488) 43000 barcodes
+INFO:root:After reading 44000 lines, 222 chunks are done. So far: 1426 rejections (0.032409) 44000 barcodes
+INFO:root:After reading 45000 lines, 229 chunks are done. So far: 1453 rejections (0.032289) 45000 barcodes
+INFO:root:After reading 46000 lines, 237 chunks are done. So far: 1478 rejections (0.032130) 46000 barcodes
+INFO:root:After reading 47000 lines, 244 chunks are done. So far: 1512 rejections (0.032170) 47000 barcodes
+INFO:root:After reading 48000 lines, 254 chunks are done. So far: 1544 rejections (0.032167) 48000 barcodes
+INFO:root:After reading 49000 lines, 265 chunks are done. So far: 1575 rejections (0.032143) 49000 barcodes
+INFO:root:After reading 50000 lines, 272 chunks are done. So far: 1612 rejections (0.032240) 50000 barcodes
+INFO:root:After reading 51000 lines, 286 chunks are done. So far: 1638 rejections (0.032118) 51000 barcodes
+INFO:root:After reading 52000 lines, 289 chunks are done. So far: 1679 rejections (0.032288) 52000 barcodes
+INFO:root:After reading 53000 lines, 315 chunks are done. So far: 1708 rejections (0.032226) 53000 barcodes
+INFO:root:After reading 54000 lines, 320 chunks are done. So far: 1746 rejections (0.032333) 54000 barcodes
+INFO:root:After reading 55000 lines, 326 chunks are done. So far: 1783 rejections (0.032418) 55000 barcodes
+INFO:root:After reading 56000 lines, 360 chunks are done. So far: 1805 rejections (0.032232) 56000 barcodes
+INFO:root:After reading 57000 lines, 377 chunks are done. So far: 1841 rejections (0.032298) 57000 barcodes
+INFO:root:After reading 58000 lines, 394 chunks are done. So far: 1879 rejections (0.032397) 58000 barcodes
+INFO:root:After reading 59000 lines, 415 chunks are done. So far: 1911 rejections (0.032390) 59000 barcodes
+INFO:root:After reading 60000 lines, 446 chunks are done. So far: 1944 rejections (0.032400) 60000 barcodes
+INFO:root:After reading 61000 lines, 454 chunks are done. So far: 1981 rejections (0.032475) 61000 barcodes
+INFO:root:After reading 62000 lines, 478 chunks are done. So far: 2024 rejections (0.032645) 62000 barcodes
+INFO:root:After reading 63000 lines, 498 chunks are done. So far: 2051 rejections (0.032556) 63000 barcodes
+INFO:root:After reading 64000 lines, 508 chunks are done. So far: 2092 rejections (0.032688) 64000 barcodes
+INFO:root:After reading 65000 lines, 522 chunks are done. So far: 2127 rejections (0.032723) 65000 barcodes
+INFO:root:After reading 66000 lines, 532 chunks are done. So far: 2166 rejections (0.032818) 66000 barcodes
+INFO:root:After reading 67000 lines, 541 chunks are done. So far: 2203 rejections (0.032881) 67000 barcodes
+INFO:root:After reading 68000 lines, 560 chunks are done. So far: 2232 rejections (0.032824) 68000 barcodes
+INFO:root:After reading 69000 lines, 569 chunks are done. So far: 2272 rejections (0.032928) 69000 barcodes
+INFO:root:After reading 70000 lines, 585 chunks are done. So far: 2304 rejections (0.032914) 70000 barcodes
+INFO:root:After reading 71000 lines, 609 chunks are done. So far: 2339 rejections (0.032944) 71000 barcodes
+INFO:root:After reading 72000 lines, 666 chunks are done. So far: 2372 rejections (0.032944) 72000 barcodes
+INFO:root:After reading 73000 lines, 687 chunks are done. So far: 2414 rejections (0.033068) 73000 barcodes
+INFO:root:After reading 74000 lines, 714 chunks are done. So far: 2444 rejections (0.033027) 74000 barcodes
+INFO:root:After reading 75000 lines, 770 chunks are done. So far: 2482 rejections (0.033093) 75000 barcodes
+INFO:root:After reading 76000 lines, 857 chunks are done. So far: 2509 rejections (0.033013) 76000 barcodes
+INFO:root:After reading 77000 lines, 898 chunks are done. So far: 2548 rejections (0.033091) 77000 barcodes
+INFO:root:After reading 78000 lines, 966 chunks are done. So far: 2584 rejections (0.033128) 78000 barcodes
+INFO:root:After reading 79000 lines, 1032 chunks are done. So far: 2616 rejections (0.033114) 79000 barcodes
+INFO:root:After reading 80000 lines, 1076 chunks are done. So far: 2656 rejections (0.033200) 80000 barcodes
+INFO:root:After reading 81000 lines, 1159 chunks are done. So far: 2690 rejections (0.033210) 81000 barcodes
+INFO:root:After reading 82000 lines, 1325 chunks are done. So far: 2716 rejections (0.033122) 82000 barcodes
+INFO:root:After reading 83000 lines, 1538 chunks are done. So far: 2755 rejections (0.033193) 83000 barcodes
+INFO:root:After reading 84000 lines, 1608 chunks are done. So far: 2802 rejections (0.033357) 84000 barcodes
+INFO:root:After reading 85000 lines, 1696 chunks are done. So far: 2839 rejections (0.033400) 85000 barcodes
+INFO:root:After reading 86000 lines, 1741 chunks are done. So far: 2878 rejections (0.033465) 86000 barcodes
+INFO:root:After reading 87000 lines, 1804 chunks are done. So far: 2906 rejections (0.033402) 87000 barcodes
+INFO:root:After reading 88000 lines, 1942 chunks are done. So far: 2929 rejections (0.033284) 88000 barcodes
+INFO:root:After reading 89000 lines, 2306 chunks are done. So far: 2962 rejections (0.033281) 89000 barcodes
+INFO:root:After reading 90000 lines, 2812 chunks are done. So far: 2995 rejections (0.033278) 90000 barcodes
+INFO:root:After reading 91000 lines, 3186 chunks are done. So far: 3033 rejections (0.033330) 91000 barcodes
+INFO:root:After reading 92000 lines, 4197 chunks are done. So far: 3061 rejections (0.033272) 92000 barcodes
+INFO:root:After reading 93000 lines, 5331 chunks are done. So far: 3095 rejections (0.033280) 93000 barcodes
+INFO:root:After reading 93567 lines, 67912 chunks are done. So far: 3108 rejections (0.033217) 93567 barcodes
+INFO:root:Done!
+INFO:root:MD5 is 45276a67c0220106af1a50d9b4e3bee1
+DEBUG:root:dncode cost time:1365.732687s
+DEBUG:root:end time:2020-05-21 19:22:02
+DEBUG:root:cost time:1961.80615497s
+DEBUG:root:start time:2020-05-21 19:22:02
+INFO:root:currect file name:蛙.txt
+INFO:root:Reading the file. This may take a few mintues
+DEBUG:root:Input file has 570848 bytes
+INFO:root:File MD5 is 56c54a0e20e1f2962b59272c555bd11d
+INFO:root:There are 17839 input segments
+INFO:root:Upper bounds on packets for decoding is 18801 (x1.053972)  with 0.001000 probability
+
+
+Valid oligos: 100%|█████████▉| 125063/125681 [04:37<00:01, 456.96it/s]
+Valid oligos: 100%|█████████▉| 125113/125681 [04:37<00:01, 462.12it/s]
+Valid oligos: 100%|█████████▉| 125167/125681 [04:37<00:01, 481.63it/s]
+Valid oligos: 100%|█████████▉| 125216/125681 [04:38<00:01, 461.53it/s]
+Valid oligos: 100%|█████████▉| 125271/125681 [04:38<00:00, 484.53it/s]
+Valid oligos: 100%|█████████▉| 125321/125681 [04:38<00:00, 465.72it/s]
+Valid oligos: 100%|█████████▉| 125369/125681 [04:38<00:00, 445.17it/s]
+Valid oligos: 100%|█████████▉| 125417/125681 [04:38<00:00, 451.89it/s]
+Valid oligos: 100%|█████████▉| 125472/125681 [04:38<00:00, 476.07it/s]
+Valid oligos: 100%|█████████▉| 125521/125681 [04:38<00:00, 469.24it/s]
+Valid oligos: 100%|█████████▉| 125569/125681 [04:38<00:00, 463.14it/s]
+Valid oligos: 100%|█████████▉| 125616/125681 [04:38<00:00, 424.23it/s]
+Valid oligos: 100%|█████████▉| 125665/125681 [04:39<00:00, 436.64it/s]
+Valid oligos: 100%|██████████| 125681/125681 [04:39<00:00, 450.34it/s]
+INFO:root:Finished. Generated 125681 packets out of 1473878 tries (0.085)
+DEBUG:root:encode cost time:279.198282957s
+INFO:root:After reading 1000 lines, 3 chunks are done. So far: 31 rejections (0.031000) 1000 barcodes
+INFO:root:After reading 2000 lines, 7 chunks are done. So far: 76 rejections (0.038000) 2000 barcodes
+INFO:root:After reading 3000 lines, 13 chunks are done. So far: 105 rejections (0.035000) 3000 barcodes
+INFO:root:After reading 4000 lines, 17 chunks are done. So far: 136 rejections (0.034000) 4000 barcodes
+INFO:root:After reading 5000 lines, 24 chunks are done. So far: 164 rejections (0.032800) 5000 barcodes
+INFO:root:After reading 6000 lines, 28 chunks are done. So far: 204 rejections (0.034000) 6000 barcodes
+INFO:root:After reading 7000 lines, 37 chunks are done. So far: 224 rejections (0.032000) 7000 barcodes
+INFO:root:After reading 8000 lines, 41 chunks are done. So far: 260 rejections (0.032500) 8000 barcodes
+INFO:root:After reading 9000 lines, 48 chunks are done. So far: 287 rejections (0.031889) 9000 barcodes
+INFO:root:After reading 10000 lines, 56 chunks are done. So far: 318 rejections (0.031800) 10000 barcodes
+INFO:root:After reading 11000 lines, 76 chunks are done. So far: 357 rejections (0.032455) 11000 barcodes
+INFO:root:After reading 12000 lines, 90 chunks are done. So far: 384 rejections (0.032000) 12000 barcodes
+INFO:root:After reading 13000 lines, 119 chunks are done. So far: 412 rejections (0.031692) 13000 barcodes
+INFO:root:After reading 14000 lines, 128 chunks are done. So far: 441 rejections (0.031500) 14000 barcodes
+INFO:root:After reading 15000 lines, 145 chunks are done. So far: 475 rejections (0.031667) 15000 barcodes
+INFO:root:After reading 16000 lines, 180 chunks are done. So far: 506 rejections (0.031625) 16000 barcodes
+INFO:root:After reading 17000 lines, 195 chunks are done. So far: 532 rejections (0.031294) 17000 barcodes
+INFO:root:After reading 18000 lines, 242 chunks are done. So far: 570 rejections (0.031667) 18000 barcodes
+INFO:root:After reading 19000 lines, 262 chunks are done. So far: 600 rejections (0.031579) 19000 barcodes
+INFO:root:After reading 20000 lines, 348 chunks are done. So far: 625 rejections (0.031250) 20000 barcodes
+INFO:root:After reading 21000 lines, 413 chunks are done. So far: 650 rejections (0.030952) 21000 barcodes
+INFO:root:After reading 22000 lines, 514 chunks are done. So far: 674 rejections (0.030636) 22000 barcodes
+INFO:root:After reading 23000 lines, 595 chunks are done. So far: 699 rejections (0.030391) 23000 barcodes
+INFO:root:After reading 24000 lines, 959 chunks are done. So far: 731 rejections (0.030458) 24000 barcodes
+INFO:root:After reading 25000 lines, 1318 chunks are done. So far: 755 rejections (0.030200) 25000 barcodes
+INFO:root:After reading 25909 lines, 17839 chunks are done. So far: 785 rejections (0.030298) 25909 barcodes
+INFO:root:Done!
+INFO:root:MD5 is 56c54a0e20e1f2962b59272c555bd11d
+DEBUG:root:dncode cost time:47.123593092s
+DEBUG:root:end time:2020-05-21 19:27:28
+DEBUG:root:cost time:326.321876049s
+DEBUG:root:start time:2020-05-21 19:27:28
+INFO:root:currect file name:论语.txt
+INFO:root:Reading the file. This may take a few mintues
+DEBUG:root:Input file has 351607 bytes
+DEBUG:root:Padded the file with 9 zero to have a round number of blocks of data
+INFO:root:File MD5 is f7ae9bd48388a5b332db324ebbc678c9
+INFO:root:There are 10988 input segments
+INFO:root:Upper bounds on packets for decoding is 11701 (x1.064901)  with 0.001000 probability
+
+
+Valid oligos: 100%|█████████▉| 125099/125681 [05:12<00:01, 451.55it/s]
+Valid oligos: 100%|█████████▉| 125147/125681 [05:12<00:01, 450.68it/s]
+Valid oligos: 100%|█████████▉| 125194/125681 [05:12<00:01, 442.28it/s]
+Valid oligos: 100%|█████████▉| 125265/125681 [05:12<00:00, 495.83it/s]
+Valid oligos: 100%|█████████▉| 125340/125681 [05:12<00:00, 551.05it/s]
+Valid oligos: 100%|█████████▉| 125421/125681 [05:13<00:00, 608.36it/s]
+Valid oligos: 100%|█████████▉| 125503/125681 [05:13<00:00, 658.13it/s]
+Valid oligos: 100%|█████████▉| 125579/125681 [05:13<00:00, 685.16it/s]
+Valid oligos: 100%|█████████▉| 125653/125681 [05:13<00:00, 700.53it/s]
+Valid oligos: 100%|██████████| 125681/125681 [05:13<00:00, 400.96it/s]
+INFO:root:Finished. Generated 125681 packets out of 990430 tries (0.127)
+DEBUG:root:encode cost time:313.511497021s
+INFO:root:After reading 1000 lines, 6 chunks are done. So far: 17 rejections (0.017000) 1000 barcodes
+INFO:root:After reading 2000 lines, 12 chunks are done. So far: 34 rejections (0.017000) 2000 barcodes
+INFO:root:After reading 3000 lines, 21 chunks are done. So far: 48 rejections (0.016000) 3000 barcodes
+INFO:root:After reading 4000 lines, 29 chunks are done. So far: 69 rejections (0.017250) 4000 barcodes
+INFO:root:After reading 5000 lines, 43 chunks are done. So far: 86 rejections (0.017200) 5000 barcodes
+INFO:root:After reading 6000 lines, 65 chunks are done. So far: 103 rejections (0.017167) 6000 barcodes
+INFO:root:After reading 7000 lines, 86 chunks are done. So far: 120 rejections (0.017143) 7000 barcodes
+INFO:root:After reading 8000 lines, 98 chunks are done. So far: 141 rejections (0.017625) 8000 barcodes
+INFO:root:After reading 9000 lines, 116 chunks are done. So far: 156 rejections (0.017333) 9000 barcodes
+INFO:root:After reading 10000 lines, 209 chunks are done. So far: 171 rejections (0.017100) 10000 barcodes
+INFO:root:After reading 11000 lines, 315 chunks are done. So far: 193 rejections (0.017545) 11000 barcodes
+INFO:root:After reading 12000 lines, 561 chunks are done. So far: 209 rejections (0.017417) 12000 barcodes
+INFO:root:After reading 12450 lines, 10988 chunks are done. So far: 216 rejections (0.017349) 12450 barcodes
+INFO:root:Done!
+INFO:root:MD5 is f7ae9bd48388a5b332db324ebbc678c9
+DEBUG:root:dncode cost time:14.8161580563s
+DEBUG:root:end time:2020-05-21 19:32:56
+DEBUG:root:cost time:328.327655077s
+DEBUG:root:start time:2020-05-21 19:32:56
+INFO:root:currect file name:西游记.txt
+INFO:root:Reading the file. This may take a few mintues
+DEBUG:root:Input file has 2157215 bytes
+DEBUG:root:Padded the file with 1 zero to have a round number of blocks of data
+INFO:root:File MD5 is fc03d11d9bdd2883301cd917b151255f
+INFO:root:There are 67413 input segments
+INFO:root:Upper bounds on packets for decoding is 69589 (x1.032288)  with 0.001000 probability
+
+
+Valid oligos: 100%|█████████▉| 125074/125681 [07:31<00:02, 203.27it/s]
+Valid oligos: 100%|█████████▉| 125098/125681 [07:31<00:02, 210.22it/s]
+Valid oligos: 100%|█████████▉| 125120/125681 [07:31<00:02, 209.09it/s]
+Valid oligos: 100%|█████████▉| 125149/125681 [07:32<00:02, 217.87it/s]
+Valid oligos: 100%|█████████▉| 125172/125681 [07:32<00:02, 192.12it/s]
+Valid oligos: 100%|█████████▉| 125196/125681 [07:32<00:02, 202.67it/s]
+Valid oligos: 100%|█████████▉| 125218/125681 [07:32<00:02, 184.12it/s]
+Valid oligos: 100%|█████████▉| 125244/125681 [07:32<00:02, 199.53it/s]
+Valid oligos: 100%|█████████▉| 125265/125681 [07:32<00:02, 195.67it/s]
+Valid oligos: 100%|█████████▉| 125289/125681 [07:32<00:01, 205.15it/s]
+Valid oligos: 100%|█████████▉| 125318/125681 [07:32<00:01, 223.67it/s]
+Valid oligos: 100%|█████████▉| 125342/125681 [07:32<00:01, 196.07it/s]
+Valid oligos: 100%|█████████▉| 125372/125681 [07:33<00:01, 218.30it/s]
+Valid oligos: 100%|█████████▉| 125396/125681 [07:33<00:01, 219.36it/s]
+Valid oligos: 100%|█████████▉| 125421/125681 [07:33<00:01, 227.54it/s]
+Valid oligos: 100%|█████████▉| 125445/125681 [07:33<00:01, 206.50it/s]
+Valid oligos: 100%|█████████▉| 125467/125681 [07:33<00:01, 197.93it/s]
+Valid oligos: 100%|█████████▉| 125488/125681 [07:33<00:01, 181.15it/s]
+Valid oligos: 100%|█████████▉| 125512/125681 [07:33<00:00, 194.97it/s]
+Valid oligos: 100%|█████████▉| 125534/125681 [07:33<00:00, 200.18it/s]
+Valid oligos: 100%|█████████▉| 125557/125681 [07:34<00:00, 207.61it/s]
+Valid oligos: 100%|█████████▉| 125579/125681 [07:34<00:00, 189.77it/s]
+Valid oligos: 100%|█████████▉| 125599/125681 [07:34<00:00, 189.62it/s]
+Valid oligos: 100%|█████████▉| 125619/125681 [07:34<00:00, 180.08it/s]
+Valid oligos: 100%|█████████▉| 125639/125681 [07:34<00:00, 183.34it/s]
+Valid oligos: 100%|█████████▉| 125658/125681 [07:34<00:00, 173.57it/s]
+Valid oligos: 100%|█████████▉| 125679/125681 [07:34<00:00, 182.67it/s]
+Valid oligos: 100%|██████████| 125681/125681 [07:34<00:00, 276.38it/s]
+INFO:root:Finished. Generated 125681 packets out of 1597273 tries (0.079)
+DEBUG:root:encode cost time:455.007612944s
+INFO:root:After reading 1000 lines, 3 chunks are done. So far: 23 rejections (0.023000) 1000 barcodes
+INFO:root:After reading 2000 lines, 7 chunks are done. So far: 54 rejections (0.027000) 2000 barcodes
+INFO:root:After reading 3000 lines, 12 chunks are done. So far: 85 rejections (0.028333) 3000 barcodes
+INFO:root:After reading 4000 lines, 14 chunks are done. So far: 112 rejections (0.028000) 4000 barcodes
+INFO:root:After reading 5000 lines, 21 chunks are done. So far: 160 rejections (0.032000) 5000 barcodes
+INFO:root:After reading 6000 lines, 24 chunks are done. So far: 197 rejections (0.032833) 6000 barcodes
+INFO:root:After reading 7000 lines, 27 chunks are done. So far: 231 rejections (0.033000) 7000 barcodes
+INFO:root:After reading 8000 lines, 34 chunks are done. So far: 255 rejections (0.031875) 8000 barcodes
+INFO:root:After reading 9000 lines, 36 chunks are done. So far: 283 rejections (0.031444) 9000 barcodes
+INFO:root:After reading 10000 lines, 48 chunks are done. So far: 314 rejections (0.031400) 10000 barcodes
+INFO:root:After reading 11000 lines, 56 chunks are done. So far: 344 rejections (0.031273) 11000 barcodes
+INFO:root:After reading 12000 lines, 65 chunks are done. So far: 386 rejections (0.032167) 12000 barcodes
+INFO:root:After reading 13000 lines, 72 chunks are done. So far: 432 rejections (0.033231) 13000 barcodes
+INFO:root:After reading 14000 lines, 79 chunks are done. So far: 464 rejections (0.033143) 14000 barcodes
+INFO:root:After reading 15000 lines, 84 chunks are done. So far: 492 rejections (0.032800) 15000 barcodes
+INFO:root:After reading 16000 lines, 90 chunks are done. So far: 530 rejections (0.033125) 16000 barcodes
+INFO:root:After reading 17000 lines, 94 chunks are done. So far: 549 rejections (0.032294) 17000 barcodes
+INFO:root:After reading 18000 lines, 98 chunks are done. So far: 579 rejections (0.032167) 18000 barcodes
+INFO:root:After reading 19000 lines, 109 chunks are done. So far: 610 rejections (0.032105) 19000 barcodes
+INFO:root:After reading 20000 lines, 114 chunks are done. So far: 648 rejections (0.032400) 20000 barcodes
+INFO:root:After reading 21000 lines, 118 chunks are done. So far: 682 rejections (0.032476) 21000 barcodes
+INFO:root:After reading 22000 lines, 119 chunks are done. So far: 720 rejections (0.032727) 22000 barcodes
+INFO:root:After reading 23000 lines, 125 chunks are done. So far: 744 rejections (0.032348) 23000 barcodes
+INFO:root:After reading 24000 lines, 128 chunks are done. So far: 779 rejections (0.032458) 24000 barcodes
+INFO:root:After reading 25000 lines, 131 chunks are done. So far: 816 rejections (0.032640) 25000 barcodes
+INFO:root:After reading 26000 lines, 136 chunks are done. So far: 850 rejections (0.032692) 26000 barcodes
+INFO:root:After reading 27000 lines, 142 chunks are done. So far: 885 rejections (0.032778) 27000 barcodes
+INFO:root:After reading 28000 lines, 149 chunks are done. So far: 920 rejections (0.032857) 28000 barcodes
+INFO:root:After reading 29000 lines, 160 chunks are done. So far: 963 rejections (0.033207) 29000 barcodes
+INFO:root:After reading 30000 lines, 163 chunks are done. So far: 997 rejections (0.033233) 30000 barcodes
+INFO:root:After reading 31000 lines, 173 chunks are done. So far: 1024 rejections (0.033032) 31000 barcodes
+INFO:root:After reading 32000 lines, 180 chunks are done. So far: 1053 rejections (0.032906) 32000 barcodes
+INFO:root:After reading 33000 lines, 185 chunks are done. So far: 1076 rejections (0.032606) 33000 barcodes
+INFO:root:After reading 34000 lines, 187 chunks are done. So far: 1113 rejections (0.032735) 34000 barcodes
+INFO:root:After reading 35000 lines, 197 chunks are done. So far: 1145 rejections (0.032714) 35000 barcodes
+INFO:root:After reading 36000 lines, 213 chunks are done. So far: 1182 rejections (0.032833) 36000 barcodes
+INFO:root:After reading 37000 lines, 222 chunks are done. So far: 1217 rejections (0.032892) 37000 barcodes
+INFO:root:After reading 38000 lines, 229 chunks are done. So far: 1252 rejections (0.032947) 38000 barcodes
+INFO:root:After reading 39000 lines, 239 chunks are done. So far: 1286 rejections (0.032974) 39000 barcodes
+INFO:root:After reading 40000 lines, 254 chunks are done. So far: 1334 rejections (0.033350) 40000 barcodes
+INFO:root:After reading 41000 lines, 267 chunks are done. So far: 1365 rejections (0.033293) 41000 barcodes
+INFO:root:After reading 42000 lines, 270 chunks are done. So far: 1391 rejections (0.033119) 42000 barcodes
+INFO:root:After reading 43000 lines, 273 chunks are done. So far: 1413 rejections (0.032860) 43000 barcodes
+INFO:root:After reading 44000 lines, 289 chunks are done. So far: 1444 rejections (0.032818) 44000 barcodes
+INFO:root:After reading 45000 lines, 295 chunks are done. So far: 1483 rejections (0.032956) 45000 barcodes
+INFO:root:After reading 46000 lines, 313 chunks are done. So far: 1525 rejections (0.033152) 46000 barcodes
+INFO:root:After reading 47000 lines, 314 chunks are done. So far: 1560 rejections (0.033191) 47000 barcodes
+INFO:root:After reading 48000 lines, 332 chunks are done. So far: 1584 rejections (0.033000) 48000 barcodes
+INFO:root:After reading 49000 lines, 344 chunks are done. So far: 1621 rejections (0.033082) 49000 barcodes
+INFO:root:After reading 50000 lines, 356 chunks are done. So far: 1655 rejections (0.033100) 50000 barcodes
+INFO:root:After reading 51000 lines, 369 chunks are done. So far: 1687 rejections (0.033078) 51000 barcodes
+INFO:root:After reading 52000 lines, 382 chunks are done. So far: 1718 rejections (0.033038) 52000 barcodes
+INFO:root:After reading 53000 lines, 408 chunks are done. So far: 1755 rejections (0.033113) 53000 barcodes
+INFO:root:After reading 54000 lines, 421 chunks are done. So far: 1791 rejections (0.033167) 54000 barcodes
+INFO:root:After reading 55000 lines, 430 chunks are done. So far: 1828 rejections (0.033236) 55000 barcodes
+INFO:root:After reading 56000 lines, 446 chunks are done. So far: 1858 rejections (0.033179) 56000 barcodes
+INFO:root:After reading 57000 lines, 467 chunks are done. So far: 1894 rejections (0.033228) 57000 barcodes
+INFO:root:After reading 58000 lines, 476 chunks are done. So far: 1925 rejections (0.033190) 58000 barcodes
+INFO:root:After reading 59000 lines, 491 chunks are done. So far: 1957 rejections (0.033169) 59000 barcodes
+INFO:root:After reading 60000 lines, 508 chunks are done. So far: 1994 rejections (0.033233) 60000 barcodes
+INFO:root:After reading 61000 lines, 530 chunks are done. So far: 2020 rejections (0.033115) 61000 barcodes
+INFO:root:After reading 62000 lines, 542 chunks are done. So far: 2041 rejections (0.032919) 62000 barcodes
+INFO:root:After reading 63000 lines, 556 chunks are done. So far: 2066 rejections (0.032794) 63000 barcodes
+INFO:root:After reading 64000 lines, 568 chunks are done. So far: 2099 rejections (0.032797) 64000 barcodes
+INFO:root:After reading 65000 lines, 584 chunks are done. So far: 2135 rejections (0.032846) 65000 barcodes
+INFO:root:After reading 66000 lines, 621 chunks are done. So far: 2170 rejections (0.032879) 66000 barcodes
+INFO:root:After reading 67000 lines, 638 chunks are done. So far: 2205 rejections (0.032910) 67000 barcodes
+INFO:root:After reading 68000 lines, 691 chunks are done. So far: 2228 rejections (0.032765) 68000 barcodes
+INFO:root:After reading 69000 lines, 740 chunks are done. So far: 2261 rejections (0.032768) 69000 barcodes
+INFO:root:After reading 70000 lines, 776 chunks are done. So far: 2297 rejections (0.032814) 70000 barcodes
+INFO:root:After reading 71000 lines, 794 chunks are done. So far: 2326 rejections (0.032761) 71000 barcodes
+INFO:root:After reading 72000 lines, 834 chunks are done. So far: 2350 rejections (0.032639) 72000 barcodes
+INFO:root:After reading 73000 lines, 883 chunks are done. So far: 2382 rejections (0.032630) 73000 barcodes
+INFO:root:After reading 74000 lines, 912 chunks are done. So far: 2404 rejections (0.032486) 74000 barcodes
+INFO:root:After reading 75000 lines, 935 chunks are done. So far: 2433 rejections (0.032440) 75000 barcodes
+INFO:root:After reading 76000 lines, 968 chunks are done. So far: 2464 rejections (0.032421) 76000 barcodes
+INFO:root:After reading 77000 lines, 992 chunks are done. So far: 2497 rejections (0.032429) 77000 barcodes
+INFO:root:After reading 78000 lines, 1015 chunks are done. So far: 2530 rejections (0.032436) 78000 barcodes
+INFO:root:After reading 79000 lines, 1093 chunks are done. So far: 2557 rejections (0.032367) 79000 barcodes
+INFO:root:After reading 80000 lines, 1188 chunks are done. So far: 2591 rejections (0.032387) 80000 barcodes
+INFO:root:After reading 81000 lines, 1235 chunks are done. So far: 2622 rejections (0.032370) 81000 barcodes
+INFO:root:After reading 82000 lines, 1277 chunks are done. So far: 2653 rejections (0.032354) 82000 barcodes
+INFO:root:After reading 83000 lines, 1361 chunks are done. So far: 2680 rejections (0.032289) 83000 barcodes
+INFO:root:After reading 84000 lines, 1614 chunks are done. So far: 2720 rejections (0.032381) 84000 barcodes
+INFO:root:After reading 85000 lines, 1720 chunks are done. So far: 2762 rejections (0.032494) 85000 barcodes
+INFO:root:After reading 86000 lines, 1841 chunks are done. So far: 2796 rejections (0.032512) 86000 barcodes
+INFO:root:After reading 87000 lines, 1989 chunks are done. So far: 2841 rejections (0.032655) 87000 barcodes
+INFO:root:After reading 88000 lines, 2120 chunks are done. So far: 2881 rejections (0.032739) 88000 barcodes
+INFO:root:After reading 89000 lines, 2459 chunks are done. So far: 2910 rejections (0.032697) 89000 barcodes
+INFO:root:After reading 90000 lines, 2675 chunks are done. So far: 2944 rejections (0.032711) 90000 barcodes
+INFO:root:After reading 91000 lines, 2858 chunks are done. So far: 2981 rejections (0.032758) 91000 barcodes
+INFO:root:After reading 92000 lines, 3347 chunks are done. So far: 3021 rejections (0.032837) 92000 barcodes
+INFO:root:After reading 93000 lines, 4667 chunks are done. So far: 3055 rejections (0.032849) 93000 barcodes
+INFO:root:After reading 94000 lines, 5781 chunks are done. So far: 3084 rejections (0.032809) 94000 barcodes
+INFO:root:After reading 94615 lines, 67413 chunks are done. So far: 3105 rejections (0.032817) 94615 barcodes
+INFO:root:Done!
+INFO:root:MD5 is fc03d11d9bdd2883301cd917b151255f
+DEBUG:root:dncode cost time:813.538130999s
+DEBUG:root:end time:2020-05-21 19:54:05
+DEBUG:root:cost time:1268.54574394s
+DEBUG:root:start time:2020-05-21 19:54:05
+INFO:root:currect file name:安娜·卡列尼娜.txt
+INFO:root:Reading the file. This may take a few mintues
+DEBUG:root:Input file has 1817377 bytes
+DEBUG:root:Padded the file with 31 zero to have a round number of blocks of data
+INFO:root:File MD5 is f41765919dfa14d765e2af84d49a0b08
+INFO:root:There are 56794 input segments
+INFO:root:Upper bounds on packets for decoding is 58754 (x1.034519)  with 0.001000 probability
+
+
+Valid oligos: 100%|█████████▉| 125087/125681 [09:13<00:02, 245.71it/s]
+Valid oligos: 100%|█████████▉| 125115/125681 [09:13<00:02, 221.89it/s]
+Valid oligos: 100%|█████████▉| 125140/125681 [09:13<00:02, 217.88it/s]
+Valid oligos: 100%|█████████▉| 125164/125681 [09:13<00:02, 204.44it/s]
+Valid oligos: 100%|█████████▉| 125190/125681 [09:13<00:02, 217.48it/s]
+Valid oligos: 100%|█████████▉| 125219/125681 [09:13<00:02, 230.79it/s]
+Valid oligos: 100%|█████████▉| 125244/125681 [09:13<00:01, 232.00it/s]
+Valid oligos: 100%|█████████▉| 125268/125681 [09:13<00:01, 233.36it/s]
+Valid oligos: 100%|█████████▉| 125296/125681 [09:14<00:01, 245.04it/s]
+Valid oligos: 100%|█████████▉| 125322/125681 [09:14<00:01, 229.60it/s]
+Valid oligos: 100%|█████████▉| 125347/125681 [09:14<00:01, 234.91it/s]
+Valid oligos: 100%|█████████▉| 125379/125681 [09:14<00:01, 249.06it/s]
+Valid oligos: 100%|█████████▉| 125410/125681 [09:14<00:01, 249.73it/s]
+Valid oligos: 100%|█████████▉| 125436/125681 [09:14<00:01, 207.17it/s]
+Valid oligos: 100%|█████████▉| 125459/125681 [09:14<00:01, 184.75it/s]
+Valid oligos: 100%|█████████▉| 125482/125681 [09:14<00:01, 196.04it/s]
+Valid oligos: 100%|█████████▉| 125508/125681 [09:15<00:00, 211.40it/s]
+Valid oligos: 100%|█████████▉| 125531/125681 [09:15<00:00, 207.70it/s]
+Valid oligos: 100%|█████████▉| 125555/125681 [09:15<00:00, 211.71it/s]
+Valid oligos: 100%|█████████▉| 125577/125681 [09:15<00:00, 210.52it/s]
+Valid oligos: 100%|█████████▉| 125600/125681 [09:15<00:00, 212.85it/s]
+Valid oligos: 100%|█████████▉| 125626/125681 [09:15<00:00, 224.00it/s]
+Valid oligos: 100%|█████████▉| 125656/125681 [09:15<00:00, 240.50it/s]
+Valid oligos: 100%|██████████| 125681/125681 [09:15<00:00, 240.66it/s]
+Valid oligos: 100%|██████████| 125681/125681 [09:15<00:00, 226.12it/s]
+INFO:root:Finished. Generated 125681 packets out of 1471607 tries (0.085)
+DEBUG:root:encode cost time:556.365785122s
+INFO:root:After reading 1000 lines, 4 chunks are done. So far: 24 rejections (0.024000) 1000 barcodes
+INFO:root:After reading 2000 lines, 5 chunks are done. So far: 58 rejections (0.029000) 2000 barcodes
+INFO:root:After reading 3000 lines, 8 chunks are done. So far: 78 rejections (0.026000) 3000 barcodes
+INFO:root:After reading 4000 lines, 11 chunks are done. So far: 112 rejections (0.028000) 4000 barcodes
+INFO:root:After reading 5000 lines, 14 chunks are done. So far: 141 rejections (0.028200) 5000 barcodes
+INFO:root:After reading 6000 lines, 16 chunks are done. So far: 163 rejections (0.027167) 6000 barcodes
+INFO:root:After reading 7000 lines, 19 chunks are done. So far: 190 rejections (0.027143) 7000 barcodes
+INFO:root:After reading 8000 lines, 27 chunks are done. So far: 216 rejections (0.027000) 8000 barcodes
+INFO:root:After reading 9000 lines, 30 chunks are done. So far: 244 rejections (0.027111) 9000 barcodes
+INFO:root:After reading 10000 lines, 32 chunks are done. So far: 267 rejections (0.026700) 10000 barcodes
+INFO:root:After reading 11000 lines, 37 chunks are done. So far: 297 rejections (0.027000) 11000 barcodes
+INFO:root:After reading 12000 lines, 39 chunks are done. So far: 330 rejections (0.027500) 12000 barcodes
+INFO:root:After reading 13000 lines, 43 chunks are done. So far: 356 rejections (0.027385) 13000 barcodes
+INFO:root:After reading 14000 lines, 47 chunks are done. So far: 381 rejections (0.027214) 14000 barcodes
+INFO:root:After reading 15000 lines, 50 chunks are done. So far: 405 rejections (0.027000) 15000 barcodes
+INFO:root:After reading 16000 lines, 50 chunks are done. So far: 437 rejections (0.027312) 16000 barcodes
+INFO:root:After reading 17000 lines, 53 chunks are done. So far: 468 rejections (0.027529) 17000 barcodes
+INFO:root:After reading 18000 lines, 57 chunks are done. So far: 491 rejections (0.027278) 18000 barcodes
+INFO:root:After reading 19000 lines, 58 chunks are done. So far: 519 rejections (0.027316) 19000 barcodes
+INFO:root:After reading 20000 lines, 64 chunks are done. So far: 548 rejections (0.027400) 20000 barcodes
+INFO:root:After reading 21000 lines, 68 chunks are done. So far: 578 rejections (0.027524) 21000 barcodes
+INFO:root:After reading 22000 lines, 71 chunks are done. So far: 613 rejections (0.027864) 22000 barcodes
+INFO:root:After reading 23000 lines, 78 chunks are done. So far: 648 rejections (0.028174) 23000 barcodes
+INFO:root:After reading 24000 lines, 81 chunks are done. So far: 677 rejections (0.028208) 24000 barcodes
+INFO:root:After reading 25000 lines, 82 chunks are done. So far: 703 rejections (0.028120) 25000 barcodes
+INFO:root:After reading 26000 lines, 86 chunks are done. So far: 725 rejections (0.027885) 26000 barcodes
+INFO:root:After reading 27000 lines, 90 chunks are done. So far: 748 rejections (0.027704) 27000 barcodes
+INFO:root:After reading 28000 lines, 94 chunks are done. So far: 771 rejections (0.027536) 28000 barcodes
+INFO:root:After reading 29000 lines, 95 chunks are done. So far: 804 rejections (0.027724) 29000 barcodes
+INFO:root:After reading 30000 lines, 105 chunks are done. So far: 833 rejections (0.027767) 30000 barcodes
+INFO:root:After reading 31000 lines, 106 chunks are done. So far: 855 rejections (0.027581) 31000 barcodes
+INFO:root:After reading 32000 lines, 114 chunks are done. So far: 894 rejections (0.027938) 32000 barcodes
+INFO:root:After reading 33000 lines, 117 chunks are done. So far: 921 rejections (0.027909) 33000 barcodes
+INFO:root:After reading 34000 lines, 126 chunks are done. So far: 952 rejections (0.028000) 34000 barcodes
+INFO:root:After reading 35000 lines, 128 chunks are done. So far: 986 rejections (0.028171) 35000 barcodes
+INFO:root:After reading 36000 lines, 132 chunks are done. So far: 1011 rejections (0.028083) 36000 barcodes
+INFO:root:After reading 37000 lines, 135 chunks are done. So far: 1047 rejections (0.028297) 37000 barcodes
+INFO:root:After reading 38000 lines, 149 chunks are done. So far: 1075 rejections (0.028289) 38000 barcodes
+INFO:root:After reading 39000 lines, 158 chunks are done. So far: 1113 rejections (0.028538) 39000 barcodes
+INFO:root:After reading 40000 lines, 164 chunks are done. So far: 1133 rejections (0.028325) 40000 barcodes
+INFO:root:After reading 41000 lines, 170 chunks are done. So far: 1162 rejections (0.028341) 41000 barcodes
+INFO:root:After reading 42000 lines, 171 chunks are done. So far: 1196 rejections (0.028476) 42000 barcodes
+INFO:root:After reading 43000 lines, 176 chunks are done. So far: 1231 rejections (0.028628) 43000 barcodes
+INFO:root:After reading 44000 lines, 186 chunks are done. So far: 1255 rejections (0.028523) 44000 barcodes
+INFO:root:After reading 45000 lines, 190 chunks are done. So far: 1282 rejections (0.028489) 45000 barcodes
+INFO:root:After reading 46000 lines, 199 chunks are done. So far: 1312 rejections (0.028522) 46000 barcodes
+INFO:root:After reading 47000 lines, 205 chunks are done. So far: 1352 rejections (0.028766) 47000 barcodes
+INFO:root:After reading 48000 lines, 208 chunks are done. So far: 1389 rejections (0.028938) 48000 barcodes
+INFO:root:After reading 49000 lines, 213 chunks are done. So far: 1414 rejections (0.028857) 49000 barcodes
+INFO:root:After reading 50000 lines, 222 chunks are done. So far: 1440 rejections (0.028800) 50000 barcodes
+INFO:root:After reading 51000 lines, 225 chunks are done. So far: 1476 rejections (0.028941) 51000 barcodes
+INFO:root:After reading 52000 lines, 241 chunks are done. So far: 1507 rejections (0.028981) 52000 barcodes
+INFO:root:After reading 53000 lines, 250 chunks are done. So far: 1529 rejections (0.028849) 53000 barcodes
+INFO:root:After reading 54000 lines, 274 chunks are done. So far: 1566 rejections (0.029000) 54000 barcodes
+INFO:root:After reading 55000 lines, 280 chunks are done. So far: 1598 rejections (0.029055) 55000 barcodes
+INFO:root:After reading 56000 lines, 304 chunks are done. So far: 1629 rejections (0.029089) 56000 barcodes
+INFO:root:After reading 57000 lines, 313 chunks are done. So far: 1664 rejections (0.029193) 57000 barcodes
+INFO:root:After reading 58000 lines, 346 chunks are done. So far: 1692 rejections (0.029172) 58000 barcodes
+INFO:root:After reading 59000 lines, 369 chunks are done. So far: 1720 rejections (0.029153) 59000 barcodes
+INFO:root:After reading 60000 lines, 381 chunks are done. So far: 1745 rejections (0.029083) 60000 barcodes
+INFO:root:After reading 61000 lines, 414 chunks are done. So far: 1775 rejections (0.029098) 61000 barcodes
+INFO:root:After reading 62000 lines, 486 chunks are done. So far: 1817 rejections (0.029306) 62000 barcodes
+INFO:root:After reading 63000 lines, 550 chunks are done. So far: 1850 rejections (0.029365) 63000 barcodes
+INFO:root:After reading 64000 lines, 580 chunks are done. So far: 1871 rejections (0.029234) 64000 barcodes
+INFO:root:After reading 65000 lines, 601 chunks are done. So far: 1901 rejections (0.029246) 65000 barcodes
+INFO:root:After reading 66000 lines, 677 chunks are done. So far: 1933 rejections (0.029288) 66000 barcodes
+INFO:root:After reading 67000 lines, 728 chunks are done. So far: 1956 rejections (0.029194) 67000 barcodes
+INFO:root:After reading 68000 lines, 759 chunks are done. So far: 1983 rejections (0.029162) 68000 barcodes
+INFO:root:After reading 69000 lines, 789 chunks are done. So far: 2029 rejections (0.029406) 69000 barcodes
+INFO:root:After reading 70000 lines, 822 chunks are done. So far: 2057 rejections (0.029386) 70000 barcodes
+INFO:root:After reading 71000 lines, 901 chunks are done. So far: 2082 rejections (0.029324) 71000 barcodes
+INFO:root:After reading 72000 lines, 977 chunks are done. So far: 2107 rejections (0.029264) 72000 barcodes
+INFO:root:After reading 73000 lines, 1044 chunks are done. So far: 2142 rejections (0.029342) 73000 barcodes
+INFO:root:After reading 74000 lines, 1071 chunks are done. So far: 2178 rejections (0.029432) 74000 barcodes
+INFO:root:After reading 75000 lines, 1271 chunks are done. So far: 2210 rejections (0.029467) 75000 barcodes
+INFO:root:After reading 76000 lines, 1467 chunks are done. So far: 2237 rejections (0.029434) 76000 barcodes
+INFO:root:After reading 77000 lines, 1510 chunks are done. So far: 2262 rejections (0.029377) 77000 barcodes
+INFO:root:After reading 78000 lines, 1623 chunks are done. So far: 2291 rejections (0.029372) 78000 barcodes
+INFO:root:After reading 79000 lines, 1763 chunks are done. So far: 2322 rejections (0.029392) 79000 barcodes
+INFO:root:After reading 80000 lines, 2430 chunks are done. So far: 2349 rejections (0.029362) 80000 barcodes
+INFO:root:After reading 80412 lines, 56794 chunks are done. So far: 2357 rejections (0.029312) 80412 barcodes
+INFO:root:Done!
+INFO:root:MD5 is f41765919dfa14d765e2af84d49a0b08
+DEBUG:root:dncode cost time:693.308135986s
+DEBUG:root:end time:2020-05-21 20:14:55
+DEBUG:root:cost time:1249.67392111s
+DEBUG:root:start time:2020-05-21 20:14:55
+INFO:root:currect file name:中华人民共和国宪法.txt
+INFO:root:Reading the file. This may take a few mintues
+DEBUG:root:Input file has 502959 bytes
+DEBUG:root:Padded the file with 17 zero to have a round number of blocks of data
+INFO:root:File MD5 is d908abace0f1fb6b786284d8668b8a69
+INFO:root:There are 15718 input segments
+INFO:root:Upper bounds on packets for decoding is 16608 (x1.056647)  with 0.001000 probability
+
+
+Valid oligos: 100%|█████████▉| 125074/125681 [05:10<00:01, 417.90it/s]
+Valid oligos: 100%|█████████▉| 125131/125681 [05:10<00:01, 452.48it/s]
+Valid oligos: 100%|█████████▉| 125178/125681 [05:11<00:01, 391.57it/s]
+Valid oligos: 100%|█████████▉| 125220/125681 [05:11<00:01, 388.92it/s]
+Valid oligos: 100%|█████████▉| 125266/125681 [05:11<00:01, 405.71it/s]
+Valid oligos: 100%|█████████▉| 125312/125681 [05:11<00:00, 415.14it/s]
+Valid oligos: 100%|█████████▉| 125355/125681 [05:11<00:00, 407.83it/s]
+Valid oligos: 100%|█████████▉| 125397/125681 [05:11<00:00, 404.59it/s]
+Valid oligos: 100%|█████████▉| 125438/125681 [05:11<00:00, 381.55it/s]
+Valid oligos: 100%|█████████▉| 125496/125681 [05:11<00:00, 424.19it/s]
+Valid oligos: 100%|█████████▉| 125541/125681 [05:12<00:00, 417.64it/s]
+Valid oligos: 100%|█████████▉| 125585/125681 [05:12<00:00, 399.46it/s]
+Valid oligos: 100%|█████████▉| 125627/125681 [05:12<00:00, 404.04it/s]
+Valid oligos: 100%|█████████▉| 125677/125681 [05:12<00:00, 416.99it/s]
+Valid oligos: 100%|██████████| 125681/125681 [05:12<00:00, 402.32it/s]
+INFO:root:Finished. Generated 125681 packets out of 979994 tries (0.128)
+DEBUG:root:encode cost time:312.568643093s
+INFO:root:After reading 1000 lines, 4 chunks are done. So far: 15 rejections (0.015000) 1000 barcodes
+INFO:root:After reading 2000 lines, 10 chunks are done. So far: 38 rejections (0.019000) 2000 barcodes
+INFO:root:After reading 3000 lines, 15 chunks are done. So far: 54 rejections (0.018000) 3000 barcodes
+INFO:root:After reading 4000 lines, 23 chunks are done. So far: 71 rejections (0.017750) 4000 barcodes
+INFO:root:After reading 5000 lines, 25 chunks are done. So far: 89 rejections (0.017800) 5000 barcodes
+INFO:root:After reading 6000 lines, 34 chunks are done. So far: 104 rejections (0.017333) 6000 barcodes
+INFO:root:After reading 7000 lines, 42 chunks are done. So far: 120 rejections (0.017143) 7000 barcodes
+INFO:root:After reading 8000 lines, 49 chunks are done. So far: 131 rejections (0.016375) 8000 barcodes
+INFO:root:After reading 9000 lines, 68 chunks are done. So far: 150 rejections (0.016667) 9000 barcodes
+INFO:root:After reading 10000 lines, 95 chunks are done. So far: 176 rejections (0.017600) 10000 barcodes
+INFO:root:After reading 11000 lines, 123 chunks are done. So far: 190 rejections (0.017273) 11000 barcodes
+INFO:root:After reading 12000 lines, 140 chunks are done. So far: 199 rejections (0.016583) 12000 barcodes
+INFO:root:After reading 13000 lines, 173 chunks are done. So far: 214 rejections (0.016462) 13000 barcodes
+INFO:root:After reading 14000 lines, 293 chunks are done. So far: 230 rejections (0.016429) 14000 barcodes
+INFO:root:After reading 15000 lines, 397 chunks are done. So far: 244 rejections (0.016267) 15000 barcodes
+INFO:root:After reading 16000 lines, 554 chunks are done. So far: 266 rejections (0.016625) 16000 barcodes
+INFO:root:After reading 16810 lines, 15718 chunks are done. So far: 285 rejections (0.016954) 16810 barcodes
+INFO:root:Done!
+INFO:root:MD5 is d908abace0f1fb6b786284d8668b8a69
+DEBUG:root:dncode cost time:30.6671450138s
+DEBUG:root:end time:2020-05-21 20:20:38
+DEBUG:root:cost time:343.235788107s
+DEBUG:root:start time:2020-05-21 20:20:38
+INFO:root:currect file name:钢铁是怎样炼成的.txt
+INFO:root:Reading the file. This may take a few mintues
+DEBUG:root:Input file has 805471 bytes
+DEBUG:root:Padded the file with 1 zero to have a round number of blocks of data
+INFO:root:File MD5 is 34176154487b5fd0d2c262f2c387592c
+INFO:root:There are 25171 input segments
+INFO:root:Upper bounds on packets for decoding is 26361 (x1.047304)  with 0.001000 probability
+
+
+Valid oligos: 100%|█████████▉| 125065/125681 [07:30<00:02, 279.88it/s]
+Valid oligos: 100%|█████████▉| 125094/125681 [07:30<00:02, 265.48it/s]
+Valid oligos: 100%|█████████▉| 125122/125681 [07:30<00:02, 252.00it/s]
+Valid oligos: 100%|█████████▉| 125159/125681 [07:30<00:01, 275.63it/s]
+Valid oligos: 100%|█████████▉| 125190/125681 [07:30<00:01, 281.41it/s]
+Valid oligos: 100%|█████████▉| 125219/125681 [07:31<00:01, 249.00it/s]
+Valid oligos: 100%|█████████▉| 125246/125681 [07:31<00:01, 238.12it/s]
+Valid oligos: 100%|█████████▉| 125275/125681 [07:31<00:01, 251.18it/s]
+Valid oligos: 100%|█████████▉| 125301/125681 [07:31<00:01, 247.64it/s]
+Valid oligos: 100%|█████████▉| 125332/125681 [07:31<00:01, 262.36it/s]
+Valid oligos: 100%|█████████▉| 125368/125681 [07:31<00:01, 285.08it/s]
+Valid oligos: 100%|█████████▉| 125401/125681 [07:31<00:00, 293.52it/s]
+Valid oligos: 100%|█████████▉| 125432/125681 [07:31<00:00, 281.33it/s]
+Valid oligos: 100%|█████████▉| 125464/125681 [07:31<00:00, 290.93it/s]
+Valid oligos: 100%|█████████▉| 125494/125681 [07:32<00:00, 268.65it/s]
+Valid oligos: 100%|█████████▉| 125525/125681 [07:32<00:00, 276.79it/s]
+Valid oligos: 100%|█████████▉| 125554/125681 [07:32<00:00, 280.59it/s]
+Valid oligos: 100%|█████████▉| 125583/125681 [07:32<00:00, 257.42it/s]
+Valid oligos: 100%|█████████▉| 125610/125681 [07:32<00:00, 209.37it/s]
+Valid oligos: 100%|█████████▉| 125637/125681 [07:32<00:00, 220.58it/s]
+Valid oligos: 100%|█████████▉| 125662/125681 [07:32<00:00, 222.44it/s]
+Valid oligos: 100%|██████████| 125681/125681 [07:32<00:00, 277.50it/s]
+INFO:root:Finished. Generated 125681 packets out of 1387549 tries (0.091)
+DEBUG:root:encode cost time:453.080600023s
+INFO:root:After reading 1000 lines, 3 chunks are done. So far: 23 rejections (0.023000) 1000 barcodes
+INFO:root:After reading 2000 lines, 8 chunks are done. So far: 41 rejections (0.020500) 2000 barcodes
+INFO:root:After reading 3000 lines, 10 chunks are done. So far: 68 rejections (0.022667) 3000 barcodes
+INFO:root:After reading 4000 lines, 13 chunks are done. So far: 95 rejections (0.023750) 4000 barcodes
+INFO:root:After reading 5000 lines, 22 chunks are done. So far: 114 rejections (0.022800) 5000 barcodes
+INFO:root:After reading 6000 lines, 27 chunks are done. So far: 140 rejections (0.023333) 6000 barcodes
+INFO:root:After reading 7000 lines, 31 chunks are done. So far: 158 rejections (0.022571) 7000 barcodes
+INFO:root:After reading 8000 lines, 34 chunks are done. So far: 182 rejections (0.022750) 8000 barcodes
+INFO:root:After reading 9000 lines, 49 chunks are done. So far: 215 rejections (0.023889) 9000 barcodes
+INFO:root:After reading 10000 lines, 56 chunks are done. So far: 231 rejections (0.023100) 10000 barcodes
+INFO:root:After reading 11000 lines, 72 chunks are done. So far: 257 rejections (0.023364) 11000 barcodes
+INFO:root:After reading 12000 lines, 81 chunks are done. So far: 283 rejections (0.023583) 12000 barcodes
+INFO:root:After reading 13000 lines, 102 chunks are done. So far: 307 rejections (0.023615) 13000 barcodes
+INFO:root:After reading 14000 lines, 110 chunks are done. So far: 329 rejections (0.023500) 14000 barcodes
+INFO:root:After reading 15000 lines, 122 chunks are done. So far: 354 rejections (0.023600) 15000 barcodes
+INFO:root:After reading 16000 lines, 136 chunks are done. So far: 376 rejections (0.023500) 16000 barcodes
+INFO:root:After reading 17000 lines, 146 chunks are done. So far: 398 rejections (0.023412) 17000 barcodes
+INFO:root:After reading 18000 lines, 155 chunks are done. So far: 417 rejections (0.023167) 18000 barcodes
+INFO:root:After reading 19000 lines, 174 chunks are done. So far: 460 rejections (0.024211) 19000 barcodes
+INFO:root:After reading 20000 lines, 184 chunks are done. So far: 484 rejections (0.024200) 20000 barcodes
+INFO:root:After reading 21000 lines, 196 chunks are done. So far: 516 rejections (0.024571) 21000 barcodes
+INFO:root:After reading 22000 lines, 209 chunks are done. So far: 541 rejections (0.024591) 22000 barcodes
+INFO:root:After reading 23000 lines, 216 chunks are done. So far: 571 rejections (0.024826) 23000 barcodes
+INFO:root:After reading 24000 lines, 239 chunks are done. So far: 598 rejections (0.024917) 24000 barcodes
+INFO:root:After reading 25000 lines, 270 chunks are done. So far: 627 rejections (0.025080) 25000 barcodes
+INFO:root:After reading 26000 lines, 317 chunks are done. So far: 646 rejections (0.024846) 26000 barcodes
+INFO:root:After reading 27000 lines, 351 chunks are done. So far: 669 rejections (0.024778) 27000 barcodes
+INFO:root:After reading 28000 lines, 374 chunks are done. So far: 687 rejections (0.024536) 28000 barcodes
+INFO:root:After reading 29000 lines, 394 chunks are done. So far: 710 rejections (0.024483) 29000 barcodes
+INFO:root:After reading 30000 lines, 442 chunks are done. So far: 746 rejections (0.024867) 30000 barcodes
+INFO:root:After reading 31000 lines, 542 chunks are done. So far: 769 rejections (0.024806) 31000 barcodes
+INFO:root:After reading 32000 lines, 600 chunks are done. So far: 797 rejections (0.024906) 32000 barcodes
+INFO:root:After reading 33000 lines, 686 chunks are done. So far: 824 rejections (0.024970) 33000 barcodes
+INFO:root:After reading 34000 lines, 892 chunks are done. So far: 842 rejections (0.024765) 34000 barcodes
+INFO:root:After reading 35000 lines, 973 chunks are done. So far: 865 rejections (0.024714) 35000 barcodes
+INFO:root:After reading 36000 lines, 2303 chunks are done. So far: 889 rejections (0.024694) 36000 barcodes
+INFO:root:After reading 36731 lines, 25171 chunks are done. So far: 906 rejections (0.024666) 36731 barcodes
+INFO:root:Done!
+INFO:root:MD5 is 34176154487b5fd0d2c262f2c387592c
+DEBUG:root:dncode cost time:116.118567944s
+DEBUG:root:end time:2020-05-21 20:30:07
+DEBUG:root:cost time:569.199167967s
+DEBUG:root:start time:2020-05-21 20:30:07
+INFO:root:currect file name:时间简史.txt
+INFO:root:Reading the file. This may take a few mintues
+DEBUG:root:Input file has 212680 bytes
+DEBUG:root:Padded the file with 24 zero to have a round number of blocks of data
+INFO:root:File MD5 is da48516aba2eebaca4f6cdd42f25855d
+INFO:root:There are 6647 input segments
+INFO:root:Upper bounds on packets for decoding is 7168 (x1.078432)  with 0.001000 probability
+
+
+Valid oligos: 100%|█████████▉| 125070/125681 [05:46<00:01, 378.01it/s]
+Valid oligos: 100%|█████████▉| 125110/125681 [05:47<00:01, 372.18it/s]
+Valid oligos: 100%|█████████▉| 125153/125681 [05:47<00:01, 387.80it/s]
+Valid oligos: 100%|█████████▉| 125193/125681 [05:47<00:01, 371.71it/s]
+Valid oligos: 100%|█████████▉| 125232/125681 [05:47<00:01, 372.03it/s]
+Valid oligos: 100%|█████████▉| 125270/125681 [05:47<00:01, 355.98it/s]
+Valid oligos: 100%|█████████▉| 125310/125681 [05:47<00:01, 367.78it/s]
+Valid oligos: 100%|█████████▉| 125348/125681 [05:47<00:00, 341.50it/s]
+Valid oligos: 100%|█████████▉| 125392/125681 [05:47<00:00, 365.02it/s]
+Valid oligos: 100%|█████████▉| 125430/125681 [05:47<00:00, 361.69it/s]
+Valid oligos: 100%|█████████▉| 125467/125681 [05:48<00:00, 344.99it/s]
+Valid oligos: 100%|█████████▉| 125503/125681 [05:48<00:00, 329.46it/s]
+Valid oligos: 100%|█████████▉| 125539/125681 [05:48<00:00, 336.12it/s]
+Valid oligos: 100%|█████████▉| 125574/125681 [05:48<00:00, 313.00it/s]
+Valid oligos: 100%|█████████▉| 125607/125681 [05:48<00:00, 317.45it/s]
+Valid oligos: 100%|█████████▉| 125647/125681 [05:48<00:00, 332.61it/s]
+Valid oligos: 100%|██████████| 125681/125681 [05:48<00:00, 360.36it/s]
+INFO:root:Finished. Generated 125681 packets out of 970526 tries (0.129)
+DEBUG:root:encode cost time:348.821527004s
+INFO:root:After reading 1000 lines, 2 chunks are done. So far: 16 rejections (0.016000) 1000 barcodes
+INFO:root:After reading 2000 lines, 18 chunks are done. So far: 26 rejections (0.013000) 2000 barcodes
+INFO:root:After reading 3000 lines, 30 chunks are done. So far: 35 rejections (0.011667) 3000 barcodes
+INFO:root:After reading 4000 lines, 47 chunks are done. So far: 51 rejections (0.012750) 4000 barcodes
+INFO:root:After reading 5000 lines, 113 chunks are done. So far: 68 rejections (0.013600) 5000 barcodes
+INFO:root:After reading 6000 lines, 190 chunks are done. So far: 76 rejections (0.012667) 6000 barcodes
+INFO:root:After reading 7000 lines, 364 chunks are done. So far: 94 rejections (0.013429) 7000 barcodes
+INFO:root:After reading 7510 lines, 6647 chunks are done. So far: 105 rejections (0.013981) 7510 barcodes
+INFO:root:Done!
+INFO:root:MD5 is da48516aba2eebaca4f6cdd42f25855d
+DEBUG:root:dncode cost time:12.0259349346s
+DEBUG:root:end time:2020-05-21 20:36:08
+DEBUG:root:cost time:360.847461939s
+DEBUG:root:start time:2020-05-21 20:36:08
+INFO:root:currect file name:老人与海.txt
+INFO:root:Reading the file. This may take a few mintues
+DEBUG:root:Input file has 92995 bytes
+DEBUG:root:Padded the file with 29 zero to have a round number of blocks of data
+INFO:root:File MD5 is 3a85365b7541d3fbaeba4b5d9362bcb0
+INFO:root:There are 2907 input segments
+INFO:root:Upper bounds on packets for decoding is 3216 (x1.106617)  with 0.001000 probability
+
+
+Valid oligos: 100%|█████████▉| 125090/125681 [05:58<00:01, 345.04it/s]
+Valid oligos: 100%|█████████▉| 125133/125681 [05:58<00:01, 362.22it/s]
+Valid oligos: 100%|█████████▉| 125171/125681 [05:58<00:01, 316.71it/s]
+Valid oligos: 100%|█████████▉| 125214/125681 [05:58<00:01, 343.12it/s]
+Valid oligos: 100%|█████████▉| 125251/125681 [05:58<00:01, 321.10it/s]
+Valid oligos: 100%|█████████▉| 125285/125681 [05:58<00:01, 324.50it/s]
+Valid oligos: 100%|█████████▉| 125319/125681 [05:58<00:01, 315.88it/s]
+Valid oligos: 100%|█████████▉| 125359/125681 [05:59<00:00, 336.27it/s]
+Valid oligos: 100%|█████████▉| 125394/125681 [05:59<00:00, 308.31it/s]
+Valid oligos: 100%|█████████▉| 125434/125681 [05:59<00:00, 330.00it/s]
+Valid oligos: 100%|█████████▉| 125483/125681 [05:59<00:00, 364.30it/s]
+Valid oligos: 100%|█████████▉| 125522/125681 [05:59<00:00, 362.79it/s]
+Valid oligos: 100%|█████████▉| 125564/125681 [05:59<00:00, 374.81it/s]
+Valid oligos: 100%|█████████▉| 125603/125681 [05:59<00:00, 342.77it/s]
+Valid oligos: 100%|█████████▉| 125639/125681 [05:59<00:00, 334.94it/s]
+Valid oligos: 100%|█████████▉| 125674/125681 [05:59<00:00, 325.67it/s]
+Valid oligos: 100%|██████████| 125681/125681 [06:00<00:00, 349.11it/s]
+INFO:root:Finished. Generated 125681 packets out of 1025604 tries (0.123)
+DEBUG:root:encode cost time:360.038378954s
+INFO:root:After reading 1000 lines, 2 chunks are done. So far: 20 rejections (0.020000) 1000 barcodes
+INFO:root:After reading 2000 lines, 5 chunks are done. So far: 43 rejections (0.021500) 2000 barcodes
+INFO:root:After reading 3000 lines, 19 chunks are done. So far: 64 rejections (0.021333) 3000 barcodes
+INFO:root:After reading 3989 lines, 2907 chunks are done. So far: 81 rejections (0.020306) 3989 barcodes
+INFO:root:Done!
+INFO:root:MD5 is 3a85365b7541d3fbaeba4b5d9362bcb0
+DEBUG:root:dncode cost time:4.96959900856s
+DEBUG:root:end time:2020-05-21 20:42:13
+DEBUG:root:cost time:365.007977962s
+DEBUG:root:start time:2020-05-21 20:42:13
+INFO:root:currect file name:三国演义.txt
+INFO:root:Reading the file. This may take a few mintues
+DEBUG:root:Input file has 1780406 bytes
+DEBUG:root:Padded the file with 10 zero to have a round number of blocks of data
+INFO:root:File MD5 is f5087e79fe53fdab1aa351c194ea7543
+INFO:root:There are 55638 input segments
+INFO:root:Upper bounds on packets for decoding is 57574 (x1.034800)  with 0.001000 probability
+
+
+Valid oligos: 100%|█████████▉| 125057/125681 [10:26<00:03, 207.59it/s]
+Valid oligos: 100%|█████████▉| 125079/125681 [10:26<00:03, 197.30it/s]
+Valid oligos: 100%|█████████▉| 125100/125681 [10:26<00:03, 189.45it/s]
+Valid oligos: 100%|█████████▉| 125120/125681 [10:27<00:02, 188.29it/s]
+Valid oligos: 100%|█████████▉| 125142/125681 [10:27<00:02, 196.19it/s]
+Valid oligos: 100%|█████████▉| 125166/125681 [10:27<00:02, 205.98it/s]
+Valid oligos: 100%|█████████▉| 125199/125681 [10:27<00:02, 230.18it/s]
+Valid oligos: 100%|█████████▉| 125226/125681 [10:27<00:01, 235.81it/s]
+Valid oligos: 100%|█████████▉| 125252/125681 [10:27<00:01, 237.24it/s]
+Valid oligos: 100%|█████████▉| 125277/125681 [10:27<00:01, 222.08it/s]
+Valid oligos: 100%|█████████▉| 125306/125681 [10:27<00:01, 236.73it/s]
+Valid oligos: 100%|█████████▉| 125331/125681 [10:27<00:01, 220.56it/s]
+Valid oligos: 100%|█████████▉| 125354/125681 [10:28<00:01, 209.29it/s]
+Valid oligos: 100%|█████████▉| 125386/125681 [10:28<00:01, 231.42it/s]
+Valid oligos: 100%|█████████▉| 125411/125681 [10:28<00:01, 200.78it/s]
+Valid oligos: 100%|█████████▉| 125433/125681 [10:28<00:01, 184.69it/s]
+Valid oligos: 100%|█████████▉| 125456/125681 [10:28<00:01, 195.30it/s]
+Valid oligos: 100%|█████████▉| 125477/125681 [10:28<00:01, 184.17it/s]
+Valid oligos: 100%|█████████▉| 125498/125681 [10:28<00:00, 189.28it/s]
+Valid oligos: 100%|█████████▉| 125527/125681 [10:28<00:00, 210.34it/s]
+Valid oligos: 100%|█████████▉| 125551/125681 [10:29<00:00, 216.80it/s]
+Valid oligos: 100%|█████████▉| 125574/125681 [10:29<00:00, 190.45it/s]
+Valid oligos: 100%|█████████▉| 125595/125681 [10:29<00:00, 183.01it/s]
+Valid oligos: 100%|█████████▉| 125615/125681 [10:29<00:00, 184.92it/s]
+Valid oligos: 100%|█████████▉| 125639/125681 [10:29<00:00, 197.33it/s]
+Valid oligos: 100%|█████████▉| 125660/125681 [10:29<00:00, 179.03it/s]
+Valid oligos: 100%|█████████▉| 125679/125681 [10:29<00:00, 145.90it/s]
+Valid oligos: 100%|██████████| 125681/125681 [10:29<00:00, 199.53it/s]
+INFO:root:Finished. Generated 125681 packets out of 1641129 tries (0.077)
+DEBUG:root:encode cost time:630.34416604s
+INFO:root:After reading 1000 lines, 10 chunks are done. So far: 40 rejections (0.040000) 1000 barcodes
+INFO:root:After reading 2000 lines, 15 chunks are done. So far: 78 rejections (0.039000) 2000 barcodes
+INFO:root:After reading 3000 lines, 19 chunks are done. So far: 112 rejections (0.037333) 3000 barcodes
+INFO:root:After reading 4000 lines, 21 chunks are done. So far: 151 rejections (0.037750) 4000 barcodes
+INFO:root:After reading 5000 lines, 25 chunks are done. So far: 190 rejections (0.038000) 5000 barcodes
+INFO:root:After reading 6000 lines, 27 chunks are done. So far: 223 rejections (0.037167) 6000 barcodes
+INFO:root:After reading 7000 lines, 33 chunks are done. So far: 251 rejections (0.035857) 7000 barcodes
+INFO:root:After reading 8000 lines, 38 chunks are done. So far: 285 rejections (0.035625) 8000 barcodes
+INFO:root:After reading 9000 lines, 41 chunks are done. So far: 318 rejections (0.035333) 9000 barcodes
+INFO:root:After reading 10000 lines, 45 chunks are done. So far: 355 rejections (0.035500) 10000 barcodes
+INFO:root:After reading 11000 lines, 50 chunks are done. So far: 392 rejections (0.035636) 11000 barcodes
+INFO:root:After reading 12000 lines, 55 chunks are done. So far: 421 rejections (0.035083) 12000 barcodes
+INFO:root:After reading 13000 lines, 59 chunks are done. So far: 452 rejections (0.034769) 13000 barcodes
+INFO:root:After reading 14000 lines, 67 chunks are done. So far: 479 rejections (0.034214) 14000 barcodes
+INFO:root:After reading 15000 lines, 69 chunks are done. So far: 504 rejections (0.033600) 15000 barcodes
+INFO:root:After reading 16000 lines, 73 chunks are done. So far: 536 rejections (0.033500) 16000 barcodes
+INFO:root:After reading 17000 lines, 78 chunks are done. So far: 569 rejections (0.033471) 17000 barcodes
+INFO:root:After reading 18000 lines, 84 chunks are done. So far: 599 rejections (0.033278) 18000 barcodes
+INFO:root:After reading 19000 lines, 93 chunks are done. So far: 637 rejections (0.033526) 19000 barcodes
+INFO:root:After reading 20000 lines, 104 chunks are done. So far: 678 rejections (0.033900) 20000 barcodes
+INFO:root:After reading 21000 lines, 111 chunks are done. So far: 711 rejections (0.033857) 21000 barcodes
+INFO:root:After reading 22000 lines, 114 chunks are done. So far: 748 rejections (0.034000) 22000 barcodes
+INFO:root:After reading 23000 lines, 119 chunks are done. So far: 781 rejections (0.033957) 23000 barcodes
+INFO:root:After reading 24000 lines, 124 chunks are done. So far: 820 rejections (0.034167) 24000 barcodes
+INFO:root:After reading 25000 lines, 139 chunks are done. So far: 851 rejections (0.034040) 25000 barcodes
+INFO:root:After reading 26000 lines, 148 chunks are done. So far: 878 rejections (0.033769) 26000 barcodes
+INFO:root:After reading 27000 lines, 154 chunks are done. So far: 905 rejections (0.033519) 27000 barcodes
+INFO:root:After reading 28000 lines, 165 chunks are done. So far: 946 rejections (0.033786) 28000 barcodes
+INFO:root:After reading 29000 lines, 172 chunks are done. So far: 980 rejections (0.033793) 29000 barcodes
+INFO:root:After reading 30000 lines, 180 chunks are done. So far: 1013 rejections (0.033767) 30000 barcodes
+INFO:root:After reading 31000 lines, 186 chunks are done. So far: 1050 rejections (0.033871) 31000 barcodes
+INFO:root:After reading 32000 lines, 195 chunks are done. So far: 1087 rejections (0.033969) 32000 barcodes
+INFO:root:After reading 33000 lines, 204 chunks are done. So far: 1124 rejections (0.034061) 33000 barcodes
+INFO:root:After reading 34000 lines, 223 chunks are done. So far: 1154 rejections (0.033941) 34000 barcodes
+INFO:root:After reading 35000 lines, 242 chunks are done. So far: 1189 rejections (0.033971) 35000 barcodes
+INFO:root:After reading 36000 lines, 254 chunks are done. So far: 1221 rejections (0.033917) 36000 barcodes
+INFO:root:After reading 37000 lines, 262 chunks are done. So far: 1247 rejections (0.033703) 37000 barcodes
+INFO:root:After reading 38000 lines, 268 chunks are done. So far: 1287 rejections (0.033868) 38000 barcodes
+INFO:root:After reading 39000 lines, 276 chunks are done. So far: 1332 rejections (0.034154) 39000 barcodes
+INFO:root:After reading 40000 lines, 312 chunks are done. So far: 1374 rejections (0.034350) 40000 barcodes
+INFO:root:After reading 41000 lines, 329 chunks are done. So far: 1406 rejections (0.034293) 41000 barcodes
+INFO:root:After reading 42000 lines, 340 chunks are done. So far: 1453 rejections (0.034595) 42000 barcodes
+INFO:root:After reading 43000 lines, 360 chunks are done. So far: 1478 rejections (0.034372) 43000 barcodes
+INFO:root:After reading 44000 lines, 370 chunks are done. So far: 1521 rejections (0.034568) 44000 barcodes
+INFO:root:After reading 45000 lines, 383 chunks are done. So far: 1555 rejections (0.034556) 45000 barcodes
+INFO:root:After reading 46000 lines, 407 chunks are done. So far: 1584 rejections (0.034435) 46000 barcodes
+INFO:root:After reading 47000 lines, 419 chunks are done. So far: 1634 rejections (0.034766) 47000 barcodes
+INFO:root:After reading 48000 lines, 434 chunks are done. So far: 1668 rejections (0.034750) 48000 barcodes
+INFO:root:After reading 49000 lines, 441 chunks are done. So far: 1693 rejections (0.034551) 49000 barcodes
+INFO:root:After reading 50000 lines, 470 chunks are done. So far: 1722 rejections (0.034440) 50000 barcodes
+INFO:root:After reading 51000 lines, 479 chunks are done. So far: 1765 rejections (0.034608) 51000 barcodes
+INFO:root:After reading 52000 lines, 499 chunks are done. So far: 1791 rejections (0.034442) 52000 barcodes
+INFO:root:After reading 53000 lines, 516 chunks are done. So far: 1827 rejections (0.034472) 53000 barcodes
+INFO:root:After reading 54000 lines, 536 chunks are done. So far: 1856 rejections (0.034370) 54000 barcodes
+INFO:root:After reading 55000 lines, 590 chunks are done. So far: 1891 rejections (0.034382) 55000 barcodes
+INFO:root:After reading 56000 lines, 632 chunks are done. So far: 1928 rejections (0.034429) 56000 barcodes
+INFO:root:After reading 57000 lines, 681 chunks are done. So far: 1969 rejections (0.034544) 57000 barcodes
+INFO:root:After reading 58000 lines, 691 chunks are done. So far: 1999 rejections (0.034466) 58000 barcodes
+INFO:root:After reading 59000 lines, 742 chunks are done. So far: 2031 rejections (0.034424) 59000 barcodes
+INFO:root:After reading 60000 lines, 763 chunks are done. So far: 2069 rejections (0.034483) 60000 barcodes
+INFO:root:After reading 61000 lines, 810 chunks are done. So far: 2102 rejections (0.034459) 61000 barcodes
+INFO:root:After reading 62000 lines, 842 chunks are done. So far: 2142 rejections (0.034548) 62000 barcodes
+INFO:root:After reading 63000 lines, 899 chunks are done. So far: 2180 rejections (0.034603) 63000 barcodes
+INFO:root:After reading 64000 lines, 941 chunks are done. So far: 2219 rejections (0.034672) 64000 barcodes
+INFO:root:After reading 65000 lines, 959 chunks are done. So far: 2247 rejections (0.034569) 65000 barcodes
+INFO:root:After reading 66000 lines, 997 chunks are done. So far: 2281 rejections (0.034561) 66000 barcodes
+INFO:root:After reading 67000 lines, 1047 chunks are done. So far: 2315 rejections (0.034552) 67000 barcodes
+INFO:root:After reading 68000 lines, 1178 chunks are done. So far: 2348 rejections (0.034529) 68000 barcodes
+INFO:root:After reading 69000 lines, 1223 chunks are done. So far: 2388 rejections (0.034609) 69000 barcodes
+INFO:root:After reading 70000 lines, 1307 chunks are done. So far: 2413 rejections (0.034471) 70000 barcodes
+INFO:root:After reading 71000 lines, 1434 chunks are done. So far: 2455 rejections (0.034577) 71000 barcodes
+INFO:root:After reading 72000 lines, 1511 chunks are done. So far: 2496 rejections (0.034667) 72000 barcodes
+INFO:root:After reading 73000 lines, 1671 chunks are done. So far: 2521 rejections (0.034534) 73000 barcodes
+INFO:root:After reading 74000 lines, 1764 chunks are done. So far: 2548 rejections (0.034432) 74000 barcodes
+INFO:root:After reading 75000 lines, 1859 chunks are done. So far: 2579 rejections (0.034387) 75000 barcodes
+INFO:root:After reading 76000 lines, 2124 chunks are done. So far: 2616 rejections (0.034421) 76000 barcodes
+INFO:root:After reading 77000 lines, 2263 chunks are done. So far: 2647 rejections (0.034377) 77000 barcodes
+INFO:root:After reading 78000 lines, 2598 chunks are done. So far: 2690 rejections (0.034487) 78000 barcodes
+INFO:root:After reading 79000 lines, 3477 chunks are done. So far: 2725 rejections (0.034494) 79000 barcodes
+INFO:root:After reading 80000 lines, 4353 chunks are done. So far: 2746 rejections (0.034325) 80000 barcodes
+INFO:root:After reading 80818 lines, 55638 chunks are done. So far: 2766 rejections (0.034225) 80818 barcodes
+INFO:root:Done!
+INFO:root:MD5 is f5087e79fe53fdab1aa351c194ea7543
+DEBUG:root:dncode cost time:1026.37512398s
+DEBUG:root:end time:2020-05-21 21:09:50
+DEBUG:root:cost time:1656.71929002s
+DEBUG:root:start time:2020-05-21 21:09:50
+INFO:root:currect file name:战争与和平.txt
+INFO:root:Reading the file. This may take a few mintues
+DEBUG:root:Input file has 3192124 bytes
+DEBUG:root:Padded the file with 4 zero to have a round number of blocks of data
+INFO:root:File MD5 is 6a961de7156eb257a5fb6228c5e3b99e
+INFO:root:There are 99754 input segments
+INFO:root:Upper bounds on packets for decoding is 102516 (x1.027690)  with 0.001000 probability
+
+
+Valid oligos: 100%|█████████▉| 125055/125681 [09:16<00:02, 211.53it/s]
+Valid oligos: 100%|█████████▉| 125084/125681 [09:16<00:02, 228.08it/s]
+Valid oligos: 100%|█████████▉| 125109/125681 [09:16<00:02, 214.96it/s]
+Valid oligos: 100%|█████████▉| 125132/125681 [09:17<00:02, 218.81it/s]
+Valid oligos: 100%|█████████▉| 125155/125681 [09:17<00:02, 221.86it/s]
+Valid oligos: 100%|█████████▉| 125178/125681 [09:17<00:02, 183.86it/s]
+Valid oligos: 100%|█████████▉| 125199/125681 [09:17<00:02, 190.18it/s]
+Valid oligos: 100%|█████████▉| 125221/125681 [09:17<00:02, 198.03it/s]
+Valid oligos: 100%|█████████▉| 125242/125681 [09:17<00:02, 200.50it/s]
+Valid oligos: 100%|█████████▉| 125263/125681 [09:17<00:02, 193.22it/s]
+Valid oligos: 100%|█████████▉| 125295/125681 [09:17<00:01, 216.15it/s]
+Valid oligos: 100%|█████████▉| 125327/125681 [09:17<00:01, 239.21it/s]
+Valid oligos: 100%|█████████▉| 125353/125681 [09:18<00:01, 214.46it/s]
+Valid oligos: 100%|█████████▉| 125378/125681 [09:18<00:01, 221.09it/s]
+Valid oligos: 100%|█████████▉| 125402/125681 [09:18<00:01, 208.94it/s]
+Valid oligos: 100%|█████████▉| 125433/125681 [09:18<00:01, 230.87it/s]
+Valid oligos: 100%|█████████▉| 125460/125681 [09:18<00:00, 238.46it/s]
+Valid oligos: 100%|█████████▉| 125498/125681 [09:18<00:00, 266.73it/s]
+Valid oligos: 100%|█████████▉| 125527/125681 [09:18<00:00, 268.79it/s]
+Valid oligos: 100%|█████████▉| 125556/125681 [09:18<00:00, 251.60it/s]
+Valid oligos: 100%|█████████▉| 125585/125681 [09:18<00:00, 258.77it/s]
+Valid oligos: 100%|█████████▉| 125612/125681 [09:19<00:00, 255.18it/s]
+Valid oligos: 100%|█████████▉| 125649/125681 [09:19<00:00, 278.01it/s]
+Valid oligos: 100%|█████████▉| 125678/125681 [09:19<00:00, 256.99it/s]
+Valid oligos: 100%|██████████| 125681/125681 [09:19<00:00, 224.71it/s]
+INFO:root:Finished. Generated 125681 packets out of 1438594 tries (0.087)
+DEBUG:root:encode cost time:560.206192017s
+INFO:root:After reading 1000 lines, 3 chunks are done. So far: 21 rejections (0.021000) 1000 barcodes
+INFO:root:After reading 2000 lines, 6 chunks are done. So far: 57 rejections (0.028500) 2000 barcodes
+INFO:root:After reading 3000 lines, 7 chunks are done. So far: 83 rejections (0.027667) 3000 barcodes
+INFO:root:After reading 4000 lines, 8 chunks are done. So far: 119 rejections (0.029750) 4000 barcodes
+INFO:root:After reading 5000 lines, 11 chunks are done. So far: 143 rejections (0.028600) 5000 barcodes
+INFO:root:After reading 6000 lines, 14 chunks are done. So far: 181 rejections (0.030167) 6000 barcodes
+INFO:root:After reading 7000 lines, 15 chunks are done. So far: 207 rejections (0.029571) 7000 barcodes
+INFO:root:After reading 8000 lines, 18 chunks are done. So far: 232 rejections (0.029000) 8000 barcodes
+INFO:root:After reading 9000 lines, 20 chunks are done. So far: 259 rejections (0.028778) 9000 barcodes
+INFO:root:After reading 10000 lines, 23 chunks are done. So far: 288 rejections (0.028800) 10000 barcodes
+INFO:root:After reading 11000 lines, 27 chunks are done. So far: 313 rejections (0.028455) 11000 barcodes
+INFO:root:After reading 12000 lines, 27 chunks are done. So far: 344 rejections (0.028667) 12000 barcodes
+INFO:root:After reading 13000 lines, 31 chunks are done. So far: 375 rejections (0.028846) 13000 barcodes
+INFO:root:After reading 14000 lines, 31 chunks are done. So far: 399 rejections (0.028500) 14000 barcodes
+INFO:root:After reading 15000 lines, 33 chunks are done. So far: 430 rejections (0.028667) 15000 barcodes
+INFO:root:After reading 16000 lines, 38 chunks are done. So far: 462 rejections (0.028875) 16000 barcodes
+INFO:root:After reading 17000 lines, 40 chunks are done. So far: 495 rejections (0.029118) 17000 barcodes
+INFO:root:After reading 18000 lines, 42 chunks are done. So far: 525 rejections (0.029167) 18000 barcodes
+INFO:root:After reading 19000 lines, 45 chunks are done. So far: 553 rejections (0.029105) 19000 barcodes
+INFO:root:After reading 20000 lines, 45 chunks are done. So far: 591 rejections (0.029550) 20000 barcodes
+INFO:root:After reading 21000 lines, 52 chunks are done. So far: 623 rejections (0.029667) 21000 barcodes
+INFO:root:After reading 22000 lines, 56 chunks are done. So far: 652 rejections (0.029636) 22000 barcodes
+INFO:root:After reading 23000 lines, 60 chunks are done. So far: 679 rejections (0.029522) 23000 barcodes
+INFO:root:After reading 24000 lines, 61 chunks are done. So far: 712 rejections (0.029667) 24000 barcodes
+INFO:root:After reading 25000 lines, 65 chunks are done. So far: 740 rejections (0.029600) 25000 barcodes
+INFO:root:After reading 26000 lines, 68 chunks are done. So far: 772 rejections (0.029692) 26000 barcodes
+INFO:root:After reading 27000 lines, 71 chunks are done. So far: 808 rejections (0.029926) 27000 barcodes
+INFO:root:After reading 28000 lines, 72 chunks are done. So far: 842 rejections (0.030071) 28000 barcodes
+INFO:root:After reading 29000 lines, 72 chunks are done. So far: 867 rejections (0.029897) 29000 barcodes
+INFO:root:After reading 30000 lines, 74 chunks are done. So far: 903 rejections (0.030100) 30000 barcodes
+INFO:root:After reading 31000 lines, 77 chunks are done. So far: 925 rejections (0.029839) 31000 barcodes
+INFO:root:After reading 32000 lines, 83 chunks are done. So far: 960 rejections (0.030000) 32000 barcodes
+INFO:root:After reading 33000 lines, 84 chunks are done. So far: 981 rejections (0.029727) 33000 barcodes
+INFO:root:After reading 34000 lines, 87 chunks are done. So far: 1008 rejections (0.029647) 34000 barcodes
+INFO:root:After reading 35000 lines, 90 chunks are done. So far: 1045 rejections (0.029857) 35000 barcodes
+INFO:root:After reading 36000 lines, 99 chunks are done. So far: 1077 rejections (0.029917) 36000 barcodes
+INFO:root:After reading 37000 lines, 100 chunks are done. So far: 1114 rejections (0.030108) 37000 barcodes
+INFO:root:After reading 38000 lines, 104 chunks are done. So far: 1147 rejections (0.030184) 38000 barcodes
+INFO:root:After reading 39000 lines, 107 chunks are done. So far: 1175 rejections (0.030128) 39000 barcodes
+INFO:root:After reading 40000 lines, 107 chunks are done. So far: 1200 rejections (0.030000) 40000 barcodes
+INFO:root:After reading 41000 lines, 110 chunks are done. So far: 1222 rejections (0.029805) 41000 barcodes
+INFO:root:After reading 42000 lines, 116 chunks are done. So far: 1250 rejections (0.029762) 42000 barcodes
+INFO:root:After reading 43000 lines, 119 chunks are done. So far: 1274 rejections (0.029628) 43000 barcodes
+INFO:root:After reading 44000 lines, 119 chunks are done. So far: 1300 rejections (0.029545) 44000 barcodes
+INFO:root:After reading 45000 lines, 119 chunks are done. So far: 1333 rejections (0.029622) 45000 barcodes
+INFO:root:After reading 46000 lines, 120 chunks are done. So far: 1366 rejections (0.029696) 46000 barcodes
+INFO:root:After reading 47000 lines, 128 chunks are done. So far: 1389 rejections (0.029553) 47000 barcodes
+INFO:root:After reading 48000 lines, 135 chunks are done. So far: 1412 rejections (0.029417) 48000 barcodes
+INFO:root:After reading 49000 lines, 135 chunks are done. So far: 1448 rejections (0.029551) 49000 barcodes
+INFO:root:After reading 50000 lines, 138 chunks are done. So far: 1477 rejections (0.029540) 50000 barcodes
+INFO:root:After reading 51000 lines, 147 chunks are done. So far: 1513 rejections (0.029667) 51000 barcodes
+INFO:root:After reading 52000 lines, 151 chunks are done. So far: 1547 rejections (0.029750) 52000 barcodes
+INFO:root:After reading 53000 lines, 161 chunks are done. So far: 1581 rejections (0.029830) 53000 barcodes
+INFO:root:After reading 54000 lines, 181 chunks are done. So far: 1606 rejections (0.029741) 54000 barcodes
+INFO:root:After reading 55000 lines, 206 chunks are done. So far: 1620 rejections (0.029455) 55000 barcodes
+INFO:root:After reading 56000 lines, 209 chunks are done. So far: 1655 rejections (0.029554) 56000 barcodes
+INFO:root:After reading 57000 lines, 213 chunks are done. So far: 1683 rejections (0.029526) 57000 barcodes
+INFO:root:After reading 58000 lines, 217 chunks are done. So far: 1708 rejections (0.029448) 58000 barcodes
+INFO:root:After reading 59000 lines, 224 chunks are done. So far: 1722 rejections (0.029186) 59000 barcodes
+INFO:root:After reading 60000 lines, 236 chunks are done. So far: 1757 rejections (0.029283) 60000 barcodes
+INFO:root:After reading 61000 lines, 246 chunks are done. So far: 1772 rejections (0.029049) 61000 barcodes
+INFO:root:After reading 62000 lines, 253 chunks are done. So far: 1803 rejections (0.029081) 62000 barcodes
+INFO:root:After reading 63000 lines, 259 chunks are done. So far: 1835 rejections (0.029127) 63000 barcodes
+INFO:root:After reading 64000 lines, 266 chunks are done. So far: 1870 rejections (0.029219) 64000 barcodes
+INFO:root:After reading 65000 lines, 268 chunks are done. So far: 1891 rejections (0.029092) 65000 barcodes
+INFO:root:After reading 66000 lines, 288 chunks are done. So far: 1920 rejections (0.029091) 66000 barcodes
+INFO:root:After reading 67000 lines, 296 chunks are done. So far: 1947 rejections (0.029060) 67000 barcodes
+INFO:root:After reading 68000 lines, 300 chunks are done. So far: 1979 rejections (0.029103) 68000 barcodes
+INFO:root:After reading 69000 lines, 322 chunks are done. So far: 2007 rejections (0.029087) 69000 barcodes
+INFO:root:After reading 70000 lines, 337 chunks are done. So far: 2039 rejections (0.029129) 70000 barcodes
+INFO:root:After reading 71000 lines, 341 chunks are done. So far: 2066 rejections (0.029099) 71000 barcodes
+INFO:root:After reading 72000 lines, 344 chunks are done. So far: 2096 rejections (0.029111) 72000 barcodes
+INFO:root:After reading 73000 lines, 353 chunks are done. So far: 2126 rejections (0.029123) 73000 barcodes
+INFO:root:After reading 74000 lines, 359 chunks are done. So far: 2163 rejections (0.029230) 74000 barcodes
+INFO:root:After reading 75000 lines, 363 chunks are done. So far: 2194 rejections (0.029253) 75000 barcodes
+INFO:root:After reading 76000 lines, 404 chunks are done. So far: 2227 rejections (0.029303) 76000 barcodes
+INFO:root:After reading 77000 lines, 410 chunks are done. So far: 2263 rejections (0.029390) 77000 barcodes
+INFO:root:After reading 78000 lines, 426 chunks are done. So far: 2295 rejections (0.029423) 78000 barcodes
+INFO:root:After reading 79000 lines, 445 chunks are done. So far: 2317 rejections (0.029329) 79000 barcodes
+INFO:root:After reading 80000 lines, 454 chunks are done. So far: 2347 rejections (0.029337) 80000 barcodes
+INFO:root:After reading 81000 lines, 469 chunks are done. So far: 2373 rejections (0.029296) 81000 barcodes
+INFO:root:After reading 82000 lines, 475 chunks are done. So far: 2403 rejections (0.029305) 82000 barcodes
+INFO:root:After reading 83000 lines, 480 chunks are done. So far: 2436 rejections (0.029349) 83000 barcodes
+INFO:root:After reading 84000 lines, 499 chunks are done. So far: 2458 rejections (0.029262) 84000 barcodes
+INFO:root:After reading 85000 lines, 505 chunks are done. So far: 2483 rejections (0.029212) 85000 barcodes
+INFO:root:After reading 86000 lines, 516 chunks are done. So far: 2516 rejections (0.029256) 86000 barcodes
+INFO:root:After reading 87000 lines, 536 chunks are done. So far: 2544 rejections (0.029241) 87000 barcodes
+INFO:root:After reading 88000 lines, 570 chunks are done. So far: 2583 rejections (0.029352) 88000 barcodes
+INFO:root:After reading 89000 lines, 601 chunks are done. So far: 2613 rejections (0.029360) 89000 barcodes
+INFO:root:After reading 90000 lines, 637 chunks are done. So far: 2651 rejections (0.029456) 90000 barcodes
+INFO:root:After reading 91000 lines, 640 chunks are done. So far: 2686 rejections (0.029516) 91000 barcodes
+INFO:root:After reading 92000 lines, 648 chunks are done. So far: 2711 rejections (0.029467) 92000 barcodes
+INFO:root:After reading 93000 lines, 707 chunks are done. So far: 2739 rejections (0.029452) 93000 barcodes
+INFO:root:After reading 94000 lines, 749 chunks are done. So far: 2758 rejections (0.029340) 94000 barcodes
+INFO:root:After reading 95000 lines, 823 chunks are done. So far: 2780 rejections (0.029263) 95000 barcodes
+INFO:root:After reading 96000 lines, 834 chunks are done. So far: 2809 rejections (0.029260) 96000 barcodes
+INFO:root:After reading 97000 lines, 849 chunks are done. So far: 2828 rejections (0.029155) 97000 barcodes
+INFO:root:After reading 98000 lines, 870 chunks are done. So far: 2857 rejections (0.029153) 98000 barcodes
+INFO:root:After reading 99000 lines, 894 chunks are done. So far: 2883 rejections (0.029121) 99000 barcodes
+INFO:root:After reading 100000 lines, 956 chunks are done. So far: 2915 rejections (0.029150) 100000 barcodes
+INFO:root:After reading 101000 lines, 1008 chunks are done. So far: 2948 rejections (0.029188) 101000 barcodes
+INFO:root:After reading 102000 lines, 1130 chunks are done. So far: 2972 rejections (0.029137) 102000 barcodes
+INFO:root:After reading 103000 lines, 1182 chunks are done. So far: 3003 rejections (0.029155) 103000 barcodes
+INFO:root:After reading 104000 lines, 1198 chunks are done. So far: 3035 rejections (0.029183) 104000 barcodes
+INFO:root:After reading 105000 lines, 1223 chunks are done. So far: 3067 rejections (0.029210) 105000 barcodes
+INFO:root:After reading 106000 lines, 1315 chunks are done. So far: 3084 rejections (0.029094) 106000 barcodes
+INFO:root:After reading 107000 lines, 1361 chunks are done. So far: 3106 rejections (0.029028) 107000 barcodes
+INFO:root:After reading 108000 lines, 1509 chunks are done. So far: 3123 rejections (0.028917) 108000 barcodes
+INFO:root:After reading 109000 lines, 1612 chunks are done. So far: 3156 rejections (0.028954) 109000 barcodes
+INFO:root:After reading 110000 lines, 1784 chunks are done. So far: 3174 rejections (0.028855) 110000 barcodes
+INFO:root:After reading 111000 lines, 1864 chunks are done. So far: 3208 rejections (0.028901) 111000 barcodes
+INFO:root:After reading 112000 lines, 1912 chunks are done. So far: 3242 rejections (0.028946) 112000 barcodes
+INFO:root:After reading 113000 lines, 2194 chunks are done. So far: 3262 rejections (0.028867) 113000 barcodes
+INFO:root:After reading 114000 lines, 2378 chunks are done. So far: 3296 rejections (0.028912) 114000 barcodes
+INFO:root:After reading 115000 lines, 2483 chunks are done. So far: 3330 rejections (0.028957) 115000 barcodes
+INFO:root:After reading 116000 lines, 2710 chunks are done. So far: 3353 rejections (0.028905) 116000 barcodes
+INFO:root:After reading 117000 lines, 2890 chunks are done. So far: 3379 rejections (0.028880) 117000 barcodes
+INFO:root:After reading 118000 lines, 3130 chunks are done. So far: 3404 rejections (0.028847) 118000 barcodes
+INFO:root:After reading 119000 lines, 3527 chunks are done. So far: 3436 rejections (0.028874) 119000 barcodes
+INFO:root:After reading 120000 lines, 3621 chunks are done. So far: 3468 rejections (0.028900) 120000 barcodes
+INFO:root:After reading 121000 lines, 3986 chunks are done. So far: 3495 rejections (0.028884) 121000 barcodes
+INFO:root:After reading 122000 lines, 4801 chunks are done. So far: 3522 rejections (0.028869) 122000 barcodes
+INFO:root:After reading 123000 lines, 5551 chunks are done. So far: 3548 rejections (0.028846) 123000 barcodes
+INFO:root:After reading 124000 lines, 6021 chunks are done. So far: 3582 rejections (0.028887) 124000 barcodes
+INFO:root:After reading 125000 lines, 7580 chunks are done. So far: 3620 rejections (0.028960) 125000 barcodes
+INFO:root:After reading 125681 lines, 99754 chunks are done. So far: 3635 rejections (0.028922) 125681 barcodes
+INFO:root:Done!
+INFO:root:MD5 is 6a961de7156eb257a5fb6228c5e3b99e
+DEBUG:root:dncode cost time:1832.33221698s
+DEBUG:root:end time:2020-05-21 21:49:42
+DEBUG:root:cost time:2392.53840899s
+DEBUG:root:start time:2020-05-21 21:49:42
+INFO:root:currect file name:狂人日记.txt
+INFO:root:Reading the file. This may take a few mintues
+DEBUG:root:Input file has 17615 bytes
+DEBUG:root:Padded the file with 17 zero to have a round number of blocks of data
+INFO:root:File MD5 is 2481c01e9da80cf6643445a4f40f7507
+INFO:root:There are 551 input segments
+INFO:root:Upper bounds on packets for decoding is 657 (x1.194142)  with 0.001000 probability
+
+
+Valid oligos: 100%|█████████▉| 125081/125681 [04:24<00:02, 281.52it/s]
+Valid oligos: 100%|█████████▉| 125112/125681 [04:24<00:01, 286.22it/s]
+Valid oligos: 100%|█████████▉| 125142/125681 [04:24<00:01, 280.30it/s]
+Valid oligos: 100%|█████████▉| 125178/125681 [04:24<00:01, 299.66it/s]
+Valid oligos: 100%|█████████▉| 125209/125681 [04:24<00:01, 297.12it/s]
+Valid oligos: 100%|█████████▉| 125247/125681 [04:25<00:01, 316.53it/s]
+Valid oligos: 100%|█████████▉| 125287/125681 [04:25<00:01, 335.94it/s]
+Valid oligos: 100%|█████████▉| 125322/125681 [04:25<00:01, 325.88it/s]
+Valid oligos: 100%|█████████▉| 125356/125681 [04:25<00:01, 307.85it/s]
+Valid oligos: 100%|█████████▉| 125388/125681 [04:25<00:00, 300.90it/s]
+Valid oligos: 100%|█████████▉| 125423/125681 [04:25<00:00, 314.08it/s]
+Valid oligos: 100%|█████████▉| 125458/125681 [04:25<00:00, 321.99it/s]
+Valid oligos: 100%|█████████▉| 125491/125681 [04:25<00:00, 318.06it/s]
+Valid oligos: 100%|█████████▉| 125524/125681 [04:25<00:00, 292.58it/s]
+Valid oligos: 100%|█████████▉| 125554/125681 [04:26<00:00, 280.85it/s]
+Valid oligos: 100%|█████████▉| 125587/125681 [04:26<00:00, 293.77it/s]
+Valid oligos: 100%|█████████▉| 125619/125681 [04:26<00:00, 299.43it/s]
+Valid oligos: 100%|█████████▉| 125652/125681 [04:26<00:00, 299.46it/s]
+Valid oligos: 100%|██████████| 125681/125681 [04:26<00:00, 471.68it/s]
+INFO:root:Finished. Generated 125681 packets out of 1310283 tries (0.096)
+DEBUG:root:encode cost time:266.479607105s
+INFO:root:After reading 820 lines, 551 chunks are done. So far: 21 rejections (0.025610) 820 barcodes
+INFO:root:Done!
+INFO:root:MD5 is 2481c01e9da80cf6643445a4f40f7507
+DEBUG:root:dncode cost time:0.843955993652s
+DEBUG:root:end time:2020-05-21 21:54:09
+DEBUG:root:cost time:267.323563099s
+DEBUG:root:start time:2020-05-21 21:54:09
+INFO:root:currect file name:红楼梦.txt
+INFO:root:Reading the file. This may take a few mintues
+DEBUG:root:Input file has 2603784 bytes
+DEBUG:root:Padded the file with 24 zero to have a round number of blocks of data
+INFO:root:File MD5 is e33aa6fa5c3964af6caac39e780e308d
+INFO:root:There are 81369 input segments
+INFO:root:Upper bounds on packets for decoding is 83809 (x1.029996)  with 0.001000 probability
+
+
+Valid oligos: 100%|█████████▉| 125072/125681 [07:58<00:01, 384.87it/s]
+Valid oligos: 100%|█████████▉| 125112/125681 [07:58<00:01, 361.40it/s]
+Valid oligos: 100%|█████████▉| 125150/125681 [07:58<00:01, 341.48it/s]
+Valid oligos: 100%|█████████▉| 125199/125681 [07:58<00:01, 371.29it/s]
+Valid oligos: 100%|█████████▉| 125240/125681 [07:58<00:01, 378.89it/s]
+Valid oligos: 100%|█████████▉| 125282/125681 [07:59<00:01, 388.76it/s]
+Valid oligos: 100%|█████████▉| 125328/125681 [07:59<00:00, 404.75it/s]
+Valid oligos: 100%|█████████▉| 125370/125681 [07:59<00:00, 381.49it/s]
+Valid oligos: 100%|█████████▉| 125409/125681 [07:59<00:00, 378.70it/s]
+Valid oligos: 100%|█████████▉| 125448/125681 [07:59<00:00, 364.76it/s]
+Valid oligos: 100%|█████████▉| 125485/125681 [07:59<00:00, 360.83it/s]
+Valid oligos: 100%|█████████▉| 125527/125681 [07:59<00:00, 373.38it/s]
+Valid oligos: 100%|█████████▉| 125577/125681 [07:59<00:00, 403.43it/s]
+Valid oligos: 100%|█████████▉| 125619/125681 [07:59<00:00, 405.65it/s]
+Valid oligos: 100%|█████████▉| 125661/125681 [07:59<00:00, 403.32it/s]
+Valid oligos: 100%|██████████| 125681/125681 [08:00<00:00, 261.82it/s]
+INFO:root:Finished. Generated 125681 packets out of 1632836 tries (0.077)
+DEBUG:root:encode cost time:480.722415924s
+INFO:root:After reading 1000 lines, 1 chunks are done. So far: 30 rejections (0.030000) 1000 barcodes
+INFO:root:After reading 2000 lines, 2 chunks are done. So far: 63 rejections (0.031500) 2000 barcodes
+INFO:root:After reading 3000 lines, 5 chunks are done. So far: 94 rejections (0.031333) 3000 barcodes
+INFO:root:After reading 4000 lines, 10 chunks are done. So far: 125 rejections (0.031250) 4000 barcodes
+INFO:root:After reading 5000 lines, 13 chunks are done. So far: 157 rejections (0.031400) 5000 barcodes
+INFO:root:After reading 6000 lines, 14 chunks are done. So far: 189 rejections (0.031500) 6000 barcodes
+INFO:root:After reading 7000 lines, 19 chunks are done. So far: 233 rejections (0.033286) 7000 barcodes
+INFO:root:After reading 8000 lines, 22 chunks are done. So far: 270 rejections (0.033750) 8000 barcodes
+INFO:root:After reading 9000 lines, 23 chunks are done. So far: 310 rejections (0.034444) 9000 barcodes
+INFO:root:After reading 10000 lines, 24 chunks are done. So far: 343 rejections (0.034300) 10000 barcodes
+INFO:root:After reading 11000 lines, 27 chunks are done. So far: 372 rejections (0.033818) 11000 barcodes
+INFO:root:After reading 12000 lines, 31 chunks are done. So far: 406 rejections (0.033833) 12000 barcodes
+INFO:root:After reading 13000 lines, 33 chunks are done. So far: 436 rejections (0.033538) 13000 barcodes
+INFO:root:After reading 14000 lines, 35 chunks are done. So far: 471 rejections (0.033643) 14000 barcodes
+INFO:root:After reading 15000 lines, 39 chunks are done. So far: 509 rejections (0.033933) 15000 barcodes
+INFO:root:After reading 16000 lines, 47 chunks are done. So far: 545 rejections (0.034063) 16000 barcodes
+INFO:root:After reading 17000 lines, 50 chunks are done. So far: 579 rejections (0.034059) 17000 barcodes
+INFO:root:After reading 18000 lines, 56 chunks are done. So far: 615 rejections (0.034167) 18000 barcodes
+INFO:root:After reading 19000 lines, 59 chunks are done. So far: 648 rejections (0.034105) 19000 barcodes
+INFO:root:After reading 20000 lines, 64 chunks are done. So far: 696 rejections (0.034800) 20000 barcodes
+INFO:root:After reading 21000 lines, 64 chunks are done. So far: 742 rejections (0.035333) 21000 barcodes
+INFO:root:After reading 22000 lines, 66 chunks are done. So far: 789 rejections (0.035864) 22000 barcodes
+INFO:root:After reading 23000 lines, 68 chunks are done. So far: 829 rejections (0.036043) 23000 barcodes
+INFO:root:After reading 24000 lines, 71 chunks are done. So far: 851 rejections (0.035458) 24000 barcodes
+INFO:root:After reading 25000 lines, 72 chunks are done. So far: 883 rejections (0.035320) 25000 barcodes
+INFO:root:After reading 26000 lines, 74 chunks are done. So far: 916 rejections (0.035231) 26000 barcodes
+INFO:root:After reading 27000 lines, 76 chunks are done. So far: 948 rejections (0.035111) 27000 barcodes
+INFO:root:After reading 28000 lines, 77 chunks are done. So far: 979 rejections (0.034964) 28000 barcodes
+INFO:root:After reading 29000 lines, 83 chunks are done. So far: 1013 rejections (0.034931) 29000 barcodes
+INFO:root:After reading 30000 lines, 85 chunks are done. So far: 1050 rejections (0.035000) 30000 barcodes
+INFO:root:After reading 31000 lines, 92 chunks are done. So far: 1077 rejections (0.034742) 31000 barcodes
+INFO:root:After reading 32000 lines, 92 chunks are done. So far: 1107 rejections (0.034594) 32000 barcodes
+INFO:root:After reading 33000 lines, 94 chunks are done. So far: 1137 rejections (0.034455) 33000 barcodes
+INFO:root:After reading 34000 lines, 100 chunks are done. So far: 1167 rejections (0.034324) 34000 barcodes
+INFO:root:After reading 35000 lines, 107 chunks are done. So far: 1205 rejections (0.034429) 35000 barcodes
+INFO:root:After reading 36000 lines, 108 chunks are done. So far: 1245 rejections (0.034583) 36000 barcodes
+INFO:root:After reading 37000 lines, 117 chunks are done. So far: 1267 rejections (0.034243) 37000 barcodes
+INFO:root:After reading 38000 lines, 117 chunks are done. So far: 1310 rejections (0.034474) 38000 barcodes
+INFO:root:After reading 39000 lines, 119 chunks are done. So far: 1355 rejections (0.034744) 39000 barcodes
+INFO:root:After reading 40000 lines, 127 chunks are done. So far: 1391 rejections (0.034775) 40000 barcodes
+INFO:root:After reading 41000 lines, 128 chunks are done. So far: 1433 rejections (0.034951) 41000 barcodes
+INFO:root:After reading 42000 lines, 144 chunks are done. So far: 1470 rejections (0.035000) 42000 barcodes
+INFO:root:After reading 43000 lines, 145 chunks are done. So far: 1514 rejections (0.035209) 43000 barcodes
+INFO:root:After reading 44000 lines, 149 chunks are done. So far: 1541 rejections (0.035023) 44000 barcodes
+INFO:root:After reading 45000 lines, 155 chunks are done. So far: 1582 rejections (0.035156) 45000 barcodes
+INFO:root:After reading 46000 lines, 163 chunks are done. So far: 1616 rejections (0.035130) 46000 barcodes
+INFO:root:After reading 47000 lines, 190 chunks are done. So far: 1652 rejections (0.035149) 47000 barcodes
+INFO:root:After reading 48000 lines, 194 chunks are done. So far: 1671 rejections (0.034813) 48000 barcodes
+INFO:root:After reading 49000 lines, 196 chunks are done. So far: 1699 rejections (0.034673) 49000 barcodes
+INFO:root:After reading 50000 lines, 198 chunks are done. So far: 1747 rejections (0.034940) 50000 barcodes
+INFO:root:After reading 51000 lines, 207 chunks are done. So far: 1780 rejections (0.034902) 51000 barcodes
+INFO:root:After reading 52000 lines, 213 chunks are done. So far: 1812 rejections (0.034846) 52000 barcodes
+INFO:root:After reading 53000 lines, 214 chunks are done. So far: 1850 rejections (0.034906) 53000 barcodes
+INFO:root:After reading 54000 lines, 217 chunks are done. So far: 1884 rejections (0.034889) 54000 barcodes
+INFO:root:After reading 55000 lines, 223 chunks are done. So far: 1922 rejections (0.034945) 55000 barcodes
+INFO:root:After reading 56000 lines, 241 chunks are done. So far: 1955 rejections (0.034911) 56000 barcodes
+INFO:root:After reading 57000 lines, 247 chunks are done. So far: 2000 rejections (0.035088) 57000 barcodes
+INFO:root:After reading 58000 lines, 264 chunks are done. So far: 2027 rejections (0.034948) 58000 barcodes
+INFO:root:After reading 59000 lines, 283 chunks are done. So far: 2061 rejections (0.034932) 59000 barcodes
+INFO:root:After reading 60000 lines, 299 chunks are done. So far: 2099 rejections (0.034983) 60000 barcodes
+INFO:root:After reading 61000 lines, 320 chunks are done. So far: 2132 rejections (0.034951) 61000 barcodes
+INFO:root:After reading 62000 lines, 335 chunks are done. So far: 2167 rejections (0.034952) 62000 barcodes
+INFO:root:After reading 63000 lines, 342 chunks are done. So far: 2199 rejections (0.034905) 63000 barcodes
+INFO:root:After reading 64000 lines, 352 chunks are done. So far: 2231 rejections (0.034859) 64000 barcodes
+INFO:root:After reading 65000 lines, 355 chunks are done. So far: 2265 rejections (0.034846) 65000 barcodes
+INFO:root:After reading 66000 lines, 362 chunks are done. So far: 2299 rejections (0.034833) 66000 barcodes
+INFO:root:After reading 67000 lines, 370 chunks are done. So far: 2326 rejections (0.034716) 67000 barcodes
+INFO:root:After reading 68000 lines, 376 chunks are done. So far: 2361 rejections (0.034721) 68000 barcodes
+INFO:root:After reading 69000 lines, 378 chunks are done. So far: 2401 rejections (0.034797) 69000 barcodes
+INFO:root:After reading 70000 lines, 381 chunks are done. So far: 2443 rejections (0.034900) 70000 barcodes
+INFO:root:After reading 71000 lines, 394 chunks are done. So far: 2478 rejections (0.034901) 71000 barcodes
+INFO:root:After reading 72000 lines, 404 chunks are done. So far: 2506 rejections (0.034806) 72000 barcodes
+INFO:root:After reading 73000 lines, 448 chunks are done. So far: 2540 rejections (0.034795) 73000 barcodes
+INFO:root:After reading 74000 lines, 466 chunks are done. So far: 2572 rejections (0.034757) 74000 barcodes
+INFO:root:After reading 75000 lines, 476 chunks are done. So far: 2609 rejections (0.034787) 75000 barcodes
+INFO:root:After reading 76000 lines, 482 chunks are done. So far: 2648 rejections (0.034842) 76000 barcodes
+INFO:root:After reading 77000 lines, 527 chunks are done. So far: 2688 rejections (0.034909) 77000 barcodes
+INFO:root:After reading 78000 lines, 538 chunks are done. So far: 2725 rejections (0.034936) 78000 barcodes
+INFO:root:After reading 79000 lines, 564 chunks are done. So far: 2766 rejections (0.035013) 79000 barcodes
+INFO:root:After reading 80000 lines, 611 chunks are done. So far: 2801 rejections (0.035013) 80000 barcodes
+INFO:root:After reading 81000 lines, 615 chunks are done. So far: 2833 rejections (0.034975) 81000 barcodes
+INFO:root:After reading 82000 lines, 632 chunks are done. So far: 2869 rejections (0.034988) 82000 barcodes
+INFO:root:After reading 83000 lines, 650 chunks are done. So far: 2900 rejections (0.034940) 83000 barcodes
+INFO:root:After reading 84000 lines, 659 chunks are done. So far: 2937 rejections (0.034964) 84000 barcodes
+INFO:root:After reading 85000 lines, 690 chunks are done. So far: 2966 rejections (0.034894) 85000 barcodes
+INFO:root:After reading 86000 lines, 698 chunks are done. So far: 3016 rejections (0.035070) 86000 barcodes
+INFO:root:After reading 87000 lines, 765 chunks are done. So far: 3054 rejections (0.035103) 87000 barcodes
+INFO:root:After reading 88000 lines, 782 chunks are done. So far: 3083 rejections (0.035034) 88000 barcodes
+INFO:root:After reading 89000 lines, 852 chunks are done. So far: 3110 rejections (0.034944) 89000 barcodes
+INFO:root:After reading 90000 lines, 872 chunks are done. So far: 3148 rejections (0.034978) 90000 barcodes
+INFO:root:After reading 91000 lines, 1002 chunks are done. So far: 3178 rejections (0.034923) 91000 barcodes
+INFO:root:After reading 92000 lines, 1052 chunks are done. So far: 3211 rejections (0.034902) 92000 barcodes
+INFO:root:After reading 93000 lines, 1084 chunks are done. So far: 3250 rejections (0.034946) 93000 barcodes
+INFO:root:After reading 94000 lines, 1169 chunks are done. So far: 3285 rejections (0.034947) 94000 barcodes
+INFO:root:After reading 95000 lines, 1332 chunks are done. So far: 3319 rejections (0.034937) 95000 barcodes
+INFO:root:After reading 96000 lines, 1398 chunks are done. So far: 3349 rejections (0.034885) 96000 barcodes
+INFO:root:After reading 97000 lines, 1427 chunks are done. So far: 3381 rejections (0.034856) 97000 barcodes
+INFO:root:After reading 98000 lines, 1529 chunks are done. So far: 3411 rejections (0.034806) 98000 barcodes
+INFO:root:After reading 99000 lines, 1557 chunks are done. So far: 3440 rejections (0.034747) 99000 barcodes
+INFO:root:After reading 100000 lines, 1782 chunks are done. So far: 3471 rejections (0.034710) 100000 barcodes
+INFO:root:After reading 101000 lines, 1869 chunks are done. So far: 3496 rejections (0.034614) 101000 barcodes
+INFO:root:After reading 102000 lines, 1948 chunks are done. So far: 3538 rejections (0.034686) 102000 barcodes
+INFO:root:After reading 103000 lines, 2134 chunks are done. So far: 3568 rejections (0.034641) 103000 barcodes
+INFO:root:After reading 104000 lines, 2196 chunks are done. So far: 3597 rejections (0.034587) 104000 barcodes
+INFO:root:After reading 105000 lines, 3372 chunks are done. So far: 3633 rejections (0.034600) 105000 barcodes
+INFO:root:After reading 106000 lines, 4010 chunks are done. So far: 3659 rejections (0.034519) 106000 barcodes
+INFO:root:After reading 107000 lines, 4595 chunks are done. So far: 3702 rejections (0.034598) 107000 barcodes
+INFO:root:After reading 107732 lines, 81369 chunks are done. So far: 3734 rejections (0.034660) 107732 barcodes
+INFO:root:Done!
+INFO:root:MD5 is e33aa6fa5c3964af6caac39e780e308d
+DEBUG:root:dncode cost time:695.452541113s
+DEBUG:root:end time:2020-05-21 22:13:46
+DEBUG:root:cost time:1176.17495704s
+DEBUG:root:start time:2020-05-21 22:13:46
+INFO:root:currect file name:繁星·春水.txt
+INFO:root:Reading the file. This may take a few mintues
+DEBUG:root:Input file has 89014 bytes
+DEBUG:root:Padded the file with 10 zero to have a round number of blocks of data
+INFO:root:File MD5 is d06ac51e87aebc1031284d7c732c6b34
+INFO:root:There are 2782 input segments
+INFO:root:Upper bounds on packets for decoding is 3083 (x1.108390)  with 0.001000 probability
+
+
+Valid oligos: 100%|█████████▉| 125058/125681 [05:53<00:01, 585.39it/s]
+Valid oligos: 100%|█████████▉| 125117/125681 [05:53<00:00, 564.01it/s]
+Valid oligos: 100%|█████████▉| 125182/125681 [05:53<00:00, 587.10it/s]
+Valid oligos: 100%|█████████▉| 125242/125681 [05:53<00:00, 566.90it/s]
+Valid oligos: 100%|█████████▉| 125300/125681 [05:53<00:00, 532.04it/s]
+Valid oligos: 100%|█████████▉| 125365/125681 [05:53<00:00, 557.15it/s]
+Valid oligos: 100%|█████████▉| 125423/125681 [05:53<00:00, 554.49it/s]
+Valid oligos: 100%|█████████▉| 125492/125681 [05:54<00:00, 588.87it/s]
+Valid oligos: 100%|█████████▉| 125552/125681 [05:54<00:00, 569.93it/s]
+Valid oligos: 100%|█████████▉| 125610/125681 [05:54<00:00, 525.42it/s]
+Valid oligos: 100%|█████████▉| 125672/125681 [05:54<00:00, 549.92it/s]
+Valid oligos: 100%|██████████| 125681/125681 [05:54<00:00, 354.62it/s]
+INFO:root:Finished. Generated 125681 packets out of 1225248 tries (0.103)
+DEBUG:root:encode cost time:354.462391853s
+INFO:root:After reading 1000 lines, 26 chunks are done. So far: 22 rejections (0.022000) 1000 barcodes
+INFO:root:After reading 2000 lines, 84 chunks are done. So far: 43 rejections (0.021500) 2000 barcodes
+INFO:root:After reading 3000 lines, 162 chunks are done. So far: 57 rejections (0.019000) 3000 barcodes
+INFO:root:After reading 3926 lines, 2782 chunks are done. So far: 77 rejections (0.019613) 3926 barcodes
+INFO:root:Done!
+INFO:root:MD5 is d06ac51e87aebc1031284d7c732c6b34
+DEBUG:root:dncode cost time:2.86352801323s
+DEBUG:root:end time:2020-05-21 22:19:43
+DEBUG:root:cost time:357.325919867s
+DEBUG:root:start time:2020-05-21 22:19:43
+INFO:root:currect file name:钢铁是怎样炼成的英文版.txt
+INFO:root:Reading the file. This may take a few mintues
+DEBUG:root:Input file has 417779 bytes
+DEBUG:root:Padded the file with 13 zero to have a round number of blocks of data
+INFO:root:File MD5 is caaa9c89cfe8804f12a8637c368075d4
+INFO:root:There are 13056 input segments
+INFO:root:Upper bounds on packets for decoding is 13849 (x1.060788)  with 0.001000 probability
+
+
+Valid oligos: 100%|█████████▉| 125053/125681 [06:38<00:02, 289.58it/s]
+Valid oligos: 100%|█████████▉| 125088/125681 [06:38<00:01, 303.42it/s]
+Valid oligos: 100%|█████████▉| 125137/125681 [06:38<00:01, 341.83it/s]
+Valid oligos: 100%|█████████▉| 125174/125681 [06:38<00:01, 335.12it/s]
+Valid oligos: 100%|█████████▉| 125209/125681 [06:39<00:01, 337.86it/s]
+Valid oligos: 100%|█████████▉| 125244/125681 [06:39<00:01, 329.08it/s]
+Valid oligos: 100%|█████████▉| 125278/125681 [06:39<00:01, 316.68it/s]
+Valid oligos: 100%|█████████▉| 125311/125681 [06:39<00:01, 293.78it/s]
+Valid oligos: 100%|█████████▉| 125342/125681 [06:39<00:01, 293.92it/s]
+Valid oligos: 100%|█████████▉| 125375/125681 [06:39<00:01, 302.91it/s]
+Valid oligos: 100%|█████████▉| 125406/125681 [06:39<00:00, 287.38it/s]
+Valid oligos: 100%|█████████▉| 125441/125681 [06:39<00:00, 300.46it/s]
+Valid oligos: 100%|█████████▉| 125473/125681 [06:39<00:00, 301.75it/s]
+Valid oligos: 100%|█████████▉| 125513/125681 [06:40<00:00, 317.23it/s]
+Valid oligos: 100%|█████████▉| 125551/125681 [06:40<00:00, 331.77it/s]
+Valid oligos: 100%|█████████▉| 125590/125681 [06:40<00:00, 340.24it/s]
+Valid oligos: 100%|█████████▉| 125626/125681 [06:40<00:00, 344.49it/s]
+Valid oligos: 100%|█████████▉| 125676/125681 [06:40<00:00, 377.35it/s]
+Valid oligos: 100%|██████████| 125681/125681 [06:40<00:00, 313.77it/s]
+INFO:root:Finished. Generated 125681 packets out of 1197224 tries (0.105)
+DEBUG:root:encode cost time:400.66009903s
+INFO:root:After reading 1000 lines, 0 chunks are done. So far: 21 rejections (0.021000) 1000 barcodes
+INFO:root:After reading 2000 lines, 3 chunks are done. So far: 46 rejections (0.023000) 2000 barcodes
+INFO:root:After reading 3000 lines, 4 chunks are done. So far: 62 rejections (0.020667) 3000 barcodes
+INFO:root:After reading 4000 lines, 8 chunks are done. So far: 77 rejections (0.019250) 4000 barcodes
+INFO:root:After reading 5000 lines, 10 chunks are done. So far: 103 rejections (0.020600) 5000 barcodes
+INFO:root:After reading 6000 lines, 11 chunks are done. So far: 126 rejections (0.021000) 6000 barcodes
+INFO:root:After reading 7000 lines, 11 chunks are done. So far: 148 rejections (0.021143) 7000 barcodes
+INFO:root:After reading 8000 lines, 11 chunks are done. So far: 166 rejections (0.020750) 8000 barcodes
+INFO:root:After reading 9000 lines, 11 chunks are done. So far: 186 rejections (0.020667) 9000 barcodes
+INFO:root:After reading 10000 lines, 14 chunks are done. So far: 200 rejections (0.020000) 10000 barcodes
+INFO:root:After reading 11000 lines, 17 chunks are done. So far: 223 rejections (0.020273) 11000 barcodes
+INFO:root:After reading 12000 lines, 20 chunks are done. So far: 237 rejections (0.019750) 12000 barcodes
+INFO:root:After reading 13000 lines, 21 chunks are done. So far: 257 rejections (0.019769) 13000 barcodes
+INFO:root:After reading 14000 lines, 24 chunks are done. So far: 269 rejections (0.019214) 14000 barcodes
+INFO:root:After reading 15000 lines, 28 chunks are done. So far: 292 rejections (0.019467) 15000 barcodes
+INFO:root:After reading 16000 lines, 29 chunks are done. So far: 309 rejections (0.019312) 16000 barcodes
+INFO:root:After reading 17000 lines, 30 chunks are done. So far: 330 rejections (0.019412) 17000 barcodes
+INFO:root:After reading 18000 lines, 32 chunks are done. So far: 350 rejections (0.019444) 18000 barcodes
+INFO:root:After reading 19000 lines, 38 chunks are done. So far: 371 rejections (0.019526) 19000 barcodes
+INFO:root:After reading 20000 lines, 38 chunks are done. So far: 398 rejections (0.019900) 20000 barcodes
+INFO:root:After reading 21000 lines, 39 chunks are done. So far: 422 rejections (0.020095) 21000 barcodes
+INFO:root:After reading 22000 lines, 40 chunks are done. So far: 441 rejections (0.020045) 22000 barcodes
+INFO:root:After reading 23000 lines, 40 chunks are done. So far: 460 rejections (0.020000) 23000 barcodes
+INFO:root:After reading 24000 lines, 41 chunks are done. So far: 480 rejections (0.020000) 24000 barcodes
+INFO:root:After reading 25000 lines, 47 chunks are done. So far: 505 rejections (0.020200) 25000 barcodes
+INFO:root:After reading 26000 lines, 51 chunks are done. So far: 526 rejections (0.020231) 26000 barcodes
+INFO:root:After reading 27000 lines, 54 chunks are done. So far: 542 rejections (0.020074) 27000 barcodes
+INFO:root:After reading 28000 lines, 54 chunks are done. So far: 568 rejections (0.020286) 28000 barcodes
+INFO:root:After reading 29000 lines, 60 chunks are done. So far: 582 rejections (0.020069) 29000 barcodes
+INFO:root:After reading 30000 lines, 62 chunks are done. So far: 609 rejections (0.020300) 30000 barcodes
+INFO:root:After reading 31000 lines, 70 chunks are done. So far: 632 rejections (0.020387) 31000 barcodes
+INFO:root:After reading 32000 lines, 71 chunks are done. So far: 653 rejections (0.020406) 32000 barcodes
+INFO:root:After reading 33000 lines, 74 chunks are done. So far: 677 rejections (0.020515) 33000 barcodes
+INFO:root:After reading 34000 lines, 78 chunks are done. So far: 693 rejections (0.020382) 34000 barcodes
+INFO:root:After reading 35000 lines, 92 chunks are done. So far: 732 rejections (0.020914) 35000 barcodes
+INFO:root:After reading 36000 lines, 114 chunks are done. So far: 761 rejections (0.021139) 36000 barcodes
+INFO:root:After reading 37000 lines, 118 chunks are done. So far: 772 rejections (0.020865) 37000 barcodes
+INFO:root:After reading 38000 lines, 120 chunks are done. So far: 791 rejections (0.020816) 38000 barcodes
+INFO:root:After reading 39000 lines, 143 chunks are done. So far: 812 rejections (0.020821) 39000 barcodes
+INFO:root:After reading 40000 lines, 149 chunks are done. So far: 828 rejections (0.020700) 40000 barcodes
+INFO:root:After reading 41000 lines, 155 chunks are done. So far: 850 rejections (0.020732) 41000 barcodes
+INFO:root:After reading 42000 lines, 191 chunks are done. So far: 868 rejections (0.020667) 42000 barcodes
+INFO:root:After reading 43000 lines, 213 chunks are done. So far: 896 rejections (0.020837) 43000 barcodes
+INFO:root:After reading 44000 lines, 222 chunks are done. So far: 915 rejections (0.020795) 44000 barcodes
+INFO:root:After reading 45000 lines, 234 chunks are done. So far: 935 rejections (0.020778) 45000 barcodes
+INFO:root:After reading 45952 lines, 13056 chunks are done. So far: 958 rejections (0.020848) 45952 barcodes
+INFO:root:Done!
+INFO:root:MD5 is caaa9c89cfe8804f12a8637c368075d4
+DEBUG:root:dncode cost time:80.5132060051s
+DEBUG:root:end time:2020-05-21 22:27:44
+DEBUG:root:cost time:481.173305035s
+DEBUG:root:start time:2020-05-21 22:27:44
+INFO:root:currect file name:史蒂夫·乔布斯传.txt
+INFO:root:Reading the file. This may take a few mintues
+DEBUG:root:Input file has 1289882 bytes
+DEBUG:root:Padded the file with 6 zero to have a round number of blocks of data
+INFO:root:File MD5 is 032682d48b2b3ff6bbce7eee8c595b4d
+INFO:root:There are 40309 input segments
+INFO:root:Upper bounds on packets for decoding is 41898 (x1.039440)  with 0.001000 probability
+
+
+Valid oligos: 100%|█████████▉| 125069/125681 [07:19<00:02, 235.67it/s]
+Valid oligos: 100%|█████████▉| 125094/125681 [07:20<00:02, 213.29it/s]
+Valid oligos: 100%|█████████▉| 125128/125681 [07:20<00:02, 239.69it/s]
+Valid oligos: 100%|█████████▉| 125154/125681 [07:20<00:02, 235.31it/s]
+Valid oligos: 100%|█████████▉| 125183/125681 [07:20<00:02, 248.03it/s]
+Valid oligos: 100%|█████████▉| 125209/125681 [07:20<00:02, 232.53it/s]
+Valid oligos: 100%|█████████▉| 125235/125681 [07:20<00:01, 239.25it/s]
+Valid oligos: 100%|█████████▉| 125260/125681 [07:20<00:01, 216.09it/s]
+Valid oligos: 100%|█████████▉| 125295/125681 [07:20<00:01, 243.78it/s]
+Valid oligos: 100%|█████████▉| 125322/125681 [07:21<00:01, 234.13it/s]
+Valid oligos: 100%|█████████▉| 125349/125681 [07:21<00:01, 243.35it/s]
+Valid oligos: 100%|█████████▉| 125378/125681 [07:21<00:01, 255.08it/s]
+Valid oligos: 100%|█████████▉| 125405/125681 [07:21<00:01, 249.72it/s]
+Valid oligos: 100%|█████████▉| 125431/125681 [07:21<00:00, 251.08it/s]
+Valid oligos: 100%|█████████▉| 125457/125681 [07:21<00:00, 239.22it/s]
+Valid oligos: 100%|█████████▉| 125482/125681 [07:21<00:00, 237.18it/s]
+Valid oligos: 100%|█████████▉| 125509/125681 [07:21<00:00, 245.73it/s]
+Valid oligos: 100%|█████████▉| 125541/125681 [07:21<00:00, 257.33it/s]
+Valid oligos: 100%|█████████▉| 125572/125681 [07:21<00:00, 268.02it/s]
+Valid oligos: 100%|█████████▉| 125606/125681 [07:22<00:00, 283.50it/s]
+Valid oligos: 100%|█████████▉| 125635/125681 [07:22<00:00, 282.37it/s]
+Valid oligos: 100%|█████████▉| 125664/125681 [07:22<00:00, 262.57it/s]
+Valid oligos: 100%|██████████| 125681/125681 [07:22<00:00, 284.06it/s]
+INFO:root:Finished. Generated 125681 packets out of 1384466 tries (0.091)
+DEBUG:root:encode cost time:442.871568918s
+INFO:root:After reading 1000 lines, 7 chunks are done. So far: 27 rejections (0.027000) 1000 barcodes
+INFO:root:After reading 2000 lines, 12 chunks are done. So far: 53 rejections (0.026500) 2000 barcodes
+INFO:root:After reading 3000 lines, 14 chunks are done. So far: 81 rejections (0.027000) 3000 barcodes
+INFO:root:After reading 4000 lines, 16 chunks are done. So far: 105 rejections (0.026250) 4000 barcodes
+INFO:root:After reading 5000 lines, 20 chunks are done. So far: 139 rejections (0.027800) 5000 barcodes
+INFO:root:After reading 6000 lines, 21 chunks are done. So far: 166 rejections (0.027667) 6000 barcodes
+INFO:root:After reading 7000 lines, 21 chunks are done. So far: 195 rejections (0.027857) 7000 barcodes
+INFO:root:After reading 8000 lines, 27 chunks are done. So far: 225 rejections (0.028125) 8000 barcodes
+INFO:root:After reading 9000 lines, 29 chunks are done. So far: 251 rejections (0.027889) 9000 barcodes
+INFO:root:After reading 10000 lines, 32 chunks are done. So far: 277 rejections (0.027700) 10000 barcodes
+INFO:root:After reading 11000 lines, 42 chunks are done. So far: 298 rejections (0.027091) 11000 barcodes
+INFO:root:After reading 12000 lines, 43 chunks are done. So far: 319 rejections (0.026583) 12000 barcodes
+INFO:root:After reading 13000 lines, 47 chunks are done. So far: 345 rejections (0.026538) 13000 barcodes
+INFO:root:After reading 14000 lines, 49 chunks are done. So far: 374 rejections (0.026714) 14000 barcodes
+INFO:root:After reading 15000 lines, 59 chunks are done. So far: 404 rejections (0.026933) 15000 barcodes
+INFO:root:After reading 16000 lines, 60 chunks are done. So far: 443 rejections (0.027688) 16000 barcodes
+INFO:root:After reading 17000 lines, 68 chunks are done. So far: 459 rejections (0.027000) 17000 barcodes
+INFO:root:After reading 18000 lines, 72 chunks are done. So far: 485 rejections (0.026944) 18000 barcodes
+INFO:root:After reading 19000 lines, 77 chunks are done. So far: 508 rejections (0.026737) 19000 barcodes
+INFO:root:After reading 20000 lines, 85 chunks are done. So far: 542 rejections (0.027100) 20000 barcodes
+INFO:root:After reading 21000 lines, 89 chunks are done. So far: 574 rejections (0.027333) 21000 barcodes
+INFO:root:After reading 22000 lines, 93 chunks are done. So far: 598 rejections (0.027182) 22000 barcodes
+INFO:root:After reading 23000 lines, 97 chunks are done. So far: 631 rejections (0.027435) 23000 barcodes
+INFO:root:After reading 24000 lines, 105 chunks are done. So far: 664 rejections (0.027667) 24000 barcodes
+INFO:root:After reading 25000 lines, 119 chunks are done. So far: 701 rejections (0.028040) 25000 barcodes
+INFO:root:After reading 26000 lines, 127 chunks are done. So far: 747 rejections (0.028731) 26000 barcodes
+INFO:root:After reading 27000 lines, 139 chunks are done. So far: 779 rejections (0.028852) 27000 barcodes
+INFO:root:After reading 28000 lines, 148 chunks are done. So far: 802 rejections (0.028643) 28000 barcodes
+INFO:root:After reading 29000 lines, 150 chunks are done. So far: 835 rejections (0.028793) 29000 barcodes
+INFO:root:After reading 30000 lines, 156 chunks are done. So far: 865 rejections (0.028833) 30000 barcodes
+INFO:root:After reading 31000 lines, 165 chunks are done. So far: 897 rejections (0.028935) 31000 barcodes
+INFO:root:After reading 32000 lines, 173 chunks are done. So far: 930 rejections (0.029063) 32000 barcodes
+INFO:root:After reading 33000 lines, 190 chunks are done. So far: 955 rejections (0.028939) 33000 barcodes
+INFO:root:After reading 34000 lines, 196 chunks are done. So far: 994 rejections (0.029235) 34000 barcodes
+INFO:root:After reading 35000 lines, 227 chunks are done. So far: 1022 rejections (0.029200) 35000 barcodes
+INFO:root:After reading 36000 lines, 235 chunks are done. So far: 1060 rejections (0.029444) 36000 barcodes
+INFO:root:After reading 37000 lines, 265 chunks are done. So far: 1090 rejections (0.029459) 37000 barcodes
+INFO:root:After reading 38000 lines, 287 chunks are done. So far: 1122 rejections (0.029526) 38000 barcodes
+INFO:root:After reading 39000 lines, 302 chunks are done. So far: 1149 rejections (0.029462) 39000 barcodes
+INFO:root:After reading 40000 lines, 319 chunks are done. So far: 1173 rejections (0.029325) 40000 barcodes
+INFO:root:After reading 41000 lines, 326 chunks are done. So far: 1203 rejections (0.029341) 41000 barcodes
+INFO:root:After reading 42000 lines, 337 chunks are done. So far: 1228 rejections (0.029238) 42000 barcodes
+INFO:root:After reading 43000 lines, 416 chunks are done. So far: 1253 rejections (0.029140) 43000 barcodes
+INFO:root:After reading 44000 lines, 486 chunks are done. So far: 1279 rejections (0.029068) 44000 barcodes
+INFO:root:After reading 45000 lines, 639 chunks are done. So far: 1317 rejections (0.029267) 45000 barcodes
+INFO:root:After reading 46000 lines, 742 chunks are done. So far: 1348 rejections (0.029304) 46000 barcodes
+INFO:root:After reading 47000 lines, 936 chunks are done. So far: 1376 rejections (0.029277) 47000 barcodes
+INFO:root:After reading 48000 lines, 1116 chunks are done. So far: 1399 rejections (0.029146) 48000 barcodes
+INFO:root:After reading 49000 lines, 1331 chunks are done. So far: 1425 rejections (0.029082) 49000 barcodes
+INFO:root:After reading 50000 lines, 1896 chunks are done. So far: 1446 rejections (0.028920) 50000 barcodes
+INFO:root:After reading 50948 lines, 40309 chunks are done. So far: 1477 rejections (0.028990) 50948 barcodes
+INFO:root:Done!
+INFO:root:MD5 is 032682d48b2b3ff6bbce7eee8c595b4d
+DEBUG:root:dncode cost time:239.704453945s
+DEBUG:root:end time:2020-05-21 22:39:07
+DEBUG:root:cost time:682.576022863s
+DEBUG:root:start time:2020-05-21 22:39:07
+INFO:root:currect file name:童年.txt
+INFO:root:Reading the file. This may take a few mintues
+DEBUG:root:Input file has 282335 bytes
+DEBUG:root:Padded the file with 1 zero to have a round number of blocks of data
+INFO:root:File MD5 is e08a1190afa4ebf918aea31edcf0558b
+INFO:root:There are 8823 input segments
+INFO:root:Upper bounds on packets for decoding is 9445 (x1.070505)  with 0.001000 probability
+
+
+Valid oligos: 100%|█████████▉| 125074/125681 [06:25<00:02, 239.24it/s]
+Valid oligos: 100%|█████████▉| 125099/125681 [06:25<00:02, 237.46it/s]
+Valid oligos: 100%|█████████▉| 125125/125681 [06:25<00:02, 242.21it/s]
+Valid oligos: 100%|█████████▉| 125153/125681 [06:25<00:02, 249.82it/s]
+Valid oligos: 100%|█████████▉| 125179/125681 [06:25<00:02, 211.14it/s]
+Valid oligos: 100%|█████████▉| 125202/125681 [06:25<00:02, 199.54it/s]
+Valid oligos: 100%|█████████▉| 125227/125681 [06:25<00:02, 207.90it/s]
+Valid oligos: 100%|█████████▉| 125249/125681 [06:25<00:02, 196.01it/s]
+Valid oligos: 100%|█████████▉| 125270/125681 [06:26<00:02, 190.03it/s]
+Valid oligos: 100%|█████████▉| 125302/125681 [06:26<00:01, 214.55it/s]
+Valid oligos: 100%|█████████▉| 125335/125681 [06:26<00:01, 239.32it/s]
+Valid oligos: 100%|█████████▉| 125361/125681 [06:26<00:01, 236.03it/s]
+Valid oligos: 100%|█████████▉| 125386/125681 [06:26<00:01, 221.83it/s]
+Valid oligos: 100%|█████████▉| 125416/125681 [06:26<00:01, 230.74it/s]
+Valid oligos: 100%|█████████▉| 125440/125681 [06:26<00:01, 225.91it/s]
+Valid oligos: 100%|█████████▉| 125467/125681 [06:26<00:00, 235.95it/s]
+Valid oligos: 100%|█████████▉| 125492/125681 [06:27<00:00, 198.67it/s]
+Valid oligos: 100%|█████████▉| 125514/125681 [06:27<00:00, 195.70it/s]
+Valid oligos: 100%|█████████▉| 125536/125681 [06:27<00:00, 202.20it/s]
+Valid oligos: 100%|█████████▉| 125565/125681 [06:27<00:00, 220.97it/s]
+Valid oligos: 100%|█████████▉| 125589/125681 [06:27<00:00, 223.11it/s]
+Valid oligos: 100%|█████████▉| 125614/125681 [06:27<00:00, 229.67it/s]
+Valid oligos: 100%|█████████▉| 125645/125681 [06:27<00:00, 248.54it/s]
+Valid oligos: 100%|█████████▉| 125674/125681 [06:27<00:00, 258.05it/s]
+Valid oligos: 100%|██████████| 125681/125681 [06:27<00:00, 324.08it/s]
+INFO:root:Finished. Generated 125681 packets out of 1500051 tries (0.084)
+DEBUG:root:encode cost time:387.916823864s
+INFO:root:After reading 1000 lines, 5 chunks are done. So far: 29 rejections (0.029000) 1000 barcodes
+INFO:root:After reading 2000 lines, 7 chunks are done. So far: 65 rejections (0.032500) 2000 barcodes
+INFO:root:After reading 3000 lines, 9 chunks are done. So far: 92 rejections (0.030667) 3000 barcodes
+INFO:root:After reading 4000 lines, 12 chunks are done. So far: 120 rejections (0.030000) 4000 barcodes
+INFO:root:After reading 5000 lines, 16 chunks are done. So far: 155 rejections (0.031000) 5000 barcodes
+INFO:root:After reading 6000 lines, 28 chunks are done. So far: 188 rejections (0.031333) 6000 barcodes
+INFO:root:After reading 7000 lines, 37 chunks are done. So far: 215 rejections (0.030714) 7000 barcodes
+INFO:root:After reading 8000 lines, 49 chunks are done. So far: 249 rejections (0.031125) 8000 barcodes
+INFO:root:After reading 9000 lines, 70 chunks are done. So far: 280 rejections (0.031111) 9000 barcodes
+INFO:root:After reading 10000 lines, 77 chunks are done. So far: 304 rejections (0.030400) 10000 barcodes
+INFO:root:After reading 11000 lines, 116 chunks are done. So far: 332 rejections (0.030182) 11000 barcodes
+INFO:root:After reading 12000 lines, 173 chunks are done. So far: 358 rejections (0.029833) 12000 barcodes
+INFO:root:After reading 13000 lines, 293 chunks are done. So far: 383 rejections (0.029462) 13000 barcodes
+INFO:root:After reading 13867 lines, 8823 chunks are done. So far: 405 rejections (0.029206) 13867 barcodes
+INFO:root:Done!
+INFO:root:MD5 is e08a1190afa4ebf918aea31edcf0558b
+DEBUG:root:dncode cost time:29.9692909718s
+DEBUG:root:end time:2020-05-21 22:46:05
+DEBUG:root:cost time:417.886114836s
+DEBUG:root:start time:2020-05-21 22:46:05
+INFO:root:currect file name:即兴诗人(节选).txt
+INFO:root:Reading the file. This may take a few mintues
+DEBUG:root:Input file has 121135 bytes
+DEBUG:root:Padded the file with 17 zero to have a round number of blocks of data
+INFO:root:File MD5 is f440a75970c5025c22dbfc62c56e59cb
+INFO:root:There are 3786 input segments
+INFO:root:Upper bounds on packets for decoding is 4152 (x1.096731)  with 0.001000 probability
+
+
+Valid oligos: 100%|█████████▉| 125064/125681 [04:27<00:01, 403.95it/s]
+Valid oligos: 100%|█████████▉| 125105/125681 [04:27<00:01, 381.78it/s]
+Valid oligos: 100%|█████████▉| 125144/125681 [04:27<00:01, 376.69it/s]
+Valid oligos: 100%|█████████▉| 125189/125681 [04:27<00:01, 392.23it/s]
+Valid oligos: 100%|█████████▉| 125231/125681 [04:27<00:01, 399.60it/s]
+Valid oligos: 100%|█████████▉| 125273/125681 [04:27<00:01, 403.89it/s]
+Valid oligos: 100%|█████████▉| 125321/125681 [04:28<00:00, 423.16it/s]
+Valid oligos: 100%|█████████▉| 125364/125681 [04:28<00:00, 394.90it/s]
+Valid oligos: 100%|█████████▉| 125405/125681 [04:28<00:00, 383.28it/s]
+Valid oligos: 100%|█████████▉| 125451/125681 [04:28<00:00, 402.45it/s]
+Valid oligos: 100%|█████████▉| 125492/125681 [04:28<00:00, 379.20it/s]
+Valid oligos: 100%|█████████▉| 125531/125681 [04:28<00:00, 361.40it/s]
+Valid oligos: 100%|█████████▉| 125569/125681 [04:28<00:00, 366.05it/s]
+Valid oligos: 100%|█████████▉| 125607/125681 [04:28<00:00, 367.27it/s]
+Valid oligos: 100%|█████████▉| 125645/125681 [04:28<00:00, 347.56it/s]
+Valid oligos: 100%|██████████| 125681/125681 [04:28<00:00, 467.23it/s]
+INFO:root:Finished. Generated 125681 packets out of 959474 tries (0.131)
+DEBUG:root:encode cost time:269.025869846s
+INFO:root:After reading 1000 lines, 3 chunks are done. So far: 18 rejections (0.018000) 1000 barcodes
+INFO:root:After reading 2000 lines, 18 chunks are done. So far: 39 rejections (0.019500) 2000 barcodes
+INFO:root:After reading 3000 lines, 44 chunks are done. So far: 59 rejections (0.019667) 3000 barcodes
+INFO:root:After reading 4000 lines, 137 chunks are done. So far: 86 rejections (0.021500) 4000 barcodes
+INFO:root:After reading 4397 lines, 3786 chunks are done. So far: 93 rejections (0.021151) 4397 barcodes
+INFO:root:Done!
+INFO:root:MD5 is f440a75970c5025c22dbfc62c56e59cb
+DEBUG:root:dncode cost time:6.25721597672s
+DEBUG:root:end time:2020-05-21 22:50:40
+DEBUG:root:cost time:275.283085823s
+INFO:root:all complete!
